@@ -1,0 +1,2272 @@
+{
+  "_note": "This golden set was produced with the assistance of a premium language model, not assembled by hand. Labels were reviewed for consistency but were not manually authored from scratch.",
+  "methodology": "Stratified sample by data-completeness class (B_rid_only, D_rname_only, E_mid_only, F_orphan). For each recipe: (1) restaurant_id from source if valid, else exact/high-fuzz (>=90) name lookup, else via_menu_id, else null. (2) menu_id from source if valid, else null. (3) ingredients: each token gets expected canonical NAME (not id) \u2014 exact in Ingredients.name, or fuzz>=92, or soft 80-92 retained, or null below 80. Eval compares by name so it is robust to ID-format differences across pipelines.",
+  "records": [
+    {
+      "recipe_id": "RC0639",
+      "recipe_name": "Peruvian Lomo Saltado Stir Fry",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0039",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": []
+    },
+    {
+      "recipe_id": "RC0116",
+      "recipe_name": "Peruvian Lomo Saltado Stir-Fry",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0003",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "beef strips",
+          "expected_name": "beef strips",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomatoes",
+          "expected_name": "tomatoes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "aji amarillo peppers",
+          "expected_name": "aji amarillo peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "rice vinegar",
+          "expected_name": "rice vinegar",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "peanut oil",
+          "expected_name": "peanut oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "scallions",
+          "expected_name": "scallions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fries (optional)",
+          "expected_name": "fries (optional)",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0746",
+      "recipe_name": "Greek Gyro Wrap",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0067",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Lamb or beef gyro meat",
+          "expected_name": "lamb or beef gyro meat",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomato",
+          "expected_name": "tomato",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "red onion",
+          "expected_name": "red onion",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cucumber",
+          "expected_name": "cucumber",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "feta cheese",
+          "expected_name": "feta cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lettuce",
+          "expected_name": "lettuce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tzatziki sauce",
+          "expected_name": "tzatziki sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "pita bread",
+          "expected_name": "pita bread",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olives",
+          "expected_name": "olives",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0843",
+      "recipe_name": "Italian Risotto alla Milanese",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0047",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": []
+    },
+    {
+      "recipe_id": "RC0145",
+      "recipe_name": "Sushi Burritos",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0066",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Cucumber",
+          "expected_name": "cucumber",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cooked rice",
+          "expected_name": "cooked rice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "nori seaweed sheets",
+          "expected_name": "nori seaweed sheets",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salmon or tuna sashimi",
+          "expected_name": "salmon or tuna sashimi",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "avocado",
+          "expected_name": "avocado",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "crab stick",
+          "expected_name": "crab stick",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "carrot",
+          "expected_name": "carrot",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cucumber seeds",
+          "expected_name": "cucumber seeds",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "wasabi",
+          "expected_name": "wasabi",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0827",
+      "recipe_name": "Chicken Tinga Tostadas",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0022",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "shredded chicken",
+          "expected_name": "shredded chicken",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chipotle peppers in adobo sauce",
+          "expected_name": "chipotle peppers in adobo sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onion",
+          "expected_name": "onion",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cumin",
+          "expected_name": "cumin",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "oregano",
+          "expected_name": "oregano",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lime juice",
+          "expected_name": "lime juice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tortillas",
+          "expected_name": "tortillas",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "avocado",
+          "expected_name": "avocado",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "queso fresco",
+          "expected_name": "queso fresco",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0041",
+      "recipe_name": "Spicy Szechuan Noodles",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0052",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chili peppers",
+          "expected_name": "chili peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "ginger",
+          "expected_name": "ginger",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "spaghetti",
+          "expected_name": "spaghetti",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "scallions",
+          "expected_name": "scallions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fermented bean paste",
+          "expected_name": "fermented bean paste",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0146",
+      "recipe_name": "Cajun Shrimp and Grits",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0043",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "heavy cream",
+          "expected_name": "heavy cream",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "black pepper",
+          "expected_name": "black pepper",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "butter",
+          "expected_name": "butter",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0705",
+      "recipe_name": "Quiche Lorraine with Caramelized Onions",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0036",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "all-purpose flour",
+          "expected_name": "all-purpose flour",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "bacon",
+          "expected_name": "bacon",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0351",
+      "recipe_name": "B\u00e1nh M\u00ec Sandwiches",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0090",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Bread",
+          "expected_name": "bread",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "pickled carrots",
+          "expected_name": "pickled carrots",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cucumber",
+          "expected_name": "cucumber",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cilantro",
+          "expected_name": "cilantro",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chili sauce",
+          "expected_name": "chili sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "mayonnaise",
+          "expected_name": "mayonnaise",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "pork or tofu",
+          "expected_name": "pork or tofu",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "grilled pork or chicken",
+          "expected_name": "grilled pork or chicken",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fish sauce",
+          "expected_name": "fish sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sriracha",
+          "expected_name": "sriracha",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0232",
+      "recipe_name": "Risotto alla Milanese",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0095",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "risotto",
+          "expected_name": "risotto",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "saffron threads",
+          "expected_name": "saffron threads",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "beef broth",
+          "expected_name": "beef broth",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "butter",
+          "expected_name": "butter",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "veal stock",
+          "expected_name": "veal stock",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "parmesan cheese",
+          "expected_name": "parmesan cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "all-purpose flour",
+          "expected_name": "all-purpose flour",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "eggs",
+          "expected_name": "eggs",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0729",
+      "recipe_name": "Japanese Teriyaki Burger",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0076",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "beef patty",
+          "expected_name": "beef patty",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "teriyaki sauce",
+          "expected_name": "teriyaki sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lettuce",
+          "expected_name": "lettuce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomato",
+          "expected_name": "tomato",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cheese",
+          "expected_name": "cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "pickles",
+          "expected_name": "pickles",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sesame seeds",
+          "expected_name": "sesame seeds",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "rice vinegar",
+          "expected_name": "rice vinegar",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "ginger",
+          "expected_name": "ginger",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0598",
+      "recipe_name": "Beef And Broccoli Stir-Fry With Oyster Sauce",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0063",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "beefastrips",
+          "expected_name": "beefastrips",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "broccoli",
+          "expected_name": "broccoli",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "oyster suce",
+          "expected_name": "oyster suce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetabe oil",
+          "expected_name": "vegetabe oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "gaarlic",
+          "expected_name": "gaarlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "gingr",
+          "expected_name": "gingr",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sugr",
+          "expected_name": "sugr",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "scallions",
+          "expected_name": "scallions",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0777",
+      "recipe_name": "Korean BBQ Beef Burritos",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0096",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "brown sugar",
+          "expected_name": "brown sugar",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "Beef short ribs",
+          "expected_name": "beef short ribs",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lime juice",
+          "expected_name": "lime juice",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0338",
+      "recipe_name": "Spicy Fish Tacos al Pastor",
+      "_class": "B_rid_only",
+      "gold_restaurant_id": "R0052",
+      "gold_restaurant_reason": "source restaurant_id valid",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "cumin",
+          "expected_name": "cumin",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onion",
+          "expected_name": "onion",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "Fish (preferably mahi-mahi or tilapia)",
+          "expected_name": "fish (preferably mahi-mahi or tilapia)",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "pineapple",
+          "expected_name": "pineapple",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "oregano",
+          "expected_name": "oregano",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lime juice",
+          "expected_name": "lime juice",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0807",
+      "recipe_name": "Chicken Fajita Quesadillas",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0091",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "bell peppers",
+          "expected_name": "bell peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tortillas",
+          "expected_name": "tortillas",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cheese",
+          "expected_name": "cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fajita seasoning",
+          "expected_name": "fajita seasoning",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sour cream",
+          "expected_name": "sour cream",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salsa",
+          "expected_name": "salsa",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cilantro",
+          "expected_name": "cilantro",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0391",
+      "recipe_name": "Thai Green Curry Shrimp",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0006",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "lemongrass",
+          "expected_name": "lemongrass",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lime juice",
+          "expected_name": "lime juice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "brown sugar",
+          "expected_name": "brown sugar",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "galangal",
+          "expected_name": "galangal",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "Thai basil",
+          "expected_name": "thai basil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "shrimp",
+          "expected_name": "shrimp",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "coconut milk",
+          "expected_name": "coconut milk",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fish sauce",
+          "expected_name": "fish sauce",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0236",
+      "recipe_name": "Ethiopian Berbere Spiced Stew",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0090",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "chicken or beef",
+          "expected_name": "chicken or beef",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "ginger",
+          "expected_name": "ginger",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "berbere spice mix",
+          "expected_name": "berbere spice mix",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "paprika",
+          "expected_name": "paprika",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cumin",
+          "expected_name": "cumin",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "coriander",
+          "expected_name": "coriander",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomatoes",
+          "expected_name": "tomatoes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0672",
+      "recipe_name": "French Onion Soup Gratinee",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0064",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Carmelized onions",
+          "expected_name": "carmelized onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "bee broth",
+          "expected_name": "bee broth",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "butter",
+          "expected_name": "butter",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "bread",
+          "expected_name": "bread",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "grated cheese",
+          "expected_name": "grated cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "thyme",
+          "expected_name": "thyme",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "bay leaves",
+          "expected_name": "bay leaves",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "slat",
+          "expected_name": "slat",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "black pepper",
+          "expected_name": "black pepper",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0523",
+      "recipe_name": "Cajun Shrimp and Grits",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0091",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "butter",
+          "expected_name": "butter",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "black pepper",
+          "expected_name": "black pepper",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0771",
+      "recipe_name": "Mexican Chiles Rellenos",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0082",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "egg",
+          "expected_name": "egg",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0204",
+      "recipe_name": "Spicy Szechuan Noodles",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0026",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "spaghetti",
+          "expected_name": "spaghetti",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chili peppers",
+          "expected_name": "chili peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fermented bean paste",
+          "expected_name": "fermented bean paste",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "ginger",
+          "expected_name": "ginger",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "scallions",
+          "expected_name": "scallions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "toasted peanuts",
+          "expected_name": "toasted peanuts",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0268",
+      "recipe_name": "Indian Butter Chicken Naan",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0057",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "naa bread",
+          "expected_name": "naa bread",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "buttter",
+          "expected_name": "buttter",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomato puree",
+          "expected_name": "tomato puree",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "yogrt",
+          "expected_name": "yogrt",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garam masala",
+          "expected_name": "garam masala",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cumin porder",
+          "expected_name": "cumin porder",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "coriander powder",
+          "expected_name": "coriander powder",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cazenne pepper",
+          "expected_name": "cazenne pepper",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0732",
+      "recipe_name": "Chinese Kung Pao Chicken Stir Fry",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0088",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "peanuts",
+          "expected_name": "peanuts",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetables",
+          "expected_name": "vegetables",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chili peppers",
+          "expected_name": "chili peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "ginger",
+          "expected_name": "ginger",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "scallions",
+          "expected_name": "scallions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sesame oil",
+          "expected_name": "sesame oil",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0081",
+      "recipe_name": "Thai Green Curry",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0086",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "bell peppers",
+          "expected_name": "bell peppers",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0198",
+      "recipe_name": "Spanish Paella Valenciana Rice",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0066",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Chicken",
+          "expected_name": "chicken",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "rabbit or veal",
+          "expected_name": "rabbit or veal",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "artichoke hearts",
+          "expected_name": "artichoke hearts",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomatoes",
+          "expected_name": "tomatoes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "peppers",
+          "expected_name": "peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "saffron",
+          "expected_name": "saffron",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "rice",
+          "expected_name": "rice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0223",
+      "recipe_name": "Chicken Shawarma",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no plausible match (best score=45.45454545454546)",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "pita bread",
+          "expected_name": "pita bread",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomato",
+          "expected_name": "tomato",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onion",
+          "expected_name": "onion",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cucumber",
+          "expected_name": "cucumber",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tzatziki sauce",
+          "expected_name": "tzatziki sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sumac",
+          "expected_name": "sumac",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "paprika",
+          "expected_name": "paprika",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salt",
+          "expected_name": "salt",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0578",
+      "recipe_name": "Chicken Quesadillas",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0009",
+      "gold_restaurant_reason": "high-fuzz name match score=93.33333333333333 \u2192 The Spice Route",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tortillas",
+          "expected_name": "tortillas",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cheese",
+          "expected_name": "cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "bell peppers",
+          "expected_name": "bell peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomatoes",
+          "expected_name": "tomatoes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salsa",
+          "expected_name": "salsa",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cumin",
+          "expected_name": "cumin",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cilantro",
+          "expected_name": "cilantro",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0103",
+      "recipe_name": "Vietnamese Banh Mi Sandwiches",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0055",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Pork",
+          "expected_name": "pork",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "pickled carrots and daikon",
+          "expected_name": "pickled carrots and daikon",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cilantro",
+          "expected_name": "cilantro",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chili sauce",
+          "expected_name": "chili sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "mayonnaise",
+          "expected_name": "mayonnaise",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sriracha mayo",
+          "expected_name": "sriracha mayo",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "baguette",
+          "expected_name": "baguette",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "grilled pork sausage",
+          "expected_name": "grilled pork sausage",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "banh mi sauce",
+          "expected_name": "banh mi sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cucumber",
+          "expected_name": "cucumber",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0943",
+      "recipe_name": "MOROCCAN CHICKEN TAGINE",
+      "_class": "D_rname_only",
+      "gold_restaurant_id": "R0083",
+      "gold_restaurant_reason": "exact name match",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0357",
+      "recipe_name": "Kung Pao Chicken Noodles",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0016",
+      "gold_restaurant_reason": "via menu_id M0021",
+      "gold_menu_id": "M0021",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetables (bell peppers",
+          "expected_name": "vegetables (bell peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "carrots)",
+          "expected_name": "carrots)",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "peanuts",
+          "expected_name": "peanuts",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "rice vinegar",
+          "expected_name": "rice vinegar",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chili peppers",
+          "expected_name": "chili peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "ginger",
+          "expected_name": "ginger",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "noodles",
+          "expected_name": "noodles",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0496",
+      "recipe_name": "chicken fajita quesadillas",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0025",
+      "gold_restaurant_reason": "via menu_id M0031",
+      "gold_menu_id": "M0031",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "tortillas",
+          "expected_name": "tortillas",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0229",
+      "recipe_name": "Thai Green Curry Risotto",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0029",
+      "gold_restaurant_reason": "via menu_id M0037",
+      "gold_menu_id": "M0037",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "arborio rice",
+          "expected_name": "arborio rice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "coconut milk",
+          "expected_name": "coconut milk",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "green curry paste",
+          "expected_name": "green curry paste",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fish balls",
+          "expected_name": "fish balls",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "shrimp",
+          "expected_name": "shrimp",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lemongrass",
+          "expected_name": "lemongrass",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lime leaves",
+          "expected_name": "lime leaves",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salt",
+          "expected_name": "salt",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0293",
+      "recipe_name": "Brazilian Picanha Grilled Beef Skirt Steak",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0056",
+      "gold_restaurant_reason": "via menu_id M0069",
+      "gold_menu_id": "M0069",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "salt",
+          "expected_name": "salt",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "picanha steak",
+          "expected_name": "picanha steak",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "parsley",
+          "expected_name": "parsley",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "black pepper",
+          "expected_name": "black pepper",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0864",
+      "recipe_name": "Greek Stuffed Portobello Mushrooms",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0066",
+      "gold_restaurant_reason": "via menu_id M0083",
+      "gold_menu_id": "M0083",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "Portobello muahrooms",
+          "expected_name": "portobello muahrooms",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "feta cheese",
+          "expected_name": "feta cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "kaamata olives",
+          "expected_name": "kaamata olives",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cherry tomatoes",
+          "expected_name": "cherry tomatoes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "red onion",
+          "expected_name": "red onion",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cucumber",
+          "expected_name": "cucumber",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lemon ujice",
+          "expected_name": "lemon ujice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "oregano",
+          "expected_name": "oregano",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "parmessan cheese",
+          "expected_name": "parmessan cheese",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0528",
+      "recipe_name": "Pho with Rare Beef",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0073",
+      "gold_restaurant_reason": "via menu_id M0093",
+      "gold_menu_id": "M0093",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "cloves",
+          "expected_name": "cloves",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0937",
+      "recipe_name": "Falafel Shawarma",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0013",
+      "gold_restaurant_reason": "via menu_id M0016",
+      "gold_menu_id": "M0016",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "chickpeas",
+          "expected_name": "chickpeas",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0405",
+      "recipe_name": "Chiles Rellenos",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0033",
+      "gold_restaurant_reason": "via menu_id M0044",
+      "gold_menu_id": "M0044",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cheese (Oaxaca or Monterey Jack)",
+          "expected_name": "cheese (oaxaca or monterey jack)",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomato sauce",
+          "expected_name": "tomato sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salt",
+          "expected_name": "salt",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "eggs",
+          "expected_name": "eggs",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "breadcrumbs",
+          "expected_name": "breadcrumbs",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0289",
+      "recipe_name": "Korean Japchae Stir Fried Glass Noodles",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0074",
+      "gold_restaurant_reason": "via menu_id M0094",
+      "gold_menu_id": "M0094",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "Glass noodles",
+          "expected_name": "glass noodles",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetables (zucchini",
+          "expected_name": "vegetables (zucchini",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "carrots)",
+          "expected_name": "carrots)",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "beef (thinly sliced)",
+          "expected_name": "beef (thinly sliced)",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "Gochujang",
+          "expected_name": "gochujang",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sesame seeds",
+          "expected_name": "sesame seeds",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "scallions",
+          "expected_name": "scallions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salt",
+          "expected_name": "salt",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0080",
+      "recipe_name": "chicken fajita quesadillas",
+      "_class": "E_mid_only",
+      "gold_restaurant_id": "R0061",
+      "gold_restaurant_reason": "via menu_id M0077",
+      "gold_menu_id": "M0077",
+      "gold_menu_reason": "source menu_id valid",
+      "gold_ingredients": [
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "Chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "shredded cheese",
+          "expected_name": "shredded cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fajita seasoning",
+          "expected_name": "fajita seasoning",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salsa",
+          "expected_name": "salsa",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0182",
+      "recipe_name": "Chicken Parmesan Subs",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": []
+    },
+    {
+      "recipe_id": "RC0411",
+      "recipe_name": "Spaghetti Aglio e Olio",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Spaghetti",
+          "expected_name": "spaghetti",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "red pepper flaeks",
+          "expected_name": "red pepper flaeks",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salt",
+          "expected_name": "salt",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "black pepper",
+          "expected_name": "black pepper",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lemon juice",
+          "expected_name": "lemon juice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "parsley",
+          "expected_name": "parsley",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "grated Parmesan",
+          "expected_name": "grated parmesan",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0441",
+      "recipe_name": "Chicken Tikka Masala",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "yogurt",
+          "expected_name": "yogurt",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garam masala",
+          "expected_name": "garam masala",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cumin powder",
+          "expected_name": "cumin powder",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "coriander powder",
+          "expected_name": "coriander powder",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomato paste",
+          "expected_name": "tomato paste",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tomatoes",
+          "expected_name": "tomatoes",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0749",
+      "recipe_name": "Grilled Salmon en Papillote",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": []
+    },
+    {
+      "recipe_id": "RC0070",
+      "recipe_name": "Grilled Steak Frites",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Steak",
+          "expected_name": "steak",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "potatoes",
+          "expected_name": "potatoes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olive oil",
+          "expected_name": "olive oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salt",
+          "expected_name": "salt",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "black pepper",
+          "expected_name": "black pepper",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "butter",
+          "expected_name": "butter",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "thyme",
+          "expected_name": "thyme",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "rosemary",
+          "expected_name": "rosemary",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lemon juice",
+          "expected_name": "lemon juice",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0371",
+      "recipe_name": "Chicken Satay with Peanut Sauce",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "peanut butter",
+          "expected_name": "peanut butter",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fish sauce",
+          "expected_name": "fish sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chili flakes",
+          "expected_name": "chili flakes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "coconut milk",
+          "expected_name": "coconut milk",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "ginger",
+          "expected_name": "ginger",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0572",
+      "recipe_name": "Chicken Satay with Peanut Sauce",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "chicken breast",
+          "expected_name": "chicken breast",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "coconut milk",
+          "expected_name": "coconut milk",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "peanut butter",
+          "expected_name": "peanut butter",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "lime juice",
+          "expected_name": "lime juice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "vegetable oil",
+          "expected_name": "vegetable oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "ginger",
+          "expected_name": "ginger",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "garlic",
+          "expected_name": "garlic",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "chili flakes",
+          "expected_name": "chili flakes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fish sauce",
+          "expected_name": "fish sauce",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0869",
+      "recipe_name": "Spicy Korean Kimbap Rolls",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Rice",
+          "expected_name": "rice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "Korean chili flakes",
+          "expected_name": "korean chili flakes",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "cucumber",
+          "expected_name": "cucumber",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "carrots",
+          "expected_name": "carrots",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "zucchini",
+          "expected_name": "zucchini",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "shrimp",
+          "expected_name": "shrimp",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "spinach",
+          "expected_name": "spinach",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "scallions",
+          "expected_name": "scallions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "gochujang",
+          "expected_name": "gochujang",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0265",
+      "recipe_name": "Japanese Teriyaki Salmon Sushi",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "sushi rice",
+          "expected_name": "sushi rice",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "teriyaki sauce",
+          "expected_name": "teriyaki sauce",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sesame seeds",
+          "expected_name": "sesame seeds",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "soy sauce",
+          "expected_name": "soy sauce",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    },
+    {
+      "recipe_id": "RC0531",
+      "recipe_name": "Chicken Fajita Quesadillas",
+      "_class": "F_orphan",
+      "gold_restaurant_id": null,
+      "gold_restaurant_reason": "no signal in source",
+      "gold_menu_id": null,
+      "gold_menu_reason": "no menu_id in source",
+      "gold_ingredients": [
+        {
+          "raw": "Chicken breaut",
+          "expected_name": "chicken breaut",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "bll peppers",
+          "expected_name": "bll peppers",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "onions",
+          "expected_name": "onions",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "tortillas",
+          "expected_name": "tortillas",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "shredded  cheese",
+          "expected_name": "shredded  cheese",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "fajita seasoning",
+          "expected_name": "fajita seasoning",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "olivee oil",
+          "expected_name": "olivee oil",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "sour cream",
+          "expected_name": "sour cream",
+          "reason": "exact in Ingredients"
+        },
+        {
+          "raw": "salsa",
+          "expected_name": "salsa",
+          "reason": "exact in Ingredients"
+        }
+      ]
+    }
+  ]
+}

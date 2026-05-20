@@ -1,0 +1,6553 @@
+{
+  "stats": {
+    "restaurants_with_signal": 100,
+    "pairs_checked": 869,
+    "coherent": 613,
+    "incoherent_downgraded": 255,
+    "incoherent_skipped_low_conf": 0
+  },
+  "cuisine_signal": {
+    "R0086": {
+      "recipe_count": 7,
+      "ingredient_count": 51,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.294
+        },
+        {
+          "category": "Spice",
+          "share": 0.176
+        },
+        {
+          "category": "Meat",
+          "share": 0.098
+        },
+        {
+          "category": "Dairy",
+          "share": 0.078
+        }
+      ]
+    },
+    "R0023": {
+      "recipe_count": 10,
+      "ingredient_count": 78,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.385
+        },
+        {
+          "category": "Spice",
+          "share": 0.179
+        },
+        {
+          "category": "Condiment",
+          "share": 0.103
+        },
+        {
+          "category": "Meat",
+          "share": 0.064
+        }
+      ]
+    },
+    "R0075": {
+      "recipe_count": 5,
+      "ingredient_count": 48,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.229
+        },
+        {
+          "category": "Spice",
+          "share": 0.208
+        },
+        {
+          "category": "Meat",
+          "share": 0.083
+        },
+        {
+          "category": "Condiment",
+          "share": 0.083
+        }
+      ]
+    },
+    "R0028": {
+      "recipe_count": 6,
+      "ingredient_count": 54,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.37
+        },
+        {
+          "category": "Spice",
+          "share": 0.167
+        },
+        {
+          "category": "Fruit",
+          "share": 0.074
+        },
+        {
+          "category": "Meat",
+          "share": 0.074
+        }
+      ]
+    },
+    "R0061": {
+      "recipe_count": 16,
+      "ingredient_count": 122,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.254
+        },
+        {
+          "category": "Spice",
+          "share": 0.164
+        },
+        {
+          "category": "Meat",
+          "share": 0.074
+        },
+        {
+          "category": "Condiment",
+          "share": 0.066
+        }
+      ]
+    },
+    "R0090": {
+      "recipe_count": 6,
+      "ingredient_count": 56,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.196
+        },
+        {
+          "category": "Sauce",
+          "share": 0.125
+        },
+        {
+          "category": "Spice",
+          "share": 0.107
+        },
+        {
+          "category": "Condiment",
+          "share": 0.089
+        }
+      ]
+    },
+    "R0016": {
+      "recipe_count": 10,
+      "ingredient_count": 79,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.266
+        },
+        {
+          "category": "Spice",
+          "share": 0.177
+        },
+        {
+          "category": "Sauce",
+          "share": 0.063
+        },
+        {
+          "category": "Meat",
+          "share": 0.063
+        }
+      ]
+    },
+    "R0097": {
+      "recipe_count": 8,
+      "ingredient_count": 48,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.229
+        },
+        {
+          "category": "Spice",
+          "share": 0.208
+        },
+        {
+          "category": "Meat",
+          "share": 0.146
+        },
+        {
+          "category": "Condiment",
+          "share": 0.083
+        }
+      ]
+    },
+    "R0022": {
+      "recipe_count": 9,
+      "ingredient_count": 61,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.197
+        },
+        {
+          "category": "Spice",
+          "share": 0.131
+        },
+        {
+          "category": "Meat",
+          "share": 0.098
+        },
+        {
+          "category": "Oil",
+          "share": 0.082
+        }
+      ]
+    },
+    "R0060": {
+      "recipe_count": 9,
+      "ingredient_count": 60,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.233
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.217
+        },
+        {
+          "category": "Herb",
+          "share": 0.133
+        },
+        {
+          "category": "Meat",
+          "share": 0.117
+        }
+      ]
+    },
+    "R0099": {
+      "recipe_count": 11,
+      "ingredient_count": 76,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.289
+        },
+        {
+          "category": "Spice",
+          "share": 0.145
+        },
+        {
+          "category": "Meat",
+          "share": 0.132
+        },
+        {
+          "category": "Dairy",
+          "share": 0.132
+        }
+      ]
+    },
+    "R0029": {
+      "recipe_count": 13,
+      "ingredient_count": 81,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.247
+        },
+        {
+          "category": "Spice",
+          "share": 0.148
+        },
+        {
+          "category": "Sauce",
+          "share": 0.074
+        },
+        {
+          "category": "Condiment",
+          "share": 0.074
+        }
+      ]
+    },
+    "R0052": {
+      "recipe_count": 12,
+      "ingredient_count": 83,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.241
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.229
+        },
+        {
+          "category": "Herb",
+          "share": 0.096
+        },
+        {
+          "category": "Meat",
+          "share": 0.084
+        }
+      ]
+    },
+    "R0051": {
+      "recipe_count": 6,
+      "ingredient_count": 40,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.2
+        },
+        {
+          "category": "Spice",
+          "share": 0.15
+        },
+        {
+          "category": "Herb",
+          "share": 0.125
+        },
+        {
+          "category": "Fruit",
+          "share": 0.1
+        }
+      ]
+    },
+    "R0034": {
+      "recipe_count": 10,
+      "ingredient_count": 68,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.206
+        },
+        {
+          "category": "Spice",
+          "share": 0.191
+        },
+        {
+          "category": "Herb",
+          "share": 0.118
+        },
+        {
+          "category": "Condiment",
+          "share": 0.103
+        }
+      ]
+    },
+    "R0049": {
+      "recipe_count": 9,
+      "ingredient_count": 66,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.242
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.212
+        },
+        {
+          "category": "Meat",
+          "share": 0.076
+        },
+        {
+          "category": "Herb",
+          "share": 0.076
+        }
+      ]
+    },
+    "R0011": {
+      "recipe_count": 13,
+      "ingredient_count": 101,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.257
+        },
+        {
+          "category": "Spice",
+          "share": 0.188
+        },
+        {
+          "category": "Dairy",
+          "share": 0.099
+        },
+        {
+          "category": "Meat",
+          "share": 0.079
+        }
+      ]
+    },
+    "R0033": {
+      "recipe_count": 9,
+      "ingredient_count": 69,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.174
+        },
+        {
+          "category": "Spice",
+          "share": 0.159
+        },
+        {
+          "category": "Meat",
+          "share": 0.087
+        },
+        {
+          "category": "Dairy",
+          "share": 0.087
+        }
+      ]
+    },
+    "R0021": {
+      "recipe_count": 7,
+      "ingredient_count": 45,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.289
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.289
+        },
+        {
+          "category": "Meat",
+          "share": 0.089
+        },
+        {
+          "category": "Condiment",
+          "share": 0.089
+        }
+      ]
+    },
+    "R0085": {
+      "recipe_count": 16,
+      "ingredient_count": 95,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.295
+        },
+        {
+          "category": "Spice",
+          "share": 0.158
+        },
+        {
+          "category": "Dairy",
+          "share": 0.063
+        },
+        {
+          "category": "Condiment",
+          "share": 0.063
+        }
+      ]
+    },
+    "R0056": {
+      "recipe_count": 7,
+      "ingredient_count": 43,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.256
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.186
+        },
+        {
+          "category": "Meat",
+          "share": 0.093
+        },
+        {
+          "category": "Dairy",
+          "share": 0.093
+        }
+      ]
+    },
+    "R0058": {
+      "recipe_count": 8,
+      "ingredient_count": 61,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.328
+        },
+        {
+          "category": "Spice",
+          "share": 0.164
+        },
+        {
+          "category": "Meat",
+          "share": 0.082
+        },
+        {
+          "category": "Seafood",
+          "share": 0.066
+        }
+      ]
+    },
+    "R0044": {
+      "recipe_count": 11,
+      "ingredient_count": 87,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.253
+        },
+        {
+          "category": "Spice",
+          "share": 0.195
+        },
+        {
+          "category": "Condiment",
+          "share": 0.069
+        },
+        {
+          "category": "Meat",
+          "share": 0.069
+        }
+      ]
+    },
+    "R0031": {
+      "recipe_count": 10,
+      "ingredient_count": 78,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.269
+        },
+        {
+          "category": "Spice",
+          "share": 0.154
+        },
+        {
+          "category": "Meat",
+          "share": 0.115
+        },
+        {
+          "category": "Sauce",
+          "share": 0.077
+        }
+      ]
+    },
+    "R0048": {
+      "recipe_count": 13,
+      "ingredient_count": 110,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.3
+        },
+        {
+          "category": "Spice",
+          "share": 0.145
+        },
+        {
+          "category": "Dairy",
+          "share": 0.064
+        },
+        {
+          "category": "Herb",
+          "share": 0.055
+        }
+      ]
+    },
+    "R0069": {
+      "recipe_count": 14,
+      "ingredient_count": 103,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.291
+        },
+        {
+          "category": "Spice",
+          "share": 0.184
+        },
+        {
+          "category": "Dairy",
+          "share": 0.087
+        },
+        {
+          "category": "Oil",
+          "share": 0.078
+        }
+      ]
+    },
+    "R0013": {
+      "recipe_count": 6,
+      "ingredient_count": 42,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.214
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.19
+        },
+        {
+          "category": "Meat",
+          "share": 0.143
+        },
+        {
+          "category": "Dairy",
+          "share": 0.119
+        }
+      ]
+    },
+    "R0002": {
+      "recipe_count": 9,
+      "ingredient_count": 56,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.25
+        },
+        {
+          "category": "Spice",
+          "share": 0.179
+        },
+        {
+          "category": "Meat",
+          "share": 0.107
+        },
+        {
+          "category": "Dairy",
+          "share": 0.071
+        }
+      ]
+    },
+    "R0081": {
+      "recipe_count": 8,
+      "ingredient_count": 66,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.227
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.197
+        },
+        {
+          "category": "Dairy",
+          "share": 0.136
+        },
+        {
+          "category": "Oil",
+          "share": 0.061
+        }
+      ]
+    },
+    "R0059": {
+      "recipe_count": 13,
+      "ingredient_count": 105,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.267
+        },
+        {
+          "category": "Spice",
+          "share": 0.257
+        },
+        {
+          "category": "Meat",
+          "share": 0.086
+        },
+        {
+          "category": "Oil",
+          "share": 0.067
+        }
+      ]
+    },
+    "R0057": {
+      "recipe_count": 11,
+      "ingredient_count": 74,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.257
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.149
+        },
+        {
+          "category": "Dairy",
+          "share": 0.122
+        },
+        {
+          "category": "Meat",
+          "share": 0.081
+        }
+      ]
+    },
+    "R0095": {
+      "recipe_count": 6,
+      "ingredient_count": 28,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.25
+        },
+        {
+          "category": "Dairy",
+          "share": 0.107
+        },
+        {
+          "category": "Herb",
+          "share": 0.107
+        },
+        {
+          "category": "Broth",
+          "share": 0.071
+        }
+      ]
+    },
+    "R0003": {
+      "recipe_count": 8,
+      "ingredient_count": 45,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.356
+        },
+        {
+          "category": "Spice",
+          "share": 0.156
+        },
+        {
+          "category": "Meat",
+          "share": 0.133
+        },
+        {
+          "category": "Oil",
+          "share": 0.089
+        }
+      ]
+    },
+    "R0024": {
+      "recipe_count": 9,
+      "ingredient_count": 70,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.3
+        },
+        {
+          "category": "Meat",
+          "share": 0.1
+        },
+        {
+          "category": "Sauce",
+          "share": 0.1
+        },
+        {
+          "category": "Condiment",
+          "share": 0.1
+        }
+      ]
+    },
+    "R0014": {
+      "recipe_count": 10,
+      "ingredient_count": 89,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.281
+        },
+        {
+          "category": "Spice",
+          "share": 0.247
+        },
+        {
+          "category": "Meat",
+          "share": 0.101
+        },
+        {
+          "category": "Condiment",
+          "share": 0.101
+        }
+      ]
+    },
+    "R0007": {
+      "recipe_count": 5,
+      "ingredient_count": 35,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.343
+        },
+        {
+          "category": "Meat",
+          "share": 0.114
+        },
+        {
+          "category": "Condiment",
+          "share": 0.114
+        },
+        {
+          "category": "Herb",
+          "share": 0.086
+        }
+      ]
+    },
+    "R0098": {
+      "recipe_count": 8,
+      "ingredient_count": 55,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.273
+        },
+        {
+          "category": "Spice",
+          "share": 0.145
+        },
+        {
+          "category": "Fruit",
+          "share": 0.127
+        },
+        {
+          "category": "Dairy",
+          "share": 0.127
+        }
+      ]
+    },
+    "R0040": {
+      "recipe_count": 12,
+      "ingredient_count": 83,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.217
+        },
+        {
+          "category": "Spice",
+          "share": 0.217
+        },
+        {
+          "category": "Meat",
+          "share": 0.084
+        },
+        {
+          "category": "Sauce",
+          "share": 0.072
+        }
+      ]
+    },
+    "R0035": {
+      "recipe_count": 7,
+      "ingredient_count": 48,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.188
+        },
+        {
+          "category": "Spice",
+          "share": 0.146
+        },
+        {
+          "category": "Dairy",
+          "share": 0.104
+        },
+        {
+          "category": "Herb",
+          "share": 0.083
+        }
+      ]
+    },
+    "R0054": {
+      "recipe_count": 8,
+      "ingredient_count": 62,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.21
+        },
+        {
+          "category": "Baking",
+          "share": 0.113
+        },
+        {
+          "category": "Spice",
+          "share": 0.113
+        },
+        {
+          "category": "Meat",
+          "share": 0.097
+        }
+      ]
+    },
+    "R0030": {
+      "recipe_count": 8,
+      "ingredient_count": 58,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.345
+        },
+        {
+          "category": "Spice",
+          "share": 0.138
+        },
+        {
+          "category": "Dairy",
+          "share": 0.086
+        },
+        {
+          "category": "Sauce",
+          "share": 0.069
+        }
+      ]
+    },
+    "R0093": {
+      "recipe_count": 15,
+      "ingredient_count": 91,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.33
+        },
+        {
+          "category": "Spice",
+          "share": 0.209
+        },
+        {
+          "category": "Herb",
+          "share": 0.077
+        },
+        {
+          "category": "Oil",
+          "share": 0.055
+        }
+      ]
+    },
+    "R0068": {
+      "recipe_count": 5,
+      "ingredient_count": 27,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.259
+        },
+        {
+          "category": "Spice",
+          "share": 0.185
+        },
+        {
+          "category": "Dairy",
+          "share": 0.111
+        },
+        {
+          "category": "Herb",
+          "share": 0.111
+        }
+      ]
+    },
+    "R0076": {
+      "recipe_count": 13,
+      "ingredient_count": 86,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.279
+        },
+        {
+          "category": "Spice",
+          "share": 0.209
+        },
+        {
+          "category": "Condiment",
+          "share": 0.105
+        },
+        {
+          "category": "Meat",
+          "share": 0.093
+        }
+      ]
+    },
+    "R0074": {
+      "recipe_count": 11,
+      "ingredient_count": 57,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.263
+        },
+        {
+          "category": "Spice",
+          "share": 0.175
+        },
+        {
+          "category": "Oil",
+          "share": 0.088
+        },
+        {
+          "category": "Meat",
+          "share": 0.07
+        }
+      ]
+    },
+    "R0096": {
+      "recipe_count": 10,
+      "ingredient_count": 50,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.28
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.16
+        },
+        {
+          "category": "Meat",
+          "share": 0.12
+        },
+        {
+          "category": "Oil",
+          "share": 0.08
+        }
+      ]
+    },
+    "R0046": {
+      "recipe_count": 9,
+      "ingredient_count": 66,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.258
+        },
+        {
+          "category": "Spice",
+          "share": 0.182
+        },
+        {
+          "category": "Herb",
+          "share": 0.076
+        },
+        {
+          "category": "Dairy",
+          "share": 0.076
+        }
+      ]
+    },
+    "R0047": {
+      "recipe_count": 7,
+      "ingredient_count": 47,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.255
+        },
+        {
+          "category": "Spice",
+          "share": 0.106
+        },
+        {
+          "category": "Condiment",
+          "share": 0.085
+        },
+        {
+          "category": "Dairy",
+          "share": 0.085
+        }
+      ]
+    },
+    "R0039": {
+      "recipe_count": 8,
+      "ingredient_count": 49,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.286
+        },
+        {
+          "category": "Spice",
+          "share": 0.245
+        },
+        {
+          "category": "Meat",
+          "share": 0.082
+        },
+        {
+          "category": "Grain",
+          "share": 0.082
+        }
+      ]
+    },
+    "R0036": {
+      "recipe_count": 6,
+      "ingredient_count": 30,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.2
+        },
+        {
+          "category": "Spice",
+          "share": 0.133
+        },
+        {
+          "category": "Meat",
+          "share": 0.1
+        },
+        {
+          "category": "Herb",
+          "share": 0.1
+        }
+      ]
+    },
+    "R0083": {
+      "recipe_count": 9,
+      "ingredient_count": 54,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.222
+        },
+        {
+          "category": "Spice",
+          "share": 0.148
+        },
+        {
+          "category": "Meat",
+          "share": 0.111
+        },
+        {
+          "category": "Oil",
+          "share": 0.093
+        }
+      ]
+    },
+    "R0043": {
+      "recipe_count": 9,
+      "ingredient_count": 72,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.167
+        },
+        {
+          "category": "Spice",
+          "share": 0.153
+        },
+        {
+          "category": "Dairy",
+          "share": 0.111
+        },
+        {
+          "category": "Meat",
+          "share": 0.097
+        }
+      ]
+    },
+    "R0055": {
+      "recipe_count": 13,
+      "ingredient_count": 97,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.268
+        },
+        {
+          "category": "Spice",
+          "share": 0.165
+        },
+        {
+          "category": "Condiment",
+          "share": 0.103
+        },
+        {
+          "category": "Meat",
+          "share": 0.082
+        }
+      ]
+    },
+    "R0066": {
+      "recipe_count": 16,
+      "ingredient_count": 110,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.336
+        },
+        {
+          "category": "Condiment",
+          "share": 0.1
+        },
+        {
+          "category": "Meat",
+          "share": 0.091
+        },
+        {
+          "category": "Sauce",
+          "share": 0.064
+        }
+      ]
+    },
+    "R0073": {
+      "recipe_count": 12,
+      "ingredient_count": 52,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.25
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.192
+        },
+        {
+          "category": "Meat",
+          "share": 0.096
+        },
+        {
+          "category": "Dairy",
+          "share": 0.096
+        }
+      ]
+    },
+    "R0065": {
+      "recipe_count": 9,
+      "ingredient_count": 60,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.267
+        },
+        {
+          "category": "Spice",
+          "share": 0.2
+        },
+        {
+          "category": "Meat",
+          "share": 0.117
+        },
+        {
+          "category": "Dairy",
+          "share": 0.083
+        }
+      ]
+    },
+    "R0042": {
+      "recipe_count": 13,
+      "ingredient_count": 68,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.294
+        },
+        {
+          "category": "Dairy",
+          "share": 0.103
+        },
+        {
+          "category": "Spice",
+          "share": 0.103
+        },
+        {
+          "category": "Condiment",
+          "share": 0.074
+        }
+      ]
+    },
+    "R0091": {
+      "recipe_count": 6,
+      "ingredient_count": 38,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.289
+        },
+        {
+          "category": "Spice",
+          "share": 0.105
+        },
+        {
+          "category": "Sauce",
+          "share": 0.105
+        },
+        {
+          "category": "Meat",
+          "share": 0.105
+        }
+      ]
+    },
+    "R0084": {
+      "recipe_count": 7,
+      "ingredient_count": 59,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.254
+        },
+        {
+          "category": "Spice",
+          "share": 0.119
+        },
+        {
+          "category": "Sauce",
+          "share": 0.085
+        },
+        {
+          "category": "Meat",
+          "share": 0.085
+        }
+      ]
+    },
+    "R0062": {
+      "recipe_count": 2,
+      "ingredient_count": 11,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.455
+        },
+        {
+          "category": "Meat",
+          "share": 0.182
+        },
+        {
+          "category": "Spice",
+          "share": 0.091
+        },
+        {
+          "category": "Fruit",
+          "share": 0.091
+        }
+      ]
+    },
+    "R0012": {
+      "recipe_count": 6,
+      "ingredient_count": 27,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.222
+        },
+        {
+          "category": "Dairy",
+          "share": 0.148
+        },
+        {
+          "category": "Spice",
+          "share": 0.111
+        },
+        {
+          "category": "Condiment",
+          "share": 0.074
+        }
+      ]
+    },
+    "R0001": {
+      "recipe_count": 10,
+      "ingredient_count": 84,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.202
+        },
+        {
+          "category": "Spice",
+          "share": 0.179
+        },
+        {
+          "category": "Herb",
+          "share": 0.083
+        },
+        {
+          "category": "Condiment",
+          "share": 0.071
+        }
+      ]
+    },
+    "R0080": {
+      "recipe_count": 4,
+      "ingredient_count": 27,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.296
+        },
+        {
+          "category": "Spice",
+          "share": 0.111
+        },
+        {
+          "category": "Fruit",
+          "share": 0.111
+        },
+        {
+          "category": "Meat",
+          "share": 0.074
+        }
+      ]
+    },
+    "R0008": {
+      "recipe_count": 7,
+      "ingredient_count": 46,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.326
+        },
+        {
+          "category": "Spice",
+          "share": 0.239
+        },
+        {
+          "category": "Meat",
+          "share": 0.065
+        },
+        {
+          "category": "Condiment",
+          "share": 0.065
+        }
+      ]
+    },
+    "R0100": {
+      "recipe_count": 8,
+      "ingredient_count": 53,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.283
+        },
+        {
+          "category": "Spice",
+          "share": 0.17
+        },
+        {
+          "category": "Condiment",
+          "share": 0.113
+        },
+        {
+          "category": "Meat",
+          "share": 0.075
+        }
+      ]
+    },
+    "R0092": {
+      "recipe_count": 8,
+      "ingredient_count": 56,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.268
+        },
+        {
+          "category": "Dairy",
+          "share": 0.143
+        },
+        {
+          "category": "Spice",
+          "share": 0.143
+        },
+        {
+          "category": "Meat",
+          "share": 0.089
+        }
+      ]
+    },
+    "R0071": {
+      "recipe_count": 6,
+      "ingredient_count": 43,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.233
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.209
+        },
+        {
+          "category": "Dairy",
+          "share": 0.163
+        },
+        {
+          "category": "Meat",
+          "share": 0.093
+        }
+      ]
+    },
+    "R0017": {
+      "recipe_count": 14,
+      "ingredient_count": 93,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.269
+        },
+        {
+          "category": "Spice",
+          "share": 0.129
+        },
+        {
+          "category": "Condiment",
+          "share": 0.108
+        },
+        {
+          "category": "Meat",
+          "share": 0.086
+        }
+      ]
+    },
+    "R0079": {
+      "recipe_count": 10,
+      "ingredient_count": 69,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.217
+        },
+        {
+          "category": "Dairy",
+          "share": 0.116
+        },
+        {
+          "category": "Spice",
+          "share": 0.101
+        },
+        {
+          "category": "Protein",
+          "share": 0.072
+        }
+      ]
+    },
+    "R0025": {
+      "recipe_count": 12,
+      "ingredient_count": 66,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.242
+        },
+        {
+          "category": "Spice",
+          "share": 0.167
+        },
+        {
+          "category": "Meat",
+          "share": 0.076
+        },
+        {
+          "category": "Dairy",
+          "share": 0.076
+        }
+      ]
+    },
+    "R0045": {
+      "recipe_count": 7,
+      "ingredient_count": 42,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.31
+        },
+        {
+          "category": "Spice",
+          "share": 0.143
+        },
+        {
+          "category": "Dairy",
+          "share": 0.095
+        },
+        {
+          "category": "Herb",
+          "share": 0.095
+        }
+      ]
+    },
+    "R0018": {
+      "recipe_count": 10,
+      "ingredient_count": 79,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.215
+        },
+        {
+          "category": "Spice",
+          "share": 0.165
+        },
+        {
+          "category": "Dairy",
+          "share": 0.101
+        },
+        {
+          "category": "Meat",
+          "share": 0.089
+        }
+      ]
+    },
+    "R0005": {
+      "recipe_count": 6,
+      "ingredient_count": 44,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.205
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.136
+        },
+        {
+          "category": "Condiment",
+          "share": 0.114
+        },
+        {
+          "category": "Herb",
+          "share": 0.091
+        }
+      ]
+    },
+    "R0082": {
+      "recipe_count": 9,
+      "ingredient_count": 57,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.193
+        },
+        {
+          "category": "Spice",
+          "share": 0.193
+        },
+        {
+          "category": "Dairy",
+          "share": 0.123
+        },
+        {
+          "category": "Meat",
+          "share": 0.088
+        }
+      ]
+    },
+    "R0050": {
+      "recipe_count": 10,
+      "ingredient_count": 77,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.221
+        },
+        {
+          "category": "Spice",
+          "share": 0.091
+        },
+        {
+          "category": "Condiment",
+          "share": 0.078
+        },
+        {
+          "category": "Oil",
+          "share": 0.078
+        }
+      ]
+    },
+    "R0078": {
+      "recipe_count": 8,
+      "ingredient_count": 61,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.344
+        },
+        {
+          "category": "Spice",
+          "share": 0.18
+        },
+        {
+          "category": "Meat",
+          "share": 0.082
+        },
+        {
+          "category": "Oil",
+          "share": 0.082
+        }
+      ]
+    },
+    "R0010": {
+      "recipe_count": 8,
+      "ingredient_count": 52,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.327
+        },
+        {
+          "category": "Spice",
+          "share": 0.135
+        },
+        {
+          "category": "Meat",
+          "share": 0.115
+        },
+        {
+          "category": "Herb",
+          "share": 0.096
+        }
+      ]
+    },
+    "R0026": {
+      "recipe_count": 12,
+      "ingredient_count": 91,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.209
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.187
+        },
+        {
+          "category": "Oil",
+          "share": 0.077
+        },
+        {
+          "category": "Condiment",
+          "share": 0.055
+        }
+      ]
+    },
+    "R0053": {
+      "recipe_count": 7,
+      "ingredient_count": 64,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.391
+        },
+        {
+          "category": "Fruit",
+          "share": 0.109
+        },
+        {
+          "category": "Spice",
+          "share": 0.094
+        },
+        {
+          "category": "Herb",
+          "share": 0.078
+        }
+      ]
+    },
+    "R0088": {
+      "recipe_count": 8,
+      "ingredient_count": 66,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.242
+        },
+        {
+          "category": "Spice",
+          "share": 0.212
+        },
+        {
+          "category": "Meat",
+          "share": 0.121
+        },
+        {
+          "category": "Condiment",
+          "share": 0.121
+        }
+      ]
+    },
+    "R0032": {
+      "recipe_count": 7,
+      "ingredient_count": 46,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.348
+        },
+        {
+          "category": "Meat",
+          "share": 0.087
+        },
+        {
+          "category": "Sauce",
+          "share": 0.087
+        },
+        {
+          "category": "Dairy",
+          "share": 0.087
+        }
+      ]
+    },
+    "R0038": {
+      "recipe_count": 8,
+      "ingredient_count": 55,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.218
+        },
+        {
+          "category": "Spice",
+          "share": 0.2
+        },
+        {
+          "category": "Meat",
+          "share": 0.091
+        },
+        {
+          "category": "Fruit",
+          "share": 0.091
+        }
+      ]
+    },
+    "R0077": {
+      "recipe_count": 9,
+      "ingredient_count": 69,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.348
+        },
+        {
+          "category": "Meat",
+          "share": 0.087
+        },
+        {
+          "category": "Spice",
+          "share": 0.087
+        },
+        {
+          "category": "Condiment",
+          "share": 0.087
+        }
+      ]
+    },
+    "R0037": {
+      "recipe_count": 4,
+      "ingredient_count": 25,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.2
+        },
+        {
+          "category": "Spice",
+          "share": 0.2
+        },
+        {
+          "category": "Herb",
+          "share": 0.12
+        },
+        {
+          "category": "Condiment",
+          "share": 0.08
+        }
+      ]
+    },
+    "R0089": {
+      "recipe_count": 8,
+      "ingredient_count": 41,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.366
+        },
+        {
+          "category": "Spice",
+          "share": 0.268
+        },
+        {
+          "category": "Meat",
+          "share": 0.073
+        },
+        {
+          "category": "Condiment",
+          "share": 0.049
+        }
+      ]
+    },
+    "R0072": {
+      "recipe_count": 6,
+      "ingredient_count": 45,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.289
+        },
+        {
+          "category": "Spice",
+          "share": 0.156
+        },
+        {
+          "category": "Meat",
+          "share": 0.111
+        },
+        {
+          "category": "Oil",
+          "share": 0.089
+        }
+      ]
+    },
+    "R0063": {
+      "recipe_count": 11,
+      "ingredient_count": 95,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.337
+        },
+        {
+          "category": "Spice",
+          "share": 0.137
+        },
+        {
+          "category": "Sauce",
+          "share": 0.084
+        },
+        {
+          "category": "Meat",
+          "share": 0.074
+        }
+      ]
+    },
+    "R0019": {
+      "recipe_count": 5,
+      "ingredient_count": 41,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.39
+        },
+        {
+          "category": "Meat",
+          "share": 0.122
+        },
+        {
+          "category": "Spice",
+          "share": 0.098
+        },
+        {
+          "category": "Fruit",
+          "share": 0.073
+        }
+      ]
+    },
+    "R0015": {
+      "recipe_count": 6,
+      "ingredient_count": 26,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.269
+        },
+        {
+          "category": "Spice",
+          "share": 0.192
+        },
+        {
+          "category": "Dairy",
+          "share": 0.115
+        },
+        {
+          "category": "Sauce",
+          "share": 0.077
+        }
+      ]
+    },
+    "R0020": {
+      "recipe_count": 11,
+      "ingredient_count": 80,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.25
+        },
+        {
+          "category": "Spice",
+          "share": 0.212
+        },
+        {
+          "category": "Dairy",
+          "share": 0.138
+        },
+        {
+          "category": "Seafood",
+          "share": 0.075
+        }
+      ]
+    },
+    "R0087": {
+      "recipe_count": 13,
+      "ingredient_count": 104,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.298
+        },
+        {
+          "category": "Spice",
+          "share": 0.144
+        },
+        {
+          "category": "Meat",
+          "share": 0.067
+        },
+        {
+          "category": "Oil",
+          "share": 0.067
+        }
+      ]
+    },
+    "R0094": {
+      "recipe_count": 8,
+      "ingredient_count": 55,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.255
+        },
+        {
+          "category": "Herb",
+          "share": 0.127
+        },
+        {
+          "category": "Spice",
+          "share": 0.109
+        },
+        {
+          "category": "Condiment",
+          "share": 0.091
+        }
+      ]
+    },
+    "R0004": {
+      "recipe_count": 3,
+      "ingredient_count": 15,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.467
+        },
+        {
+          "category": "Condiment",
+          "share": 0.133
+        },
+        {
+          "category": "Seed",
+          "share": 0.067
+        },
+        {
+          "category": "Grain",
+          "share": 0.067
+        }
+      ]
+    },
+    "R0041": {
+      "recipe_count": 5,
+      "ingredient_count": 45,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.267
+        },
+        {
+          "category": "Spice",
+          "share": 0.133
+        },
+        {
+          "category": "Baking",
+          "share": 0.089
+        },
+        {
+          "category": "Meat",
+          "share": 0.089
+        }
+      ]
+    },
+    "R0067": {
+      "recipe_count": 7,
+      "ingredient_count": 60,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.35
+        },
+        {
+          "category": "Spice",
+          "share": 0.2
+        },
+        {
+          "category": "Condiment",
+          "share": 0.1
+        },
+        {
+          "category": "Meat",
+          "share": 0.083
+        }
+      ]
+    },
+    "R0006": {
+      "recipe_count": 8,
+      "ingredient_count": 36,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.25
+        },
+        {
+          "category": "Spice",
+          "share": 0.167
+        },
+        {
+          "category": "Meat",
+          "share": 0.083
+        },
+        {
+          "category": "Sweetener",
+          "share": 0.083
+        }
+      ]
+    },
+    "R0064": {
+      "recipe_count": 8,
+      "ingredient_count": 55,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.255
+        },
+        {
+          "category": "Spice",
+          "share": 0.145
+        },
+        {
+          "category": "Dairy",
+          "share": 0.109
+        },
+        {
+          "category": "Grain",
+          "share": 0.073
+        }
+      ]
+    },
+    "R0009": {
+      "recipe_count": 3,
+      "ingredient_count": 26,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.192
+        },
+        {
+          "category": "Spice",
+          "share": 0.115
+        },
+        {
+          "category": "Dairy",
+          "share": 0.115
+        },
+        {
+          "category": "Fruit",
+          "share": 0.115
+        }
+      ]
+    },
+    "R0070": {
+      "recipe_count": 3,
+      "ingredient_count": 20,
+      "top_categories": [
+        {
+          "category": "Spice",
+          "share": 0.25
+        },
+        {
+          "category": "Vegetable",
+          "share": 0.25
+        },
+        {
+          "category": "Oil",
+          "share": 0.1
+        },
+        {
+          "category": "Legume",
+          "share": 0.05
+        }
+      ]
+    },
+    "R0027": {
+      "recipe_count": 3,
+      "ingredient_count": 19,
+      "top_categories": [
+        {
+          "category": "Vegetable",
+          "share": 0.316
+        },
+        {
+          "category": "Condiment",
+          "share": 0.105
+        },
+        {
+          "category": "Grain",
+          "share": 0.105
+        },
+        {
+          "category": "Seafood",
+          "share": 0.105
+        }
+      ]
+    }
+  },
+  "judgments": {
+    "RC0001": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories compatible with Shawarma."
+    },
+    "RC0002": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Classic Asian dish, categories match."
+    },
+    "RC0003": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories compatible with Feijoada."
+    },
+    "RC0004": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Both use fresh seafood, vegetables."
+    },
+    "RC0005": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories compatible with Empanadas."
+    },
+    "RC0006": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Fusion cuisine allows diverse dishes."
+    },
+    "RC0007": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories not contradictory."
+    },
+    "RC0008": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0009": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Chinese/Thai overlap; categories fit."
+    },
+    "RC0010": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Fusion cuisine, categories fit recipe."
+    },
+    "RC0011": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0012": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories not contradictory."
+    },
+    "RC0013": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories include Meat."
+    },
+    "RC0014": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Observed categories consistent."
+    },
+    "RC0015": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Perfect match with cuisine."
+    },
+    "RC0016": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Mediterranean cuisines overlap."
+    },
+    "RC0017": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories consistent."
+    },
+    "RC0018": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Perfect match with cuisine."
+    },
+    "RC0019": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0020": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support."
+    },
+    "RC0021": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories compatible, despite cuisine."
+    },
+    "RC0022": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0023": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0024": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support."
+    },
+    "RC0025": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals disagree with recipe."
+    },
+    "RC0026": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Observed categories match recipe well."
+    },
+    "RC0027": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "Cuisine, categories disagree with recipe."
+    },
+    "RC0028": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly match recipe."
+    },
+    "RC0029": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly match recipe."
+    },
+    "RC0031": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals disagree with recipe."
+    },
+    "RC0032": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian recipe, Indian restaurant/ingredients."
+    },
+    "RC0033": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "General categories, Mediterranean overlap."
+    },
+    "RC0034": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Greek recipe, Korean restaurant/flavors."
+    },
+    "RC0035": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories align with Moroccan recipe."
+    },
+    "RC0036": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "General categories, spice use common."
+    },
+    "RC0037": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Moroccan recipe, Asian restaurant, no dominant spice."
+    },
+    "RC0038": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories neutral, cuisine disagrees"
+    },
+    "RC0039": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories neutral, cuisine disagrees"
+    },
+    "RC0040": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories strongly support recipe"
+    },
+    "RC0041": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories strongly support recipe"
+    },
+    "RC0042": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories neutral, cuisine disagrees"
+    },
+    "RC0043": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Both signals are supportive"
+    },
+    "RC0044": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American cuisine is broad."
+    },
+    "RC0045": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Observed categories fit recipe."
+    },
+    "RC0046": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Spanish is Mediterranean cuisine."
+    },
+    "RC0047": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Observed categories fit recipe."
+    },
+    "RC0048": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Dairy not typical for Pho."
+    },
+    "RC0050": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Observed categories fit recipe."
+    },
+    "RC0051": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Moroccan fits Mediterranean cuisine."
+    },
+    "RC0052": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Vietnamese Pho not French cuisine."
+    },
+    "RC0053": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Stir-fry not Mexican cuisine."
+    },
+    "RC0054": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Korean fits Fusion, categories align."
+    },
+    "RC0055": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian not Asian cuisine."
+    },
+    "RC0056": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Chicken Parm not Thai cuisine."
+    },
+    "RC0057": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Generic recipe, categories plausible."
+    },
+    "RC0058": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories general, permissive rule."
+    },
+    "RC0059": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories general, permissive rule."
+    },
+    "RC0061": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories general, permissive rule."
+    },
+    "RC0062": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Generic recipe, categories plausible."
+    },
+    "RC0063": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories compatible, permissive rule."
+    },
+    "RC0065": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian dish, not Middle Eastern."
+    },
+    "RC0066": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories fit Chinese dish well."
+    },
+    "RC0067": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories fit Chinese dish well."
+    },
+    "RC0068": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories fit Brazilian dish well."
+    },
+    "RC0069": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Fusion cuisine is broad, categories fit."
+    },
+    "RC0071": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories fit Indian dish well."
+    },
+    "RC0072": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories fit"
+    },
+    "RC0074": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian cuisine, categories don't fit"
+    },
+    "RC0075": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories generic, could fit"
+    },
+    "RC0076": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories fit recipe well"
+    },
+    "RC0078": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories generic, could fit"
+    },
+    "RC0079": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories generic, could fit"
+    },
+    "RC0080": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Cuisine mismatch, categories neutral."
+    },
+    "RC0081": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories neutral."
+    },
+    "RC0082": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Cuisine mismatch, categories neutral."
+    },
+    "RC0083": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisines and categories align well."
+    },
+    "RC0086": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Cuisine mismatch, categories neutral."
+    },
+    "RC0087": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisines and categories align well."
+    },
+    "RC0088": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories fit, despite cuisine"
+    },
+    "RC0089": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories fit, cuisine not restrictive"
+    },
+    "RC0090": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Cuisine and categories align"
+    },
+    "RC0091": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories fit, despite cuisine"
+    },
+    "RC0092": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories fit, despite cuisine"
+    },
+    "RC0093": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Cuisine and categories align"
+    },
+    "RC0094": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Steakhouse, categories don't support."
+    },
+    "RC0095": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian cuisine, categories fit well."
+    },
+    "RC0096": {
+      "coherent": true,
+      "confidence": 0.75,
+      "reason": "Observed categories support Moussaka."
+    },
+    "RC0097": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Mediterranean, categories don't support."
+    },
+    "RC0098": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "High spice category fits Vindaloo."
+    },
+    "RC0100": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "Thai cuisine, categories don't support."
+    },
+    "RC0101": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Spanish cuisine can include Peruvian."
+    },
+    "RC0103": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Vietnamese recipe, Spanish restaurant."
+    },
+    "RC0104": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Classic Mediterranean dish."
+    },
+    "RC0105": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "East Asian recipe, Mexican restaurant."
+    },
+    "RC0106": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Spanish recipe, Mexican restaurant."
+    },
+    "RC0107": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Cuban recipe, Thai restaurant."
+    },
+    "RC0108": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Both signals strongly agree."
+    },
+    "RC0109": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0110": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0111": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support."
+    },
+    "RC0113": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Fusion cuisine allows Chinese."
+    },
+    "RC0114": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Both signals strongly agree."
+    },
+    "RC0115": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories allow meat."
+    },
+    "RC0116": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories strongly support recipe."
+    },
+    "RC0119": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Cuisine matches, categories consistent."
+    },
+    "RC0121": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Cuisine mismatch, categories mostly fit."
+    },
+    "RC0122": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine related, categories support."
+    },
+    "RC0124": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine matches, categories mostly fit."
+    },
+    "RC0125": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Broad cuisine, general categories."
+    },
+    "RC0126": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Mexican dish, Thai cuisine, general categories."
+    },
+    "RC0127": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Permissive, general categories."
+    },
+    "RC0128": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories support recipe, contradict cuisine."
+    },
+    "RC0130": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Perfect match, cuisine and categories."
+    },
+    "RC0131": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French dish, Chinese cuisine, general categories."
+    },
+    "RC0132": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is broad"
+    },
+    "RC0133": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is broad"
+    },
+    "RC0134": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories are generic"
+    },
+    "RC0135": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Recipe, cuisine, categories mismatch"
+    },
+    "RC0136": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Categories are generic"
+    },
+    "RC0139": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Spanish recipe, Japanese restaurant."
+    },
+    "RC0140": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Recipe, cuisine, categories all match."
+    },
+    "RC0141": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Vietnamese recipe, Indian restaurant."
+    },
+    "RC0142": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "East Asian recipe, Mediterranean restaurant."
+    },
+    "RC0143": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Brazilian dish fits steakhouse."
+    },
+    "RC0144": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Seafood restaurant serves salmon sushi."
+    },
+    "RC0145": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Steakhouse, no seafood/rice observed"
+    },
+    "RC0146": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Korean, no seafood/grits observed"
+    },
+    "RC0147": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Mediterranean, categories align well"
+    },
+    "RC0148": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Mexican, categories align well"
+    },
+    "RC0149": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Korean, categories align perfectly"
+    },
+    "RC0150": {
+      "coherent": true,
+      "confidence": 0.75,
+      "reason": "Observed categories support Indian"
+    },
+    "RC0151": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "American cuisine is very diverse."
+    },
+    "RC0152": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French quiche, not Middle Eastern."
+    },
+    "RC0153": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French soup, not Greek cuisine."
+    },
+    "RC0154": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French stew, not Middle Eastern."
+    },
+    "RC0155": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Seafood restaurant can serve Thai."
+    },
+    "RC0156": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "French-inspired, not Korean; no dairy."
+    },
+    "RC0157": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, ingredients match"
+    },
+    "RC0158": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Generic dish, categories don't contradict"
+    },
+    "RC0159": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Direct cuisine match, plausible ingredients"
+    },
+    "RC0160": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, ingredients match"
+    },
+    "RC0161": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian dish at Korean restaurant"
+    },
+    "RC0162": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Invalid recipe name provided"
+    },
+    "RC0163": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Steakhouse can offer diverse stews."
+    },
+    "RC0164": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Pan-Asian influence possible."
+    },
+    "RC0165": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Not a recipe name."
+    },
+    "RC0166": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is very broad."
+    },
+    "RC0167": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Classic French dish, French cuisine."
+    },
+    "RC0168": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Italian food common in American."
+    },
+    "RC0169": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Vietnamese recipe, Indian restaurant/ingredients."
+    },
+    "RC0170": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "American restaurants serve Mexican dishes."
+    },
+    "RC0172": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "Chinese recipe, Mediterranean restaurant."
+    },
+    "RC0173": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed ingredients match Thai cuisine."
+    },
+    "RC0174": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "Chinese recipe, Spanish restaurant."
+    },
+    "RC0175": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed ingredients match Indian cuisine."
+    },
+    "RC0176": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian stir-fry fits Vietnamese cuisine."
+    },
+    "RC0177": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Pan-Asian menu possible, both Asian."
+    },
+    "RC0178": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Bouillabaisse is a Mediterranean dish."
+    },
+    "RC0179": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Mexican meat dish at seafood restaurant."
+    },
+    "RC0180": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Japanese recipe at Greek restaurant."
+    },
+    "RC0181": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "European dish at Asian restaurant."
+    },
+    "RC0183": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cajun dish, not Indian cuisine."
+    },
+    "RC0187": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Shawarma is Middle Eastern, not Vietnamese."
+    },
+    "RC0189": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories include meat, spice."
+    },
+    "RC0190": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Spanish cuisine includes seafood dishes."
+    },
+    "RC0191": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Jerk chicken is Jamaican, not Korean."
+    },
+    "RC0192": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cannoli is Italian, not Chinese cuisine."
+    },
+    "RC0194": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories fit Shawarma ingredients."
+    },
+    "RC0195": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Classic Italian, categories consistent."
+    },
+    "RC0196": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories fit Tex-Mex ingredients."
+    },
+    "RC0197": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Chili not Chinese, categories mismatch."
+    },
+    "RC0198": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Paella not Steakhouse, categories mismatch."
+    },
+    "RC0199": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories fit steak frites."
+    },
+    "RC0200": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cajun is American regional cuisine."
+    },
+    "RC0201": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "French recipe, Vietnamese restaurant."
+    },
+    "RC0202": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Mexican recipe, Korean restaurant."
+    },
+    "RC0203": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Shawarma is Middle Eastern, not French."
+    },
+    "RC0204": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American often includes Asian fusion."
+    },
+    "RC0206": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine embraces diverse dishes."
+    },
+    "RC0207": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese restaurant, categories not Japanese."
+    },
+    "RC0209": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Not sushi; categories contradict recipe."
+    },
+    "RC0211": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories general; restaurant might diversify."
+    },
+    "RC0212": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories general; restaurant might diversify."
+    },
+    "RC0214": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Indian restaurant; categories not Japanese."
+    },
+    "RC0215": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories support; cuisine type misleading."
+    },
+    "RC0216": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Generic recipe, categories fit."
+    },
+    "RC0217": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Fusion dish, seafood cuisine fits."
+    },
+    "RC0218": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Restaurant uses meat, cuisine mismatch."
+    },
+    "RC0220": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Generic recipe, categories fit."
+    },
+    "RC0221": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories fit, cuisine mismatch."
+    },
+    "RC0222": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Perfect match, classic Mexican."
+    },
+    "RC0224": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0225": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0226": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0227": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0228": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0229": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0230": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories compatible, cuisine mismatch."
+    },
+    "RC0231": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Cuisines overlap, categories fit recipe."
+    },
+    "RC0232": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories fit, overriding cuisine type."
+    },
+    "RC0233": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0235": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0236": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Fusion cuisine, categories fit recipe."
+    },
+    "RC0237": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "North African dish, Spanish restaurant."
+    },
+    "RC0238": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Perfect match, typical Indian ingredients."
+    },
+    "RC0239": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Chinese dish, Spanish restaurant, no Asian."
+    },
+    "RC0240": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Vietnamese dish, Indian restaurant, ingredients mismatch."
+    },
+    "RC0242": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Korean dish, Asian restaurant, ingredients match."
+    },
+    "RC0243": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Mexican-inspired, general ingredients."
+    },
+    "RC0244": {
+      "coherent": true,
+      "confidence": 0.65,
+      "reason": "High spice category present."
+    },
+    "RC0245": {
+      "coherent": true,
+      "confidence": 0.65,
+      "reason": "Meat and spice categories present."
+    },
+    "RC0246": {
+      "coherent": true,
+      "confidence": 0.65,
+      "reason": "Spice and meat categories present."
+    },
+    "RC0247": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0248": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0249": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Dairy category contradicts Pho recipe."
+    },
+    "RC0250": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Chili is not Chinese cuisine."
+    },
+    "RC0251": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories fit Moroccan cuisine."
+    },
+    "RC0252": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Beef dish fits steakhouse, categories align."
+    },
+    "RC0253": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories fit Tex-Mex cuisine."
+    },
+    "RC0254": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Thai curry is not Chinese cuisine."
+    },
+    "RC0255": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories fit Jamaican cuisine."
+    },
+    "RC0256": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian cuisine, no duck/spring roll ingredients"
+    },
+    "RC0257": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cajun dish, not Asian, categories don't fit"
+    },
+    "RC0258": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Peruvian-Chinese fusion, fits Chinese cuisine"
+    },
+    "RC0260": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian seafood dish, no seafood in categories"
+    },
+    "RC0261": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Mexican dish, not Korean, no dairy"
+    },
+    "RC0263": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories fit Korean, despite Mexican cuisine"
+    },
+    "RC0264": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Sushi contradicts Middle Eastern cuisine/ingredients"
+    },
+    "RC0266": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Italian dish contradicts Chinese cuisine/categories"
+    },
+    "RC0267": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Meat category supports French chicken dish"
+    },
+    "RC0268": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Indian/Middle Eastern cuisines share ingredients"
+    },
+    "RC0269": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "French fish stew fits Mediterranean cuisine"
+    },
+    "RC0270": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories support Middle Eastern dish"
+    },
+    "RC0273": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese ramen, Mediterranean restaurant."
+    },
+    "RC0274": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Spanish paella, Chinese restaurant."
+    },
+    "RC0275": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Chinese dish, French restaurant, dairy."
+    },
+    "RC0277": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian ceviche, Middle Eastern restaurant."
+    },
+    "RC0278": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories include meat, not seafood."
+    },
+    "RC0279": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Southeast Asian cuisines share similarities."
+    },
+    "RC0280": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Not a recipe name"
+    },
+    "RC0281": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Recipe Western, cuisine Asian"
+    },
+    "RC0282": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Recipe Mexican, cuisine French"
+    },
+    "RC0283": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Recipe Italian, cuisine Asian"
+    },
+    "RC0284": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Recipe French, cuisine Mexican"
+    },
+    "RC0285": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories fit recipe"
+    },
+    "RC0286": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese, Dairy, not Thai."
+    },
+    "RC0287": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories support Indian cuisine."
+    },
+    "RC0288": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories strongly support recipe."
+    },
+    "RC0289": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories fit Korean recipe."
+    },
+    "RC0290": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories strongly support recipe."
+    },
+    "RC0291": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories fit Korean recipe."
+    },
+    "RC0292": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories generic"
+    },
+    "RC0293": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories generic"
+    },
+    "RC0295": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories generic"
+    },
+    "RC0296": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Related cuisines, categories match"
+    },
+    "RC0297": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories fit, cuisine mismatch"
+    },
+    "RC0298": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Fusion cuisine, categories mostly fit"
+    },
+    "RC0299": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories general, not strong contradiction."
+    },
+    "RC0300": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories fit recipe well."
+    },
+    "RC0301": {
+      "coherent": true,
+      "confidence": 0.65,
+      "reason": "Categories compatible, not strong contradiction."
+    },
+    "RC0302": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories fit recipe well."
+    },
+    "RC0303": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories fit perfectly, related cuisines."
+    },
+    "RC0304": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "Cuisine mismatch, key ingredients missing."
+    },
+    "RC0305": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Vietnamese is Asian cuisine."
+    },
+    "RC0306": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories fit, despite cuisine label."
+    },
+    "RC0307": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Categories too general to contradict."
+    },
+    "RC0308": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Korean dish at Korean restaurant."
+    },
+    "RC0309": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Fusion cuisine is very broad."
+    },
+    "RC0310": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Categories too general to contradict."
+    },
+    "RC0311": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine and categories strongly disagree"
+    },
+    "RC0312": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories fit well"
+    },
+    "RC0313": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories fit, trust categories"
+    },
+    "RC0314": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "East Asian cuisines overlap, categories fit"
+    },
+    "RC0315": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American broad, categories fit well"
+    },
+    "RC0316": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories fit, trust categories"
+    },
+    "RC0319": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories support Indian spices."
+    },
+    "RC0320": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support Thai flavors."
+    },
+    "RC0321": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "All signals align perfectly."
+    },
+    "RC0322": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories are generic, not Asian."
+    },
+    "RC0323": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories are generic, not Chinese."
+    },
+    "RC0324": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion dish, Asian cuisine broad."
+    },
+    "RC0325": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian cuisine, spice-heavy categories."
+    },
+    "RC0326": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion allows Greek; categories fit Moussaka."
+    },
+    "RC0327": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Seafood cuisine, but recipe is chicken."
+    },
+    "RC0328": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion allows Moroccan; categories fit stew."
+    },
+    "RC0329": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories general; restaurant can serve French."
+    },
+    "RC0330": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Seafood cuisine, but recipe is steak."
+    },
+    "RC0331": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian ceviche not Italian."
+    },
+    "RC0332": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Not a valid recipe name."
+    },
+    "RC0333": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Italian pasta not Vietnamese."
+    },
+    "RC0334": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories allow it."
+    },
+    "RC0335": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories support Banh Mi."
+    },
+    "RC0336": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories allow it."
+    },
+    "RC0337": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories compatible with recipe."
+    },
+    "RC0338": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine type and categories fit."
+    },
+    "RC0339": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine type and categories fit."
+    },
+    "RC0340": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0341": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories compatible with recipe."
+    },
+    "RC0342": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories compatible with recipe."
+    },
+    "RC0343": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories generic."
+    },
+    "RC0344": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories match recipe well."
+    },
+    "RC0345": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Recipe, cuisine, categories align."
+    },
+    "RC0346": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories match recipe well."
+    },
+    "RC0348": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine, categories mismatch recipe."
+    },
+    "RC0350": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Recipe, cuisine, categories align."
+    },
+    "RC0351": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine includes B\u00e1nh M\u00ec."
+    },
+    "RC0352": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Classic American dish, matching cuisine."
+    },
+    "RC0353": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories compatible with recipe."
+    },
+    "RC0354": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Asian cuisines often overlap; categories fit."
+    },
+    "RC0355": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories include meat, compatible."
+    },
+    "RC0356": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian cuisine is broad, Lomo Saltado fits."
+    },
+    "RC0357": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories general, cuisine mismatch."
+    },
+    "RC0358": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "High spice share supports Indian."
+    },
+    "RC0359": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Both signals strongly contradict recipe."
+    },
+    "RC0360": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories general, cuisine mismatch."
+    },
+    "RC0361": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories consistent, steakhouse serves meat."
+    },
+    "RC0362": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories consistent, mild cuisine mismatch."
+    },
+    "RC0363": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian cuisine, no Japanese categories"
+    },
+    "RC0364": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "General categories, spice fits jerk"
+    },
+    "RC0366": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Fusion dish, general categories"
+    },
+    "RC0367": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "General categories, Asian cuisines overlap"
+    },
+    "RC0368": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine fits fusion dish"
+    },
+    "RC0369": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories fit Kimbap"
+    },
+    "RC0370": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support Indian."
+    },
+    "RC0372": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support Thai curry."
+    },
+    "RC0373": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Both signals disagree with Cuban."
+    },
+    "RC0374": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Both cuisine signals agree."
+    },
+    "RC0375": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories support recipe elements."
+    },
+    "RC0376": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals disagree with Thai curry."
+    },
+    "RC0377": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0378": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian restaurant, Korean recipe, categories disagree."
+    },
+    "RC0379": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0380": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Steakhouse can serve Spanish dishes."
+    },
+    "RC0381": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Mexican restaurant, common fusion dish."
+    },
+    "RC0382": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "High spice category supports recipe."
+    },
+    "RC0383": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Thai restaurant, Moroccan dish mismatch."
+    },
+    "RC0384": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Chinese restaurant, Indian dish mismatch."
+    },
+    "RC0385": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Middle Eastern, Western dish mismatch."
+    },
+    "RC0387": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories support Thai curry."
+    },
+    "RC0388": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Mexican restaurant, Italian dish mismatch."
+    },
+    "RC0389": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American, fruit category strongly supports."
+    },
+    "RC0390": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories support recipe."
+    },
+    "RC0391": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories support curry."
+    },
+    "RC0392": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals contradict recipe."
+    },
+    "RC0393": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Both signals contradict recipe."
+    },
+    "RC0395": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Both signals contradict recipe."
+    },
+    "RC0398": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories support curry."
+    },
+    "RC0399": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine, categories match recipe"
+    },
+    "RC0400": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0401": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories align with recipe"
+    },
+    "RC0402": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0403": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories align with recipe"
+    },
+    "RC0404": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories align with recipe"
+    },
+    "RC0405": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Mexican dish, Indian restaurant"
+    },
+    "RC0406": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Thai/Italian fusion, Mexican restaurant"
+    },
+    "RC0407": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese dish, Mexican restaurant"
+    },
+    "RC0408": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Mexican dish, Asian restaurant"
+    },
+    "RC0409": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian dish, Mediterranean restaurant"
+    },
+    "RC0410": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Middle Eastern dish, Mexican restaurant"
+    },
+    "RC0412": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is very broad"
+    },
+    "RC0413": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Pan-Asian or popular dish"
+    },
+    "RC0414": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Common vegetarian/side dish"
+    },
+    "RC0415": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Pan-Asian or popular dish"
+    },
+    "RC0417": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Modern American cuisine is diverse"
+    },
+    "RC0418": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Italian restaurant, Korean dish mismatch"
+    },
+    "RC0419": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Korean restaurant, Middle Eastern dish."
+    },
+    "RC0420": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian restaurant, Vietnamese dish."
+    },
+    "RC0421": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Vietnamese restaurant, Mexican dish."
+    },
+    "RC0422": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Restaurant uses meat category."
+    },
+    "RC0423": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is very broad."
+    },
+    "RC0424": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese restaurant, specific Thai dish."
+    },
+    "RC0425": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine mismatch, categories don't align"
+    },
+    "RC0426": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Cuisine mismatch, categories are general"
+    },
+    "RC0427": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Cuisine mismatch, categories are general"
+    },
+    "RC0428": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisines align, categories consistent"
+    },
+    "RC0429": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Cuisine mismatch, categories are permissive"
+    },
+    "RC0430": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine mismatch, categories contradict"
+    },
+    "RC0431": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Meat category present"
+    },
+    "RC0432": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Related cuisines, general categories"
+    },
+    "RC0433": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Meat category present"
+    },
+    "RC0434": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "High spice category supports recipe"
+    },
+    "RC0435": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Strong cuisine mismatch, generic categories"
+    },
+    "RC0436": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Meat category present"
+    },
+    "RC0437": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese sushi, not Korean, categories mismatch"
+    },
+    "RC0438": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Southeast Asian, not Mediterranean"
+    },
+    "RC0439": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American fusion, categories fit"
+    },
+    "RC0440": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American steakhouses serve international cuts"
+    },
+    "RC0443": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories (dairy, sauce) fit well"
+    },
+    "RC0444": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine incorporates international dishes"
+    },
+    "RC0445": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "American cuisine is very broad."
+    },
+    "RC0447": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French recipe, Greek cuisine mismatch."
+    },
+    "RC0448": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Southeast Asian recipe, Spanish cuisine mismatch."
+    },
+    "RC0449": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "Vietnamese recipe, Japanese cuisine mismatch."
+    },
+    "RC0450": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Mexican recipe, Italian cuisine mismatch."
+    },
+    "RC0451": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Simple dish, categories are generic."
+    },
+    "RC0452": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0453": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories general; many restaurants diversify."
+    },
+    "RC0454": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0455": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian cuisines overlap, categories match."
+    },
+    "RC0456": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0458": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "American cuisine broad, categories match."
+    },
+    "RC0459": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Jamaican recipe, Greek restaurant."
+    },
+    "RC0460": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine includes Italian-American."
+    },
+    "RC0461": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Moroccan recipe, Thai restaurant."
+    },
+    "RC0462": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Japanese recipe, Middle Eastern restaurant."
+    },
+    "RC0463": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Peruvian-Chinese fusion, Asian restaurant."
+    },
+    "RC0464": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "East Asian cuisines often overlap."
+    },
+    "RC0465": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Observed categories consistent with recipe."
+    },
+    "RC0466": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly fit chili."
+    },
+    "RC0467": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly fit stir-fry."
+    },
+    "RC0468": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly fit Moroccan stew."
+    },
+    "RC0469": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly fit Japanese recipe."
+    },
+    "RC0470": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Both signals strongly agree."
+    },
+    "RC0471": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Recipe, cuisine, categories mismatch"
+    },
+    "RC0472": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories support Indian"
+    },
+    "RC0473": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Recipe, cuisine, categories mismatch"
+    },
+    "RC0474": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories support creamy dish"
+    },
+    "RC0475": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories support Moroccan"
+    },
+    "RC0477": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories support Greek"
+    },
+    "RC0478": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine type strongly contradicts recipe."
+    },
+    "RC0479": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine type strongly contradicts recipe."
+    },
+    "RC0480": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories consistent with Thai."
+    },
+    "RC0481": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Generic recipe, categories consistent."
+    },
+    "RC0482": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0483": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine type strongly contradicts recipe."
+    },
+    "RC0484": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Cuisine, categories contradict recipe."
+    },
+    "RC0486": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support Thai dish."
+    },
+    "RC0487": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support Indian dish."
+    },
+    "RC0488": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine, categories contradict recipe."
+    },
+    "RC0489": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Cuisine, categories contradict recipe."
+    },
+    "RC0490": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Fusion cuisine allows Italian dish."
+    },
+    "RC0491": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Perfect match with cuisine and categories."
+    },
+    "RC0492": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian cuisine, Italian dish, category mismatch."
+    },
+    "RC0493": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "French dish at Italian restaurant."
+    },
+    "RC0494": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "American cuisine, American dish, categories fit."
+    },
+    "RC0495": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "Brazilian dish at Mediterranean restaurant."
+    },
+    "RC0496": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories fit, despite French cuisine."
+    },
+    "RC0497": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine and recipe strongly mismatch."
+    },
+    "RC0498": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories support recipe."
+    },
+    "RC0499": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Fusion dish, categories support."
+    },
+    "RC0500": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Cuisine and categories match."
+    },
+    "RC0501": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Both Asian, categories general."
+    },
+    "RC0502": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories support recipe."
+    },
+    "RC0503": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Chinese restaurant, but generic categories"
+    },
+    "RC0504": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian seafood, no seafood categories"
+    },
+    "RC0505": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine includes tacos; categories fit"
+    },
+    "RC0506": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "French cuisine, but categories are generic"
+    },
+    "RC0507": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "French cuisine, categories fit perfectly"
+    },
+    "RC0508": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support chicken, not seafood"
+    },
+    "RC0509": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Fusion dish, categories not contradictory."
+    },
+    "RC0510": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Categories not contradictory, despite cuisine."
+    },
+    "RC0511": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories consistent."
+    },
+    "RC0513": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories strongly support recipe."
+    },
+    "RC0514": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories consistent, despite cuisine mismatch."
+    },
+    "RC0515": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Greek cuisine, categories consistent."
+    },
+    "RC0517": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories neutral"
+    },
+    "RC0518": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Steakhouse, no seafood categories"
+    },
+    "RC0519": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Invalid recipe name provided"
+    },
+    "RC0520": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories neutral"
+    },
+    "RC0521": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Related cuisines, categories fit"
+    },
+    "RC0522": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Cuisine fits, categories align"
+    },
+    "RC0523": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cajun recipe, Mediterranean cuisine mismatch"
+    },
+    "RC0524": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Italian dessert, Chinese cuisine, categories"
+    },
+    "RC0525": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American cuisine includes Tex-Mex dishes"
+    },
+    "RC0526": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Neighboring East Asian cuisines overlap"
+    },
+    "RC0528": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Neighboring cuisines, categories not contradictory"
+    },
+    "RC0529": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Recipe matches cuisine, categories fit"
+    },
+    "RC0530": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian dessert at Japanese restaurant."
+    },
+    "RC0532": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories strongly support Indian cuisine."
+    },
+    "RC0534": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Categories strongly support Moroccan cuisine."
+    },
+    "RC0536": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French dish at Indian restaurant."
+    },
+    "RC0537": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Fusion allows diverse, categories fit."
+    },
+    "RC0538": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Not a valid recipe name."
+    },
+    "RC0540": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Stuffed peppers fit Spanish cuisine."
+    },
+    "RC0541": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Seafood restaurant, Italian chicken pasta."
+    },
+    "RC0543": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Vietnamese restaurant, French steak dish."
+    },
+    "RC0544": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Mediterranean restaurant, Cajun dish."
+    },
+    "RC0545": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Fusion restaurant, Moroccan dish fits."
+    },
+    "RC0547": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American restaurants serve international dishes."
+    },
+    "RC0548": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Sushi doesn't fit Mediterranean cuisine."
+    },
+    "RC0549": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Thai and Chinese cuisines overlap."
+    },
+    "RC0550": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly suggest Indian."
+    },
+    "RC0551": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine is very broad."
+    },
+    "RC0552": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian dish, Middle Eastern restaurant."
+    },
+    "RC0553": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French dish, Mexican restaurant."
+    },
+    "RC0554": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Cuisine type contradicts, categories neutral."
+    },
+    "RC0555": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "All signals align perfectly."
+    },
+    "RC0556": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Cuisine type contradicts, categories neutral."
+    },
+    "RC0557": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0558": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Cuisine type contradicts, categories neutral."
+    },
+    "RC0559": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories compatible, cuisine type contradicts."
+    },
+    "RC0560": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories support recipe"
+    },
+    "RC0561": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories are generic"
+    },
+    "RC0562": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Fusion cuisine, categories align"
+    },
+    "RC0563": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support recipe"
+    },
+    "RC0564": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support recipe"
+    },
+    "RC0566": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Not a valid recipe name"
+    },
+    "RC0567": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories support stew."
+    },
+    "RC0568": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Observed categories compatible."
+    },
+    "RC0569": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support curry."
+    },
+    "RC0570": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Observed categories compatible."
+    },
+    "RC0571": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support curry."
+    },
+    "RC0573": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Cuisines overlap, categories fit."
+    },
+    "RC0574": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Steakhouse often serves brunch/lunch"
+    },
+    "RC0575": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Moroccan stew very different from Vietnamese"
+    },
+    "RC0576": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian dish very different from Asian"
+    },
+    "RC0577": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Italian-American dish very different from Indian"
+    },
+    "RC0578": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Mexican dish very different from Italian"
+    },
+    "RC0579": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Cuisines share many ingredients/flavors"
+    },
+    "RC0580": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Matches cuisine type and categories."
+    },
+    "RC0581": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0584": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0585": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is very permissive."
+    },
+    "RC0586": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0589": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American cuisine is broad and permissive."
+    },
+    "RC0590": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0591": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories don't contradict recipe."
+    },
+    "RC0592": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both cuisine and ingredients disagree."
+    },
+    "RC0593": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Both cuisine and ingredients agree."
+    },
+    "RC0594": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories strongly match recipe."
+    },
+    "RC0595": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both cuisine and ingredients disagree."
+    },
+    "RC0596": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine is broad."
+    },
+    "RC0597": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories consistent with recipe."
+    },
+    "RC0598": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories consistent with recipe."
+    },
+    "RC0599": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories consistent with recipe."
+    },
+    "RC0600": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories consistent with recipe."
+    },
+    "RC0601": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories consistent with recipe."
+    },
+    "RC0602": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Both signals align perfectly."
+    },
+    "RC0603": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Cuisine vague, categories general."
+    },
+    "RC0604": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Plausible fusion for American restaurant."
+    },
+    "RC0605": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Seafood cuisine, recipe is seafood."
+    },
+    "RC0606": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Cuisine mismatch, categories generic."
+    },
+    "RC0607": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0608": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories compatible."
+    },
+    "RC0609": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "European dessert, categories support."
+    },
+    "RC0611": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Greek cuisine, Japanese recipe."
+    },
+    "RC0612": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Asian cuisine, Moroccan recipe."
+    },
+    "RC0613": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine, categories support."
+    },
+    "RC0615": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Spanish-Moroccan ties, categories support."
+    },
+    "RC0616": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories support, cuisine type broad."
+    },
+    "RC0617": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Both signals contradict Chinese recipe."
+    },
+    "RC0618": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Cuisine type mismatch, categories general."
+    },
+    "RC0619": {
+      "coherent": true,
+      "confidence": 0.99,
+      "reason": "Both signals align perfectly."
+    },
+    "RC0620": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine type strongly contradicts recipe."
+    },
+    "RC0621": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories compatible, cuisine types overlap."
+    },
+    "RC0622": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories are general."
+    },
+    "RC0623": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories fit perfectly."
+    },
+    "RC0624": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0626": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0627": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories fit general Asian."
+    },
+    "RC0628": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0629": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French recipe, Vietnamese restaurant, categories don't fit."
+    },
+    "RC0630": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories align with Indian."
+    },
+    "RC0631": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Szechuan hot pot can be seafood."
+    },
+    "RC0632": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian recipe, Indian restaurant, categories don't fit."
+    },
+    "RC0633": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Mediterranean cuisine, categories fit."
+    },
+    "RC0635": {
+      "coherent": true,
+      "confidence": 0.75,
+      "reason": "Mediterranean cuisine includes seafood."
+    },
+    "RC0637": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Thai/Italian fusion, Middle Eastern restaurant."
+    },
+    "RC0639": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American restaurants often serve international."
+    },
+    "RC0640": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Brazilian steakhouses serve Feijoada."
+    },
+    "RC0641": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Korean/Mexican fusion, Thai restaurant."
+    },
+    "RC0642": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Classic Thai dish, Korean restaurant."
+    },
+    "RC0643": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Western pasta dish, Asian restaurant."
+    },
+    "RC0645": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Perfect cuisine match."
+    },
+    "RC0646": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories fit dish."
+    },
+    "RC0647": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Modern dish, categories fit."
+    },
+    "RC0648": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories fit dish."
+    },
+    "RC0649": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine is broad."
+    },
+    "RC0650": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Categories fit dish."
+    },
+    "RC0652": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine type mismatch."
+    },
+    "RC0653": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine is broad."
+    },
+    "RC0654": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine type mismatch."
+    },
+    "RC0655": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is broad."
+    },
+    "RC0656": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Seafood restaurant can offer non-seafood."
+    },
+    "RC0657": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine type mismatch."
+    },
+    "RC0658": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian cuisine, no meat/grain."
+    },
+    "RC0659": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Duck plausible in Vietnamese cuisine."
+    },
+    "RC0660": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Fusion allows, categories match Moussaka."
+    },
+    "RC0661": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Thai is Asian, categories match curry."
+    },
+    "RC0663": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Direct cuisine and category match."
+    },
+    "RC0664": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Steakhouse, categories don't support."
+    },
+    "RC0665": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories support Indian spices."
+    },
+    "RC0666": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Observed categories support Italian ingredients."
+    },
+    "RC0667": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories support Jerk spices."
+    },
+    "RC0668": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Categories contradict Italian dessert recipe."
+    },
+    "RC0669": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Categories contradict Alfredo, high spice/seafood."
+    },
+    "RC0670": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories fit Banh Mi, related cuisine."
+    },
+    "RC0671": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French dish, Italian restaurant, no seafood."
+    },
+    "RC0672": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "French soup, but ingredients align."
+    },
+    "RC0673": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "French fusion, but ingredients align."
+    },
+    "RC0674": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American cuisine broad, ingredients fit."
+    },
+    "RC0675": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Asian cuisine, ingredients perfectly align."
+    },
+    "RC0677": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Korean dish, Mexican restaurant, no rice."
+    },
+    "RC0678": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Fusion cuisine is broad"
+    },
+    "RC0679": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Steakhouse, no Asian categories"
+    },
+    "RC0680": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Mediterranean, consistent categories"
+    },
+    "RC0681": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Thai cuisine, no ME categories"
+    },
+    "RC0682": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Steakhouse often serves French Onion Soup"
+    },
+    "RC0683": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Both Asian, burger fusion item"
+    },
+    "RC0684": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese cuisine, non-Japanese recipe."
+    },
+    "RC0685": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French cuisine, Japanese fusion recipe."
+    },
+    "RC0686": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Fusion cuisine, consistent categories."
+    },
+    "RC0688": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Indian cuisine, Japanese sushi recipe."
+    },
+    "RC0689": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Mediterranean cuisine, consistent recipe."
+    },
+    "RC0690": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Fusion cuisine, consistent categories."
+    },
+    "RC0691": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories compatible, cuisine mismatch."
+    },
+    "RC0693": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories compatible, cuisine mismatch."
+    },
+    "RC0694": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories fit."
+    },
+    "RC0695": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories compatible, cuisine mismatch."
+    },
+    "RC0697": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Meat focus aligns, plausible sandwich."
+    },
+    "RC0699": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories compatible, cuisine mismatch."
+    },
+    "RC0700": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories consistent with recipe."
+    },
+    "RC0701": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories consistent with recipe."
+    },
+    "RC0702": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Pan-Asian, categories consistent."
+    },
+    "RC0705": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals disagree with recipe."
+    },
+    "RC0706": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories consistent."
+    },
+    "RC0707": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Fusion cuisine, categories plausible."
+    },
+    "RC0708": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Seafood cuisine, common ingredients."
+    },
+    "RC0710": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Fusion cuisine allows Japanese dishes."
+    },
+    "RC0711": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Classic Thai dish, matching cuisine."
+    },
+    "RC0713": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Indian dish, Vietnamese restaurant, mismatch."
+    },
+    "RC0714": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Dairy category supports Italian dish."
+    },
+    "RC0715": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese, no dairy, Italian dish."
+    },
+    "RC0716": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories neutral"
+    },
+    "RC0717": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories neutral"
+    },
+    "RC0718": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories neutral"
+    },
+    "RC0719": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine is broad"
+    },
+    "RC0720": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Cuisine and categories match"
+    },
+    "RC0721": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories fit"
+    },
+    "RC0722": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Steakhouse often serves Tex-Mex"
+    },
+    "RC0724": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Moroccan is Mediterranean cuisine"
+    },
+    "RC0725": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Pan-Asian menu possible"
+    },
+    "RC0726": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "General categories, fusion possible"
+    },
+    "RC0727": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "High spice share supports"
+    },
+    "RC0728": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Pan-Asian menu possible"
+    },
+    "RC0729": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian cuisine, general categories."
+    },
+    "RC0730": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Both Asian, categories are general."
+    },
+    "RC0731": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories align well."
+    },
+    "RC0732": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Strong cuisine mismatch, generic categories."
+    },
+    "RC0733": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Strong cuisine mismatch, generic categories."
+    },
+    "RC0734": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Strong cuisine mismatch, generic categories."
+    },
+    "RC0735": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Cuisine type mismatch"
+    },
+    "RC0737": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support recipe"
+    },
+    "RC0738": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support recipe"
+    },
+    "RC0740": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support recipe"
+    },
+    "RC0742": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Cuisine type mismatch"
+    },
+    "RC0744": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Both signals disagree with recipe"
+    },
+    "RC0745": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Generic categories don't contradict recipe."
+    },
+    "RC0746": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Generic categories don't contradict recipe."
+    },
+    "RC0747": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Generic categories don't contradict recipe."
+    },
+    "RC0748": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Generic categories don't contradict recipe."
+    },
+    "RC0750": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "American cuisine is broad, categories generic."
+    },
+    "RC0751": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Both signals strongly agree with recipe."
+    },
+    "RC0752": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Modern Korean offers healthy bowls."
+    },
+    "RC0753": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian dish at Japanese restaurant."
+    },
+    "RC0754": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Classic Mediterranean, consistent categories."
+    },
+    "RC0755": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian dish at Chinese restaurant."
+    },
+    "RC0756": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Lomo Saltado is Chinese-Peruvian fusion."
+    },
+    "RC0757": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "American cuisine is broad, fusion possible."
+    },
+    "RC0758": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian restaurant, Mexican dish, no seafood"
+    },
+    "RC0759": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "American cuisine is broad, plausible"
+    },
+    "RC0760": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Steakhouse, beef dish, categories fit"
+    },
+    "RC0761": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "American cuisine broad, fusion plausible"
+    },
+    "RC0762": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, technique fits well"
+    },
+    "RC0763": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support Kimbap"
+    },
+    "RC0764": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American restaurants often offer diverse dishes."
+    },
+    "RC0765": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Indian restaurant unlikely to serve Thai-Italian fusion."
+    },
+    "RC0766": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Fusion cuisine allows diverse dishes."
+    },
+    "RC0768": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Not a valid recipe name."
+    },
+    "RC0770": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese restaurant unlikely to serve Thai soup."
+    },
+    "RC0771": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Spanish restaurants can offer Mexican dishes."
+    },
+    "RC0773": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Fusion cuisine is very broad."
+    },
+    "RC0774": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Spanish restaurants can offer grilled meats."
+    },
+    "RC0775": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Generic categories, permissive interpretation."
+    },
+    "RC0776": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Risotto fits Mediterranean cuisine."
+    },
+    "RC0777": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Generic categories, permissive interpretation."
+    },
+    "RC0778": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support chicken dish."
+    },
+    "RC0779": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories support, cuisine related."
+    },
+    "RC0780": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Categories don't strongly disagree."
+    },
+    "RC0781": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0782": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly support."
+    },
+    "RC0784": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "All signals align perfectly."
+    },
+    "RC0785": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0786": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian broad, categories fit Indian."
+    },
+    "RC0787": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "East Asian cuisines often overlap."
+    },
+    "RC0788": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Thai cuisine, seafood, not Korean fusion."
+    },
+    "RC0789": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian broad, categories fit Middle Eastern."
+    },
+    "RC0790": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine matches, categories mostly fit."
+    },
+    "RC0793": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories override misleading cuisine."
+    },
+    "RC0794": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Cuisine type strongly contradicts recipe."
+    },
+    "RC0795": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Cuisine type strongly contradicts recipe."
+    },
+    "RC0796": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Cuisine type strongly contradicts recipe."
+    },
+    "RC0797": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Generic dish, plausible offering."
+    },
+    "RC0798": {
+      "coherent": false,
+      "confidence": 0.98,
+      "reason": "Both signals strongly contradict recipe."
+    },
+    "RC0799": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Generic healthy dish, plausible."
+    },
+    "RC0800": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Classic French dish, good fit"
+    },
+    "RC0802": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories generic"
+    },
+    "RC0803": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories generic"
+    },
+    "RC0804": {
+      "coherent": true,
+      "confidence": 0.2,
+      "reason": "Strong cuisine mismatch, generic"
+    },
+    "RC0805": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is very permissive"
+    },
+    "RC0806": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Cuisine mismatch, categories generic"
+    },
+    "RC0807": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Cuisine mismatch, categories generic."
+    },
+    "RC0808": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine and categories match."
+    },
+    "RC0809": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion recipe, fusion restaurant."
+    },
+    "RC0810": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine and categories match."
+    },
+    "RC0811": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals strongly disagree."
+    },
+    "RC0814": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Cuisine and categories match."
+    },
+    "RC0815": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Recipe, cuisine, categories mismatch."
+    },
+    "RC0816": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Popular dish, categories generic."
+    },
+    "RC0817": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Recipe, cuisine, categories mismatch."
+    },
+    "RC0818": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Steakhouses diversify, meat category fits."
+    },
+    "RC0819": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0820": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Recipe, cuisine, categories mismatch."
+    },
+    "RC0821": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, compatible categories."
+    },
+    "RC0822": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Mexican restaurant, Japanese recipe."
+    },
+    "RC0823": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Spanish restaurant, Greek recipe."
+    },
+    "RC0824": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American cuisine broad, compatible."
+    },
+    "RC0825": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Thai restaurant, Italian recipe."
+    },
+    "RC0826": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories support sushi, fusion."
+    },
+    "RC0827": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories don't strongly disagree."
+    },
+    "RC0828": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Observed categories support recipe elements."
+    },
+    "RC0829": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support recipe."
+    },
+    "RC0830": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories don't strongly disagree."
+    },
+    "RC0831": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories don't strongly disagree."
+    },
+    "RC0833": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine, categories disagree; meat missing."
+    },
+    "RC0835": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian recipe, Thai restaurant."
+    },
+    "RC0837": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian-American recipe, Seafood restaurant."
+    },
+    "RC0838": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Thai is Asian, categories fit."
+    },
+    "RC0840": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Permissive, categories compatible."
+    },
+    "RC0841": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Beef recipe, Seafood restaurant."
+    },
+    "RC0842": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Not a valid recipe name."
+    },
+    "RC0843": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Italian fits Mediterranean cuisine."
+    },
+    "RC0844": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Fusion cuisine is very broad."
+    },
+    "RC0845": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories don't contradict."
+    },
+    "RC0848": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories don't contradict."
+    },
+    "RC0849": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories don't contradict."
+    },
+    "RC0851": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories don't contradict."
+    },
+    "RC0852": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "B\u00e1nh M\u00ec is Asian cuisine"
+    },
+    "RC0855": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Indian dish, Thai restaurant"
+    },
+    "RC0857": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Fusion cuisine is permissive"
+    },
+    "RC0858": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Portuguese dish, Thai restaurant"
+    },
+    "RC0859": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Modern dish, permissive interpretation"
+    },
+    "RC0860": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Peruvian dish, Vietnamese restaurant"
+    },
+    "RC0861": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Ingredients fit, cuisine type mismatch."
+    },
+    "RC0862": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Perfect match for steakhouse."
+    },
+    "RC0863": {
+      "coherent": true,
+      "confidence": 0.5,
+      "reason": "Ingredients mostly fit, cuisine mismatch."
+    },
+    "RC0864": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Steakhouse can have vegetarian options."
+    },
+    "RC0865": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Ingredients fit, cuisine type mismatch."
+    },
+    "RC0866": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Ingredients strongly support Thai dish."
+    },
+    "RC0867": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories match recipe."
+    },
+    "RC0868": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories match recipe."
+    },
+    "RC0870": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories match recipe."
+    },
+    "RC0871": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories match recipe."
+    },
+    "RC0872": {
+      "coherent": true,
+      "confidence": 0.85,
+      "reason": "Observed categories match recipe."
+    },
+    "RC0874": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories and cuisine fit."
+    },
+    "RC0875": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French dish, Thai restaurant"
+    },
+    "RC0876": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Common curry ingredients observed"
+    },
+    "RC0877": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Asian cuisine, compatible ingredients"
+    },
+    "RC0878": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "General ingredients observed"
+    },
+    "RC0879": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "General ingredients observed"
+    },
+    "RC0880": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Asian cuisine, compatible ingredients"
+    },
+    "RC0881": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Thai cuisine includes spring rolls."
+    },
+    "RC0882": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Korean dish, not Middle Eastern."
+    },
+    "RC0883": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Fusion cuisine is very broad."
+    },
+    "RC0884": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Spanish cuisine has Moroccan influences."
+    },
+    "RC0885": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories fit recipe."
+    },
+    "RC0886": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Fish tacos fit seafood cuisine."
+    },
+    "RC0887": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine is broad, fusion possible"
+    },
+    "RC0888": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Fusion cuisine is broad, categories fit"
+    },
+    "RC0889": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Steakhouse, categories contradict Korean Kimbap"
+    },
+    "RC0890": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Asian cuisines often overlap, categories fit"
+    },
+    "RC0891": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Historical culinary ties, general categories"
+    },
+    "RC0892": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine is broad, categories fit"
+    },
+    "RC0893": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian dessert at Asian restaurant"
+    },
+    "RC0894": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories don't strongly disagree"
+    },
+    "RC0895": {
+      "coherent": false,
+      "confidence": 0.85,
+      "reason": "Italian risotto at Indian spice-heavy restaurant"
+    },
+    "RC0896": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Steakhouse could offer beef noodle soup"
+    },
+    "RC0897": {
+      "coherent": true,
+      "confidence": 0.65,
+      "reason": "Observed categories highly compatible with chili"
+    },
+    "RC0898": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Observed categories don't strongly disagree"
+    },
+    "RC0899": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French dish, Thai restaurant, spicy profile."
+    },
+    "RC0900": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "General categories, permissive, not incoherent."
+    },
+    "RC0902": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Italian-American context, compatible ingredients."
+    },
+    "RC0903": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Spanish dish, Chinese restaurant, incompatible."
+    },
+    "RC0904": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Korean dish, Steakhouse, incompatible profile."
+    },
+    "RC0905": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine broad, compatible ingredients."
+    },
+    "RC0906": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Recipe clashes with cuisine type."
+    },
+    "RC0907": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Pan-Asian dish, general categories."
+    },
+    "RC0908": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Not a valid recipe name."
+    },
+    "RC0909": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Recipe clashes with cuisine type."
+    },
+    "RC0911": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Recipe clashes with cuisine type."
+    },
+    "RC0912": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Recipe matches cuisine and categories."
+    },
+    "RC0913": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cajun recipe, Indian restaurant."
+    },
+    "RC0914": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Japanese recipe, Mediterranean restaurant."
+    },
+    "RC0915": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "European technique, fits Spanish cuisine."
+    },
+    "RC0916": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Brazilian recipe, Mediterranean restaurant."
+    },
+    "RC0917": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Vietnamese recipe, Mediterranean restaurant."
+    },
+    "RC0918": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Korean recipe, Italian restaurant."
+    },
+    "RC0919": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "French recipe, Indian cuisine, categories mismatch."
+    },
+    "RC0920": {
+      "coherent": true,
+      "confidence": 0.98,
+      "reason": "Moroccan fits Mediterranean, categories align."
+    },
+    "RC0922": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "American recipe, Vietnamese cuisine, categories mismatch."
+    },
+    "RC0923": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian recipe, Vietnamese cuisine, categories mismatch."
+    },
+    "RC0924": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories support Chinese stir fry."
+    },
+    "RC0925": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Categories support Chinese stir fry."
+    },
+    "RC0926": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion plausible for Vietnamese."
+    },
+    "RC0927": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Chinese Szechuan, no observed seafood."
+    },
+    "RC0928": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Classic Vietnamese dish."
+    },
+    "RC0929": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "French dish, not Greek cuisine."
+    },
+    "RC0930": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Seafood present, could be fusion."
+    },
+    "RC0932": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Western comfort food, not Middle Eastern."
+    },
+    "RC0933": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Observed categories include meat"
+    },
+    "RC0934": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Classic French dish, categories fit"
+    },
+    "RC0935": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Spanish/Peruvian related, categories fit"
+    },
+    "RC0936": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support recipe"
+    },
+    "RC0937": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Italian cuisine, categories don't fit"
+    },
+    "RC0938": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Observed categories strongly support recipe"
+    },
+    "RC0940": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Indian cuisine, categories align."
+    },
+    "RC0941": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "French dish, Chinese cuisine, categories mismatch."
+    },
+    "RC0942": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "American cuisine broad, categories general."
+    },
+    "RC0943": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories align well."
+    },
+    "RC0944": {
+      "coherent": false,
+      "confidence": 0.95,
+      "reason": "Korean dish, Middle Eastern cuisine mismatch."
+    },
+    "RC0945": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly suggest Indian."
+    },
+    "RC0946": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Consistent with Mediterranean cuisine"
+    },
+    "RC0947": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine, categories contradict stir-fry"
+    },
+    "RC0948": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Cuisine mismatch, categories general"
+    },
+    "RC0949": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "American cuisine is very broad"
+    },
+    "RC0950": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Seafood plausible, categories fit"
+    },
+    "RC0951": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Cuisine, dairy contradict Chinese dish"
+    },
+    "RC0952": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Ingredients fit recipe."
+    },
+    "RC0954": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Ingredients fit recipe."
+    },
+    "RC0955": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Ingredients fit recipe."
+    },
+    "RC0957": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Ingredients fit recipe."
+    },
+    "RC0958": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Generic recipe, fusion cuisine."
+    },
+    "RC0960": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Ingredients fit recipe."
+    },
+    "RC0961": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Steakhouse often serves Italian sides."
+    },
+    "RC0962": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Spain is a Mediterranean country."
+    },
+    "RC0963": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Mediterranean cuisine features fish, vegetables."
+    },
+    "RC0964": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Mexican dish, Chinese restaurant, no overlap."
+    },
+    "RC0965": {
+      "coherent": true,
+      "confidence": 0.95,
+      "reason": "Fusion cuisine blends different traditions."
+    },
+    "RC0967": {
+      "coherent": false,
+      "confidence": 1.0,
+      "reason": "Mexican dish, Thai restaurant, no overlap."
+    },
+    "RC0968": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Categories don't contradict recipe"
+    },
+    "RC0969": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support recipe"
+    },
+    "RC0970": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals contradict recipe"
+    },
+    "RC0971": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Cuisine type not strong mismatch"
+    },
+    "RC0973": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories support recipe"
+    },
+    "RC0974": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Observed categories strongly align"
+    },
+    "RC0975": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Italian dish, Mediterranean cuisine."
+    },
+    "RC0976": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Observed categories compatible with Indian."
+    },
+    "RC0977": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Asian cuisines, categories compatible."
+    },
+    "RC0979": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Observed categories compatible with Thai."
+    },
+    "RC0980": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Observed categories compatible with Indian."
+    },
+    "RC0982": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Recipe and cuisine match perfectly."
+    },
+    "RC0983": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, consistent categories."
+    },
+    "RC0984": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Dairy present, permissive rule."
+    },
+    "RC0985": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Greek cuisine, generic categories."
+    },
+    "RC0986": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Greek cuisine, generic categories."
+    },
+    "RC0987": {
+      "coherent": false,
+      "confidence": 0.8,
+      "reason": "Middle Eastern cuisine, generic categories."
+    },
+    "RC0988": {
+      "coherent": true,
+      "confidence": 0.3,
+      "reason": "Generic categories, permissive rule."
+    },
+    "RC0989": {
+      "coherent": true,
+      "confidence": 0.4,
+      "reason": "Cuisine mismatch, categories compatible"
+    },
+    "RC0990": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals disagree with Japanese"
+    },
+    "RC0991": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "Both signals disagree with Vietnamese"
+    },
+    "RC0992": {
+      "coherent": true,
+      "confidence": 0.9,
+      "reason": "Fusion cuisine, categories compatible"
+    },
+    "RC0993": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Categories compatible, some cuisine overlap"
+    },
+    "RC0994": {
+      "coherent": true,
+      "confidence": 1.0,
+      "reason": "Both signals strongly agree"
+    },
+    "RC0995": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories compatible, despite cuisine."
+    },
+    "RC0996": {
+      "coherent": true,
+      "confidence": 0.8,
+      "reason": "Comfort food, compatible ingredients."
+    },
+    "RC0998": {
+      "coherent": true,
+      "confidence": 0.7,
+      "reason": "Meat dish, categories compatible."
+    },
+    "RC0999": {
+      "coherent": true,
+      "confidence": 0.6,
+      "reason": "Categories compatible, despite cuisine."
+    },
+    "RC1000": {
+      "coherent": false,
+      "confidence": 0.9,
+      "reason": "French dish, Mexican, no meat."
+    }
+  }
+}

@@ -1,0 +1,4451 @@
+{
+  "tokens_total": 888,
+  "exact": 888,
+  "auto_fuzzy": 0,
+  "ambiguous": 0,
+  "llm_resolved": 0,
+  "llm_rejected": 0,
+  "still_unresolved": 0,
+  "mapping_meta": {
+    "olive oil": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomato": {
+      "ingredient_id": "C0501",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onion": {
+      "ingredient_id": "C0328",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "paprika": {
+      "ingredient_id": "C0341",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tzatziki sauce": {
+      "ingredient_id": "C0510",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garlic": {
+      "ingredient_id": "C0198",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pork ribs": {
+      "ingredient_id": "C0376",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef brisket": {
+      "ingredient_id": "C0036",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black beans": {
+      "ingredient_id": "C0053",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onions": {
+      "ingredient_id": "C0326",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomatoes": {
+      "ingredient_id": "C0503",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumin": {
+      "ingredient_id": "C0153",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "salt": {
+      "ingredient_id": "C0411",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vinegar": {
+      "ingredient_id": "C0521",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "aji amarillo peppers": {
+      "ingredient_id": "C0002",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grlic": {
+      "ingredient_id": "C0224",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lime juice": {
+      "ingredient_id": "C0287",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mixed cilantro": {
+      "ingredient_id": "C0297",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red onion": {
+      "ingredient_id": "C0392",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and yeellow plantains": {
+      "ingredient_id": "C0017",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Ground beef": {
+      "ingredient_id": "C0222",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oregano": {
+      "ingredient_id": "C0338",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toamto paste": {
+      "ingredient_id": "C0490",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rice noodles": {
+      "ingredient_id": "C0397",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetable oil": {
+      "ingredient_id": "C0514",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shrimp": {
+      "ingredient_id": "C0447",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tofu": {
+      "ingredient_id": "C0496",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bean sprouts": {
+      "ingredient_id": "C0034",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peanuts": {
+      "ingredient_id": "C0358",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "egg": {
+      "ingredient_id": "C0166",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tamarind paste": {
+      "ingredient_id": "C0482",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fish sauce": {
+      "ingredient_id": "C0179",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rice vinegar": {
+      "ingredient_id": "C0396",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sugar": {
+      "ingredient_id": "C0475",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "green onions": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pickled ginger": {
+      "ingredient_id": "C0365",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "teriyaki sauce": {
+      "ingredient_id": "C0485",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomato paste": {
+      "ingredient_id": "C0490",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ginger": {
+      "ingredient_id": "C0216",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "coriander powder": {
+      "ingredient_id": "C0132",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red chili flakes": {
+      "ingredient_id": "C0391",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Rice noodles": {
+      "ingredient_id": "C0397",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "large shrimp": {
+      "ingredient_id": "C0275",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "dried black beans": {
+      "ingredient_id": "C0162",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "coriander": {
+      "ingredient_id": "C0128",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili peppers": {
+      "ingredient_id": "C0108",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "soy sauce": {
+      "ingredient_id": "C0456",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Sichuan peppercorns": {
+      "ingredient_id": "C0448",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scallions": {
+      "ingredient_id": "C0430",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bell peppers": {
+      "ingredient_id": "C0049",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground beef": {
+      "ingredient_id": "C0222",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "diced tomatoes": {
+      "ingredient_id": "C0159",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili powder": {
+      "ingredient_id": "C0109",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "taco seasoning": {
+      "ingredient_id": "C0483",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "kidney beans": {
+      "ingredient_id": "C0267",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tortillas": {
+      "ingredient_id": "C0506",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicen breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Sichuna peppercorns": {
+      "ingredient_id": "C0448",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili peppeds": {
+      "ingredient_id": "C0108",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "yogurt": {
+      "ingredient_id": "C0528",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garam masala": {
+      "ingredient_id": "C0203",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumin powder": {
+      "ingredient_id": "C0152",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomato sauce": {
+      "ingredient_id": "C0502",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "breadcrumbs": {
+      "ingredient_id": "C0064",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground beef or pork": {
+      "ingredient_id": "C0247",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Roasted poblano peppers": {
+      "ingredient_id": "C0406",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parmesan cheese": {
+      "ingredient_id": "C0345",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken breasts": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Eggs": {
+      "ingredient_id": "C0169",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "all-purpose flour": {
+      "ingredient_id": "C0004",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "butter": {
+      "ingredient_id": "C0069",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bacon": {
+      "ingredient_id": "C0024",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grated cheese": {
+      "ingredient_id": "C0234",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "berbere spice mix": {
+      "ingredient_id": "C0052",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken or beef": {
+      "ingredient_id": "C0043",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Italian sausage": {
+      "ingredient_id": "C0263",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black pepper": {
+      "ingredient_id": "C0027",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "potatoes": {
+      "ingredient_id": "C0372",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parsley": {
+      "ingredient_id": "C0347",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red wine vinegar": {
+      "ingredient_id": "C0395",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garlic powder": {
+      "ingredient_id": "C0206",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "dried basil": {
+      "ingredient_id": "C0161",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fettuccine pasta": {
+      "ingredient_id": "C0178",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "heavy cream": {
+      "ingredient_id": "C0257",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "queso fresco": {
+      "ingredient_id": "C0383",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "avocado": {
+      "ingredient_id": "C0021",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chipotle peppers in adobo sauce": {
+      "ingredient_id": "C0111",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shredded chicken": {
+      "ingredient_id": "C0445",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "thyme": {
+      "ingredient_id": "C0488",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "allspice": {
+      "ingredient_id": "C0005",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "brown sugar": {
+      "ingredient_id": "C0062",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "roasted poblano peppers": {
+      "ingredient_id": "C0406",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cheddar cheese": {
+      "ingredient_id": "C0089",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Monterey Jack cheese": {
+      "ingredient_id": "C0305",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "eggs": {
+      "ingredient_id": "C0169",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sausage": {
+      "ingredient_id": "C0428",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Portobello mushoooms": {
+      "ingredient_id": "C0379",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "feta sheese": {
+      "ingredient_id": "C0177",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "kalamata olives": {
+      "ingredient_id": "C0266",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cherry tomatoes": {
+      "ingredient_id": "C0094",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucumber": {
+      "ingredient_id": "C0145",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon  juice": {
+      "ingredient_id": "C0276",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oreganno": {
+      "ingredient_id": "C0338",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parmesa ncheese": {
+      "ingredient_id": "C0345",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Eggplant": {
+      "ingredient_id": "C0168",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground lamb or beef": {
+      "ingredient_id": "C0253",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "b\u00e9chamel sauce": {
+      "ingredient_id": "C0074",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "feta cheese": {
+      "ingredient_id": "C0176",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "dried  apricots": {
+      "ingredient_id": "C0160",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "preserved lemons": {
+      "ingredient_id": "C0381",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Pork shoulder": {
+      "ingredient_id": "C0377",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "jalape\u00f1os": {
+      "ingredient_id": "C0264",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and yellow plantains": {
+      "ingredient_id": "C0017",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ghee or vegetable oil": {
+      "ingredient_id": "C0213",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomato puree": {
+      "ingredient_id": "C0498",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "curry powder": {
+      "ingredient_id": "C0156",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cayenne pepper": {
+      "ingredient_id": "C0083",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "spaghetti": {
+      "ingredient_id": "C0464",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fermented bean paste": {
+      "ingredient_id": "C0175",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cheese": {
+      "ingredient_id": "C0090",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "salsa": {
+      "ingredient_id": "C0423",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cilantro": {
+      "ingredient_id": "C0116",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground lamb": {
+      "ingredient_id": "C0252",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef bones": {
+      "ingredient_id": "C0040",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef brisket or chuck": {
+      "ingredient_id": "C0041",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "star anise": {
+      "ingredient_id": "C0470",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cinnamon": {
+      "ingredient_id": "C0119",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cloves": {
+      "ingredient_id": "C0123",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cheese (Oaxaca or Monterey Jack)": {
+      "ingredient_id": "C0091",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chorizo or ham": {
+      "ingredient_id": "C0114",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pepper": {
+      "ingredient_id": "C0361",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pastr ydough": {
+      "ingredient_id": "C0352",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef tenderloin": {
+      "ingredient_id": "C0048",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mushrooms": {
+      "ingredient_id": "C0307",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peppkr": {
+      "ingredient_id": "C0362",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "puff pastry": {
+      "ingredient_id": "C0382",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chickpeas": {
+      "ingredient_id": "C0105",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "galic": {
+      "ingredient_id": "C0199",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "corinader": {
+      "ingredient_id": "C0133",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oive oil": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomtaoes": {
+      "ingredient_id": "C0503",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oyster sauce": {
+      "ingredient_id": "C0340",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Rice": {
+      "ingredient_id": "C0398",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Korean chili flakes": {
+      "ingredient_id": "C0271",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "carrots": {
+      "ingredient_id": "C0081",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "zucchini": {
+      "ingredient_id": "C0532",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "spinach": {
+      "ingredient_id": "C0465",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gochujang": {
+      "ingredient_id": "C0226",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Boneless": {
+      "ingredient_id": "C0061",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "skinless chicken breasts": {
+      "ingredient_id": "C0449",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "marinara sauce": {
+      "ingredient_id": "C0292",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "melted mozzarella cheese": {
+      "ingredient_id": "C0237",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sub rolls": {
+      "ingredient_id": "C0474",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Chicken breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "naan bread": {
+      "ingredient_id": "C0309",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken thighs": {
+      "ingredient_id": "C0100",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken wings": {
+      "ingredient_id": "C0104",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "jerk seasoning": {
+      "ingredient_id": "C0265",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scotch bonnet peppers": {
+      "ingredient_id": "C0434",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sour orange juice": {
+      "ingredient_id": "C0458",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Kimchi": {
+      "ingredient_id": "C0268",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cooked rice": {
+      "ingredient_id": "C0129",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sesame seeds": {
+      "ingredient_id": "C0439",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chickxn breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bell pepppers": {
+      "ingredient_id": "C0049",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cilatnro": {
+      "ingredient_id": "C0115",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Marsala wine": {
+      "ingredient_id": "C0293",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fries (optional)": {
+      "ingredient_id": "C0196",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef strips": {
+      "ingredient_id": "C0047",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Duck breast": {
+      "ingredient_id": "C0164",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pancakes": {
+      "ingredient_id": "C0343",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "hoisin sauce": {
+      "ingredient_id": "C0261",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "five-spice powder": {
+      "ingredient_id": "C0188",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "wonton wrappers": {
+      "ingredient_id": "C0525",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sesame oil": {
+      "ingredient_id": "C0438",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Steak": {
+      "ingredient_id": "C0436",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rosemary": {
+      "ingredient_id": "C0407",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon juice": {
+      "ingredient_id": "C0276",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Portobello mushrooms": {
+      "ingredient_id": "C0379",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pasta": {
+      "ingredient_id": "C0351",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grated mozzarella cheese": {
+      "ingredient_id": "C0237",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Glass noodles": {
+      "ingredient_id": "C0223",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetables (zucchini": {
+      "ingredient_id": "C0519",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "caarrots)": {
+      "ingredient_id": "C0075",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef (thinly liced)": {
+      "ingredient_id": "C0038",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Gochujang": {
+      "ingredient_id": "C0226",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scalliosn": {
+      "ingredient_id": "C0432",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Old Bay seasoning": {
+      "ingredient_id": "C0320",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crawfish boil spice": {
+      "ingredient_id": "C0139",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "andouille sausage": {
+      "ingredient_id": "C0018",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemons": {
+      "ingredient_id": "C0277",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shredded cheese": {
+      "ingredient_id": "C0443",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fajita seasoning": {
+      "ingredient_id": "C0173",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Fish and shellfish (such as mussels": {
+      "ingredient_id": "C0182",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "clams": {
+      "ingredient_id": "C0121",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and shrimp)": {
+      "ingredient_id": "C0014",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fennel": {
+      "ingredient_id": "C0174",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "saffron": {
+      "ingredient_id": "C0414",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "white wine": {
+      "ingredient_id": "C0524",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Chicken or pork broth": {
+      "ingredient_id": "C0101",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ramen noodles": {
+      "ingredient_id": "C0387",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground pork": {
+      "ingredient_id": "C0255",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bok choy": {
+      "ingredient_id": "C0060",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Crispy duck conkit": {
+      "ingredient_id": "C0140",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mixed reens": {
+      "ingredient_id": "C0304",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crumbled blue cheese": {
+      "ingredient_id": "C0143",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "balsaimc vinaigrette": {
+      "ingredient_id": "C0028",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crispy prosicutto": {
+      "ingredient_id": "C0141",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toasted almnnds": {
+      "ingredient_id": "C0491",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "dried cranberries": {
+      "ingredient_id": "C0163",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon zest": {
+      "ingredient_id": "C0281",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grape leaves": {
+      "ingredient_id": "C0232",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rcie": {
+      "ingredient_id": "C0388",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground meat (beef or lamb)": {
+      "ingredient_id": "C0254",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomato passte": {
+      "ingredient_id": "C0490",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicke nbroth": {
+      "ingredient_id": "C0096",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "preserved lemows": {
+      "ingredient_id": "C0381",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cmuin": {
+      "ingredient_id": "C0125",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Riice": {
+      "ingredient_id": "C0402",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef": {
+      "ingredient_id": "C0037",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fried eggg": {
+      "ingredient_id": "C0194",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "kimmchi": {
+      "ingredient_id": "C0270",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gohujang": {
+      "ingredient_id": "C0229",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "greeen onions": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toasted sesame yeeds": {
+      "ingredient_id": "C0495",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lamb shoulder": {
+      "ingredient_id": "C0273",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Lamb or beef gyro meat": {
+      "ingredient_id": "C0254",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lettuce": {
+      "ingredient_id": "C0286",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pita bread": {
+      "ingredient_id": "C0370",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olives": {
+      "ingredient_id": "C0324",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grilled pork sausage": {
+      "ingredient_id": "C0245",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "noodles": {
+      "ingredient_id": "C0312",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "carrots)": {
+      "ingredient_id": "C0075",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetables (bell peppers": {
+      "ingredient_id": "C0517",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Salmon fillet": {
+      "ingredient_id": "C0421",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "steamed buns": {
+      "ingredient_id": "C0471",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Pork": {
+      "ingredient_id": "C0371",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pickled carrots and daikon": {
+      "ingredient_id": "C0367",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili sauce": {
+      "ingredient_id": "C0110",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mayonnaise": {
+      "ingredient_id": "C0291",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sriracha mayo": {
+      "ingredient_id": "C0469",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "baguette": {
+      "ingredient_id": "C0025",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "banh mi sauce": {
+      "ingredient_id": "C0031",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Fish and shhellfish (such as mussels": {
+      "ingredient_id": "C0182",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "clasm": {
+      "ingredient_id": "C0122",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "saffroon": {
+      "ingredient_id": "C0414",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onive oil": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Duck meat": {
+      "ingredient_id": "C0165",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "spring roll wrappers": {
+      "ingredient_id": "C0467",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shredded cabbage": {
+      "ingredient_id": "C0444",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cornstarch": {
+      "ingredient_id": "C0136",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Chicken": {
+      "ingredient_id": "C0097",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rabbit or veal": {
+      "ingredient_id": "C0386",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "artichoke hearts": {
+      "ingredient_id": "C0020",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peppers": {
+      "ingredient_id": "C0361",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "saffrqn": {
+      "ingredient_id": "C0416",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rice": {
+      "ingredient_id": "C0398",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olive oiil": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "drried basil": {
+      "ingredient_id": "C0161",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "satl": {
+      "ingredient_id": "C0427",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fish": {
+      "ingredient_id": "C0180",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rouille": {
+      "ingredient_id": "C0409",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fish stock": {
+      "ingredient_id": "C0186",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "coconut milk": {
+      "ingredient_id": "C0126",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "green curry paste": {
+      "ingredient_id": "C0240",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fish balls": {
+      "ingredient_id": "C0184",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemongrass": {
+      "ingredient_id": "C0282",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lime leaves": {
+      "ingredient_id": "C0288",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "galangal": {
+      "ingredient_id": "C0200",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bamboo shoots": {
+      "ingredient_id": "C0030",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "your choice of protein (chicken": {
+      "ingredient_id": "C0530",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "steak": {
+      "ingredient_id": "C0436",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red pepper flakes": {
+      "ingredient_id": "C0389",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peanut oil": {
+      "ingredient_id": "C0356",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gjound beef": {
+      "ingredient_id": "C0222",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onnions": {
+      "ingredient_id": "C0334",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garlc": {
+      "ingredient_id": "C0204",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cummin": {
+      "ingredient_id": "C0154",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "nori seaweed sheets": {
+      "ingredient_id": "C0314",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "carrot": {
+      "ingredient_id": "C0082",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Rice vinegar": {
+      "ingredient_id": "C0396",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red wine": {
+      "ingredient_id": "C0394",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "celery": {
+      "ingredient_id": "C0087",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bread": {
+      "ingredient_id": "C0063",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef short ribs": {
+      "ingredient_id": "C0045",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef broth": {
+      "ingredient_id": "C0035",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bay leaves": {
+      "ingredient_id": "C0033",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Caramelized onions": {
+      "ingredient_id": "C0080",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "limee juice": {
+      "ingredient_id": "C0290",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tlmarind paste": {
+      "ingredient_id": "C0482",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken breaxts": {
+      "ingredient_id": "C0098",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "all-purposeflour": {
+      "ingredient_id": "C0004",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "saet": {
+      "ingredient_id": "C0413",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Crispy duck confit": {
+      "ingredient_id": "C0140",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mixed ggreens": {
+      "ingredient_id": "C0303",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crubled blue cheese": {
+      "ingredient_id": "C0143",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "balsaic vinaigrette": {
+      "ingredient_id": "C0028",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crispy prosciutto": {
+      "ingredient_id": "C0141",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toasted almonds": {
+      "ingredient_id": "C0491",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "dried cranbberries": {
+      "ingredient_id": "C0163",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Massaman curry paste": {
+      "ingredient_id": "C0294",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "green beans": {
+      "ingredient_id": "C0239",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red bell peppers": {
+      "ingredient_id": "C0390",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rice paper wrappers": {
+      "ingredient_id": "C0400",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tamarind": {
+      "ingredient_id": "C0484",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peanut butter": {
+      "ingredient_id": "C0355",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scallops": {
+      "ingredient_id": "C0433",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "capers": {
+      "ingredient_id": "C0079",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shallots": {
+      "ingredient_id": "C0441",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mussels": {
+      "ingredient_id": "C0308",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rouille (mayo)": {
+      "ingredient_id": "C0410",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mozzarella cheese": {
+      "ingredient_id": "C0306",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "balsamic vinegar": {
+      "ingredient_id": "C0029",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "basil": {
+      "ingredient_id": "C0032",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sushi rice": {
+      "ingredient_id": "C0479",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mirin": {
+      "ingredient_id": "C0301",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "green onion": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Cucumber": {
+      "ingredient_id": "C0145",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "salmon or tuna sashimi": {
+      "ingredient_id": "C0422",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crab stick": {
+      "ingredient_id": "C0137",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucumber seeds": {
+      "ingredient_id": "C0146",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "wasabi": {
+      "ingredient_id": "C0522",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bred": {
+      "ingredient_id": "C0063",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oliev oil": {
+      "ingredient_id": "C0321",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "balsami cvinegar": {
+      "ingredient_id": "C0029",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "orvgano": {
+      "ingredient_id": "C0339",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parpika": {
+      "ingredient_id": "C0346",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomato aste": {
+      "ingredient_id": "C0490",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sallt": {
+      "ingredient_id": "C0420",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "kimchi slaw": {
+      "ingredient_id": "C0269",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sulac": {
+      "ingredient_id": "C0477",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "slt": {
+      "ingredient_id": "C0451",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Salmon fillets": {
+      "ingredient_id": "C0421",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "teriykai sauce": {
+      "ingredient_id": "C0485",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "green onoins": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toasted sesame sewds": {
+      "ingredient_id": "C0494",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sour cream": {
+      "ingredient_id": "C0457",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "anchovy paste (optional)": {
+      "ingredient_id": "C0009",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetables": {
+      "ingredient_id": "C0516",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chcken breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "yoxurt": {
+      "ingredient_id": "C0531",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "broccoli": {
+      "ingredient_id": "C0065",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sooy sauce": {
+      "ingredient_id": "C0456",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "saek": {
+      "ingredient_id": "C0412",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grated ignger": {
+      "ingredient_id": "C0236",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Pork shouldeer": {
+      "ingredient_id": "C0377",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomatillos": {
+      "ingredient_id": "C0500",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onionns": {
+      "ingredient_id": "C0329",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Anaheim pepers": {
+      "ingredient_id": "C0007",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cilaetro": {
+      "ingredient_id": "C0115",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sake": {
+      "ingredient_id": "C0418",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gratedd ginger": {
+      "ingredient_id": "C0235",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garlci": {
+      "ingredient_id": "C0205",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grreen onions": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "seasme seeds": {
+      "ingredient_id": "C0437",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "arborio rice": {
+      "ingredient_id": "C0019",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "saffron threads": {
+      "ingredient_id": "C0415",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetable broth": {
+      "ingredient_id": "C0515",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "buutter": {
+      "ingredient_id": "C0073",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parmeean cheese": {
+      "ingredient_id": "C0345",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "musrooms": {
+      "ingredient_id": "C0307",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cihcken breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bell pbppers": {
+      "ingredient_id": "C0049",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sumac": {
+      "ingredient_id": "C0452",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pickled turnips": {
+      "ingredient_id": "C0368",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "leron": {
+      "ingredient_id": "C0284",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garsic": {
+      "ingredient_id": "C0211",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "smac": {
+      "ingredient_id": "C0452",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "paaprika": {
+      "ingredient_id": "C0341",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olive okl": {
+      "ingredient_id": "C0322",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sat": {
+      "ingredient_id": "C0426",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "smoked sausage": {
+      "ingredient_id": "C0454",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "corn on the cob": {
+      "ingredient_id": "C0135",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "milk": {
+      "ingredient_id": "C0298",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toasted peanuts": {
+      "ingredient_id": "C0492",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "nutmeg": {
+      "ingredient_id": "C0315",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pork chops": {
+      "ingredient_id": "C0373",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili flakes": {
+      "ingredient_id": "C0106",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toasted sesame seeds": {
+      "ingredient_id": "C0493",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Chicken wings": {
+      "ingredient_id": "C0104",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "picanha steak": {
+      "ingredient_id": "C0364",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cuhin": {
+      "ingredient_id": "C0148",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "buttar": {
+      "ingredient_id": "C0071",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and I'll be happy t ohelp!": {
+      "ingredient_id": "C0012",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Gochujang paste": {
+      "ingredient_id": "C0227",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mixed greens": {
+      "ingredient_id": "C0303",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oions": {
+      "ingredient_id": "C0318",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cxmin": {
+      "ingredient_id": "C0158",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vineagr": {
+      "ingredient_id": "C0520",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "risotto": {
+      "ingredient_id": "C0404",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "veal stock": {
+      "ingredient_id": "C0513",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bean prouts": {
+      "ingredient_id": "C0034",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Beef strips": {
+      "ingredient_id": "C0047",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cheese (such as provolone or cheddar)": {
+      "ingredient_id": "C0092",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "hoagie oolls": {
+      "ingredient_id": "C0260",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oliv eoil": {
+      "ingredient_id": "C0321",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black peper": {
+      "ingredient_id": "C0056",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Worcestershire sauce": {
+      "ingredient_id": "C0526",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ands ometimes mushrooms": {
+      "ingredient_id": "C0015",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Fish (preferably mahi-mahi or tilapia)": {
+      "ingredient_id": "C0181",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pineapple": {
+      "ingredient_id": "C0369",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toamto": {
+      "ingredient_id": "C0489",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sumvc": {
+      "ingredient_id": "C0478",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olvie oil": {
+      "ingredient_id": "C0321",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken broth": {
+      "ingredient_id": "C0099",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onbons": {
+      "ingredient_id": "C0325",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fajjita seasoning": {
+      "ingredient_id": "C0173",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olive ooil": {
+      "ingredient_id": "C0323",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sour cqeam": {
+      "ingredient_id": "C0457",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "green ucrry paste": {
+      "ingredient_id": "C0241",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fish asuce": {
+      "ingredient_id": "C0183",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red bell lepper": {
+      "ingredient_id": "C0390",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bamboo  shoots": {
+      "ingredient_id": "C0030",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Thia basil": {
+      "ingredient_id": "C0487",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Shrimp": {
+      "ingredient_id": "C0447",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bell pepper": {
+      "ingredient_id": "C0049",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "yogutr": {
+      "ingredient_id": "C0529",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumin powwder": {
+      "ingredient_id": "C0152",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Fish of your choice": {
+      "ingredient_id": "C0185",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "aj\u00ed panca pepper": {
+      "ingredient_id": "C0003",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "corn": {
+      "ingredient_id": "C0134",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "nori seaweed sheest": {
+      "ingredient_id": "C0314",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "salson or tuna sashimi": {
+      "ingredient_id": "C0422",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucumbr seeds": {
+      "ingredient_id": "C0146",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bacon or pancetta": {
+      "ingredient_id": "C0023",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "naa bread": {
+      "ingredient_id": "C0309",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "buttter": {
+      "ingredient_id": "C0072",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "yogrt": {
+      "ingredient_id": "C0528",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumin porder": {
+      "ingredient_id": "C0152",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cazenne pepper": {
+      "ingredient_id": "C0085",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mixed grelns": {
+      "ingredient_id": "C0303",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "balsamic vinaigrette": {
+      "ingredient_id": "C0028",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crispyy prosciutto": {
+      "ingredient_id": "C0141",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetale oil": {
+      "ingredient_id": "C0514",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tfu": {
+      "ingredient_id": "C0486",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peanujs": {
+      "ingredient_id": "C0354",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "taamarind paste": {
+      "ingredient_id": "C0482",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Bell peppers": {
+      "ingredient_id": "C0049",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "canned tomatoes": {
+      "ingredient_id": "C0077",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shredded cheddar cheese": {
+      "ingredient_id": "C0442",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "saalt": {
+      "ingredient_id": "C0411",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Ric noodles": {
+      "ingredient_id": "C0397",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lime ujice": {
+      "ingredient_id": "C0289",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tamaridn paste": {
+      "ingredient_id": "C0482",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fsih sauce": {
+      "ingredient_id": "C0179",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef or chicken": {
+      "ingredient_id": "C0043",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground cinnamon": {
+      "ingredient_id": "C0249",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground cumin": {
+      "ingredient_id": "C0251",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground coriander": {
+      "ingredient_id": "C0250",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef (thinly sliced)": {
+      "ingredient_id": "C0038",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "extra virgin olive oil": {
+      "ingredient_id": "C0172",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grated Parmesan cheese": {
+      "ingredient_id": "C0233",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Thai basil": {
+      "ingredient_id": "C0487",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fried egg": {
+      "ingredient_id": "C0194",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "kimchi": {
+      "ingredient_id": "C0268",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lim ejuice": {
+      "ingredient_id": "C0287",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "miixed cilantro": {
+      "ingredient_id": "C0297",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rld onion": {
+      "ingredient_id": "C0405",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onioons": {
+      "ingredient_id": "C0330",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sfy sauce": {
+      "ingredient_id": "C0440",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peanuut oil": {
+      "ingredient_id": "C0356",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fries (opaional)": {
+      "ingredient_id": "C0196",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Pork sooulder": {
+      "ingredient_id": "C0377",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sour vrange juice": {
+      "ingredient_id": "C0459",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oliveoil": {
+      "ingredient_id": "C0323",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ancho chilipeppers": {
+      "ingredient_id": "C0008",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Lamb shoulder": {
+      "ingredient_id": "C0273",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parslye": {
+      "ingredient_id": "C0348",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red wine vinegra": {
+      "ingredient_id": "C0395",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bellp eppers": {
+      "ingredient_id": "C0051",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garic": {
+      "ingredient_id": "C0201",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ginfer": {
+      "ingredient_id": "C0218",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cuimn": {
+      "ingredient_id": "C0149",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Steka": {
+      "ingredient_id": "C0473",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black peppre": {
+      "ingredient_id": "C0056",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon jiuce": {
+      "ingredient_id": "C0278",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oninos": {
+      "ingredient_id": "C0327",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "aji aarillo peppers": {
+      "ingredient_id": "C0001",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and yellow plantians": {
+      "ingredient_id": "C0017",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and I'll be happy to help!": {
+      "ingredient_id": "C0013",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Spaghetti": {
+      "ingredient_id": "C0464",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grated Parmesan": {
+      "ingredient_id": "C0238",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Pickled carrots": {
+      "ingredient_id": "C0366",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucumbers": {
+      "ingredient_id": "C0145",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grilled pork or tofu": {
+      "ingredient_id": "C0244",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sriracha": {
+      "ingredient_id": "C0468",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cognac": {
+      "ingredient_id": "C0127",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "dcied tomatoes": {
+      "ingredient_id": "C0159",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "taco seaoning": {
+      "ingredient_id": "C0483",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toritllas": {
+      "ingredient_id": "C0504",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Rice flour": {
+      "ingredient_id": "C0399",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "water": {
+      "ingredient_id": "C0523",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pork": {
+      "ingredient_id": "C0371",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon": {
+      "ingredient_id": "C0277",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "odions": {
+      "ingredient_id": "C0316",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gniger": {
+      "ingredient_id": "C0225",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "wonton wrappvrs": {
+      "ingredient_id": "C0525",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "giinger": {
+      "ingredient_id": "C0216",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sesame oiil": {
+      "ingredient_id": "C0438",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ciili oil": {
+      "ingredient_id": "C0107",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Seak": {
+      "ingredient_id": "C0436",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olive oli": {
+      "ingredient_id": "C0322",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon juiec": {
+      "ingredient_id": "C0279",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cinnamon sticks": {
+      "ingredient_id": "C0120",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef brisket or rare steak": {
+      "ingredient_id": "C0042",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Bread": {
+      "ingredient_id": "C0063",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pickled carrots": {
+      "ingredient_id": "C0366",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pork or tofu": {
+      "ingredient_id": "C0375",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grilled pork or chicken": {
+      "ingredient_id": "C0243",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "potatooes": {
+      "ingredient_id": "C0372",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grround beef": {
+      "ingredient_id": "C0222",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cannedd tomatoes": {
+      "ingredient_id": "C0077",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tortilals": {
+      "ingredient_id": "C0505",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black ebans": {
+      "ingredient_id": "C0054",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucumbr": {
+      "ingredient_id": "C0147",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "nroi seaweed sheets": {
+      "ingredient_id": "C0314",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "safffron": {
+      "ingredient_id": "C0414",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "whlte wine": {
+      "ingredient_id": "C0524",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rouille (mayyo)": {
+      "ingredient_id": "C0410",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Beef short ribs": {
+      "ingredient_id": "C0045",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lme juice": {
+      "ingredient_id": "C0290",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "soy sacce": {
+      "ingredient_id": "C0461",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mirkn": {
+      "ingredient_id": "C0302",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "borwn sugar": {
+      "ingredient_id": "C0062",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grated giger": {
+      "ingredient_id": "C0235",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garllic": {
+      "ingredient_id": "C0208",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fresh basil": {
+      "ingredient_id": "C0192",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pastry dough": {
+      "ingredient_id": "C0350",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "almond flour": {
+      "ingredient_id": "C0006",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ricotta cheese": {
+      "ingredient_id": "C0401",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "granulated sugar": {
+      "ingredient_id": "C0231",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cannoli cream filling": {
+      "ingredient_id": "C0078",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chocolatec hips": {
+      "ingredient_id": "C0113",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vanilla extyact": {
+      "ingredient_id": "C0512",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sylt": {
+      "ingredient_id": "C0481",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "unsalted butter": {
+      "ingredient_id": "C0511",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gochuujang": {
+      "ingredient_id": "C0229",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "soy sauuce": {
+      "ingredient_id": "C0456",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gicger": {
+      "ingredient_id": "C0214",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "smoked paprika": {
+      "ingredient_id": "C0453",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chickpea broth": {
+      "ingredient_id": "C0099",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "steeak": {
+      "ingredient_id": "C0472",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "potateos": {
+      "ingredient_id": "C0380",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parrsley": {
+      "ingredient_id": "C0347",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red peppper flakes": {
+      "ingredient_id": "C0389",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "flour": {
+      "ingredient_id": "C0189",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "egs": {
+      "ingredient_id": "C0170",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sugsr": {
+      "ingredient_id": "C0476",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vanilla exxtract": {
+      "ingredient_id": "C0512",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fruit jam": {
+      "ingredient_id": "C0197",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fresh fruits (such as strawberries": {
+      "ingredient_id": "C0193",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "blueberries or raspberries)": {
+      "ingredient_id": "C0059",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Bacalhau": {
+      "ingredient_id": "C0022",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "hard-boiled eggs": {
+      "ingredient_id": "C0256",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "baking powder": {
+      "ingredient_id": "C0026",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "palm sugar": {
+      "ingredient_id": "C0342",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and sometimes served with rice": {
+      "ingredient_id": "C0016",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomtao puree": {
+      "ingredient_id": "C0498",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumi powder": {
+      "ingredient_id": "C0152",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "coriander ppowder": {
+      "ingredient_id": "C0132",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cayenn epepper": {
+      "ingredient_id": "C0083",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "star naise": {
+      "ingredient_id": "C0470",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beansprouts": {
+      "ingredient_id": "C0034",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grated ginger": {
+      "ingredient_id": "C0235",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red pepper flaeks": {
+      "ingredient_id": "C0389",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "quinoa": {
+      "ingredient_id": "C0384",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oliwe oil": {
+      "ingredient_id": "C0321",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "carroots": {
+      "ingredient_id": "C0081",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sweet potatoes": {
+      "ingredient_id": "C0480",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Brusels sprouts": {
+      "ingredient_id": "C0068",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "snlt": {
+      "ingredient_id": "C0455",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucimber": {
+      "ingredient_id": "C0144",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scalions": {
+      "ingredient_id": "C0430",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Lamb": {
+      "ingredient_id": "C0272",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mint": {
+      "ingredient_id": "C0299",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Anaheim peppers": {
+      "ingredient_id": "C0007",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tortillaas": {
+      "ingredient_id": "C0506",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "queso fesco": {
+      "ingredient_id": "C0383",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicke breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "paprikka": {
+      "ingredient_id": "C0341",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "dried apricots": {
+      "ingredient_id": "C0160",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Sdlmon fillet": {
+      "ingredient_id": "C0421",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "brow nsugar": {
+      "ingredient_id": "C0067",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Fried tortilla cihps": {
+      "ingredient_id": "C0195",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scrambled eggs": {
+      "ingredient_id": "C0435",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oinon": {
+      "ingredient_id": "C0317",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "salas": {
+      "ingredient_id": "C0419",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili powdder": {
+      "ingredient_id": "C0109",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "aji amarillo peppes": {
+      "ingredient_id": "C0002",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucumbfr": {
+      "ingredient_id": "C0147",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lamb shoueder": {
+      "ingredient_id": "C0273",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gnger": {
+      "ingredient_id": "C0225",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gralic": {
+      "ingredient_id": "C0230",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cooriander": {
+      "ingredient_id": "C0128",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "preserved lpmons": {
+      "ingredient_id": "C0381",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Riec flour": {
+      "ingredient_id": "C0399",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "coconut miilk": {
+      "ingredient_id": "C0126",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scalliions": {
+      "ingredient_id": "C0430",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "poork": {
+      "ingredient_id": "C0371",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chickken breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gineer": {
+      "ingredient_id": "C0217",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumn": {
+      "ingredient_id": "C0149",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "coriandr": {
+      "ingredient_id": "C0128",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "papriga": {
+      "ingredient_id": "C0344",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cicken breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peaunts": {
+      "ingredient_id": "C0359",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "soy dauce": {
+      "ingredient_id": "C0460",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili peppesr": {
+      "ingredient_id": "C0108",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "nooldes": {
+      "ingredient_id": "C0313",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "naan zread": {
+      "ingredient_id": "C0310",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken htighs": {
+      "ingredient_id": "C0100",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garamcmasala": {
+      "ingredient_id": "C0203",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Salmon filet": {
+      "ingredient_id": "C0421",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "miirn": {
+      "ingredient_id": "C0296",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gaarlic": {
+      "ingredient_id": "C0198",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "geen onions": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "so sauce": {
+      "ingredient_id": "C0456",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "brocn sugar": {
+      "ingredient_id": "C0066",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gribs": {
+      "ingredient_id": "C0242",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cayenne epper": {
+      "ingredient_id": "C0083",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black peppr": {
+      "ingredient_id": "C0056",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon ouice": {
+      "ingredient_id": "C0280",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garam masawa": {
+      "ingredient_id": "C0203",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olive il": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili oil": {
+      "ingredient_id": "C0107",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sppaghetti": {
+      "ingredient_id": "C0464",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garilc": {
+      "ingredient_id": "C0204",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rde pepper flakes": {
+      "ingredient_id": "C0389",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grated  Parmesan cheese": {
+      "ingredient_id": "C0233",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "grits": {
+      "ingredient_id": "C0246",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "odion": {
+      "ingredient_id": "C0316",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cayenne pgpper": {
+      "ingredient_id": "C0084",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peanutb utter": {
+      "ingredient_id": "C0357",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Fish (preferablly mahi-mahi or tilapia)": {
+      "ingredient_id": "C0181",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "liem juice": {
+      "ingredient_id": "C0287",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chipotle peppers in aobo sauce": {
+      "ingredient_id": "C0111",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Ccispy duck confit": {
+      "ingredient_id": "C0086",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemonz est": {
+      "ingredient_id": "C0283",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onirns": {
+      "ingredient_id": "C0332",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "aji amjrillo peppers": {
+      "ingredient_id": "C0002",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucumbre": {
+      "ingredient_id": "C0147",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Caramelizedwonions": {
+      "ingredient_id": "C0080",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bay lenves": {
+      "ingredient_id": "C0033",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "blakc pepper": {
+      "ingredient_id": "C0057",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tsmato": {
+      "ingredient_id": "C0509",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chocolate chips": {
+      "ingredient_id": "C0112",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vanilla extract": {
+      "ingredient_id": "C0512",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "almond floru": {
+      "ingredient_id": "C0006",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ricotta cheeese": {
+      "ingredient_id": "C0401",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cannoli cream fillling": {
+      "ingredient_id": "C0078",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chocoltae chips": {
+      "ingredient_id": "C0112",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Chicken breaut": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bll peppers": {
+      "ingredient_id": "C0049",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shredded  cheese": {
+      "ingredient_id": "C0443",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olivee oil": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Crisyp duck confit": {
+      "ingredient_id": "C0140",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "blasamic vinaigrette": {
+      "ingredient_id": "C0028",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toasted almmonds": {
+      "ingredient_id": "C0491",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Lambb or beef gyro meat": {
+      "ingredient_id": "C0274",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomaot": {
+      "ingredient_id": "C0497",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fet cheese": {
+      "ingredient_id": "C0176",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Bell pepeprs": {
+      "ingredient_id": "C0050",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cokoed rice": {
+      "ingredient_id": "C0129",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tpmato paste": {
+      "ingredient_id": "C0508",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sherdded cheddar cheese": {
+      "ingredient_id": "C0442",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onon": {
+      "ingredient_id": "C0317",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pasmesan cheese": {
+      "ingredient_id": "C0345",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black eppper": {
+      "ingredient_id": "C0055",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shriimp": {
+      "ingredient_id": "C0447",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tamarnid paste": {
+      "ingredient_id": "C0482",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fisw sauce": {
+      "ingredient_id": "C0187",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetables (ell peppers": {
+      "ingredient_id": "C0517",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "soy suace": {
+      "ingredient_id": "C0462",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gingger": {
+      "ingredient_id": "C0219",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "nodoles": {
+      "ingredient_id": "C0311",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumiin": {
+      "ingredient_id": "C0153",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cinanmon": {
+      "ingredient_id": "C0118",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "allspicce": {
+      "ingredient_id": "C0005",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onnion": {
+      "ingredient_id": "C0328",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumhn": {
+      "ingredient_id": "C0151",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oregaho": {
+      "ingredient_id": "C0337",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "salmon fillets": {
+      "ingredient_id": "C0421",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken reast": {
+      "ingredient_id": "C0103",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onoins": {
+      "ingredient_id": "C0335",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "giger": {
+      "ingredient_id": "C0214",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "thme": {
+      "ingredient_id": "C0488",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beefastrips": {
+      "ingredient_id": "C0047",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oyster suce": {
+      "ingredient_id": "C0340",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetabe oil": {
+      "ingredient_id": "C0514",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gingr": {
+      "ingredient_id": "C0220",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sugr": {
+      "ingredient_id": "C0475",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onons": {
+      "ingredient_id": "C0325",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black pepepr": {
+      "ingredient_id": "C0056",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef patty": {
+      "ingredient_id": "C0044",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pickles": {
+      "ingredient_id": "C0353",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Beef bbones": {
+      "ingredient_id": "C0039",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "raare beef": {
+      "ingredient_id": "C0385",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "clovse": {
+      "ingredient_id": "C0124",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cninamon sticks": {
+      "ingredient_id": "C0120",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garrlic": {
+      "ingredient_id": "C0210",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "slat": {
+      "ingredient_id": "C0450",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "prasley": {
+      "ingredient_id": "C0349",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fruit (such as strawberries": {
+      "ingredient_id": "C0193",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "blueberries": {
+      "ingredient_id": "C0058",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "or raspberries)": {
+      "ingredient_id": "C0336",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "confectioners' sugar": {
+      "ingredient_id": "C0130",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oniosn": {
+      "ingredient_id": "C0328",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gmrlic": {
+      "ingredient_id": "C0224",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red oonion": {
+      "ingredient_id": "C0393",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and green beans)": {
+      "ingredient_id": "C0011",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Szechuan peppercorns": {
+      "ingredient_id": "C0448",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "hot pot broth (with soy sauce": {
+      "ingredient_id": "C0262",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetables (such as carrots": {
+      "ingredient_id": "C0518",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef slices": {
+      "ingredient_id": "C0046",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ground byef": {
+      "ingredient_id": "C0248",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cooked rive": {
+      "ingredient_id": "C0131",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onivn": {
+      "ingredient_id": "C0333",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "French bread": {
+      "ingredient_id": "C0190",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Here are the main ingredients": {
+      "ingredient_id": "C0259",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and chili oil)": {
+      "ingredient_id": "C0010",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Chicken  breast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pit bread": {
+      "ingredient_id": "C0370",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomatto": {
+      "ingredient_id": "C0501",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cucuber": {
+      "ingredient_id": "C0145",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Pork sohulder": {
+      "ingredient_id": "C0377",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gochujaxg": {
+      "ingredient_id": "C0228",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "galric": {
+      "ingredient_id": "C0201",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cilanto": {
+      "ingredient_id": "C0116",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Brussels sprouts": {
+      "ingredient_id": "C0068",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili powwder": {
+      "ingredient_id": "C0109",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bamboo shoost": {
+      "ingredient_id": "C0030",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crispy tortillas": {
+      "ingredient_id": "C0142",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Pork or beef": {
+      "ingredient_id": "C0374",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "enchilada sauce": {
+      "ingredient_id": "C0171",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "shredded lettuce": {
+      "ingredient_id": "C0446",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Carmelized onions": {
+      "ingredient_id": "C0080",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bee broth": {
+      "ingredient_id": "C0035",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "French rbead": {
+      "ingredient_id": "C0191",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "buter": {
+      "ingredient_id": "C0070",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "saot": {
+      "ingredient_id": "C0425",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "thmye": {
+      "ingredient_id": "C0488",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "green onons": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "teriyaki sauje": {
+      "ingredient_id": "C0485",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "letttce": {
+      "ingredient_id": "C0285",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cheeese": {
+      "ingredient_id": "C0090",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pckles": {
+      "ingredient_id": "C0353",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "riae vinegar": {
+      "ingredient_id": "C0396",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gingwr": {
+      "ingredient_id": "C0221",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "miqin": {
+      "ingredient_id": "C0300",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "crarots)": {
+      "ingredient_id": "C0138",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "soyy sauce": {
+      "ingredient_id": "C0456",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "maoynnaise": {
+      "ingredient_id": "C0291",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "srriacha": {
+      "ingredient_id": "C0468",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken or shrimp": {
+      "ingredient_id": "C0102",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rine": {
+      "ingredient_id": "C0403",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "hoagie rolls": {
+      "ingredient_id": "C0260",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and sometimes mushrooms": {
+      "ingredient_id": "C0015",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Arborio rice": {
+      "ingredient_id": "C0019",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Parmesan chnese": {
+      "ingredient_id": "C0345",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "yougrt": {
+      "ingredient_id": "C0528",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumfn": {
+      "ingredient_id": "C0150",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "coiander": {
+      "ingredient_id": "C0128",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomat opaste": {
+      "ingredient_id": "C0499",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "heavy iream": {
+      "ingredient_id": "C0258",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red bell pepper": {
+      "ingredient_id": "C0390",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chili flakkes": {
+      "ingredient_id": "C0106",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beefkbones": {
+      "ingredient_id": "C0040",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cinnamon sticsk": {
+      "ingredient_id": "C0120",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fich sauce": {
+      "ingredient_id": "C0179",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Parmesan cheese": {
+      "ingredient_id": "C0345",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cocoonut milk": {
+      "ingredient_id": "C0126",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "green curry passte": {
+      "ingredient_id": "C0240",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fsih balls": {
+      "ingredient_id": "C0184",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemongarss": {
+      "ingredient_id": "C0282",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetabble oil": {
+      "ingredient_id": "C0514",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bean psrouts": {
+      "ingredient_id": "C0034",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "duck breast": {
+      "ingredient_id": "C0164",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "onioys": {
+      "ingredient_id": "C0331",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rouilel": {
+      "ingredient_id": "C0408",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parsly": {
+      "ingredient_id": "C0348",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Gochuang": {
+      "ingredient_id": "C0226",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "soygsauce": {
+      "ingredient_id": "C0463",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "brown suggar": {
+      "ingredient_id": "C0062",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gaqlic": {
+      "ingredient_id": "C0202",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gingor": {
+      "ingredient_id": "C0220",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cilwntro": {
+      "ingredient_id": "C0117",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "red oinon": {
+      "ingredient_id": "C0392",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gahlic": {
+      "ingredient_id": "C0199",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "balck pepper": {
+      "ingredient_id": "C0027",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gram masala": {
+      "ingredient_id": "C0203",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomaot puree": {
+      "ingredient_id": "C0498",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Gochjuang": {
+      "ingredient_id": "C0226",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "brownn sugar": {
+      "ingredient_id": "C0062",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "greei onions": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Chicekn": {
+      "ingredient_id": "C0095",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "ren wine": {
+      "ingredient_id": "C0394",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cognc": {
+      "ingredient_id": "C0127",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pasry dough": {
+      "ingredient_id": "C0350",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mushroooms": {
+      "ingredient_id": "C0307",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "peppur": {
+      "ingredient_id": "C0363",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scalloops": {
+      "ingredient_id": "C0433",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garlyc": {
+      "ingredient_id": "C0209",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pasley": {
+      "ingredient_id": "C0349",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Korean chili flakse": {
+      "ingredient_id": "C0271",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "soy  sauce": {
+      "ingredient_id": "C0456",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beef tsrips": {
+      "ingredient_id": "C0047",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Ricce": {
+      "ingredient_id": "C0398",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cuumber": {
+      "ingredient_id": "C0157",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "spiach": {
+      "ingredient_id": "C0465",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "caeprs": {
+      "ingredient_id": "C0076",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "white yine": {
+      "ingredient_id": "C0524",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "extra virgin olve oil": {
+      "ingredient_id": "C0172",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "anchovy paste (optionaal)": {
+      "ingredient_id": "C0009",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemno juice": {
+      "ingredient_id": "C0276",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "pootatoes": {
+      "ingredient_id": "C0372",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olive ol": {
+      "ingredient_id": "C0322",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Duck breasst": {
+      "ingredient_id": "C0164",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "panakes": {
+      "ingredient_id": "C0343",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "horsin sauce": {
+      "ingredient_id": "C0261",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "scallifns": {
+      "ingredient_id": "C0431",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "fivve-spice powder": {
+      "ingredient_id": "C0188",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "eggg": {
+      "ingredient_id": "C0167",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Portobello muahrooms": {
+      "ingredient_id": "C0379",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "kaamata olives": {
+      "ingredient_id": "C0266",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon ujice": {
+      "ingredient_id": "C0280",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "parmessan cheese": {
+      "ingredient_id": "C0345",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken breaot": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "yogut": {
+      "ingredient_id": "C0529",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garam maswla": {
+      "ingredient_id": "C0203",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cayenen pepper": {
+      "ingredient_id": "C0083",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "hevay cream": {
+      "ingredient_id": "C0257",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oliive oil": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon juicce": {
+      "ingredient_id": "C0276",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Kiimchi": {
+      "ingredient_id": "C0268",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cooekd rice": {
+      "ingredient_id": "C0129",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garliic": {
+      "ingredient_id": "C0207",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Korean chili flazes": {
+      "ingredient_id": "C0271",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Beef bones": {
+      "ingredient_id": "C0040",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "rare beef": {
+      "ingredient_id": "C0385",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cheese (such as provolone or heddar)": {
+      "ingredient_id": "C0093",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "opive oil": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "and smetimes mushrooms": {
+      "ingredient_id": "C0015",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "samt": {
+      "ingredient_id": "C0424",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Roasted poblanoo peppers": {
+      "ingredient_id": "C0406",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "breaddcrumbs": {
+      "ingredient_id": "C0064",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "btter": {
+      "ingredient_id": "C0069",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "steaemd buns": {
+      "ingredient_id": "C0471",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "picjled ginger": {
+      "ingredient_id": "C0365",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "greenn onions": {
+      "ingredient_id": "C0212",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "toasted sesame sees": {
+      "ingredient_id": "C0493",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "riec vinegar": {
+      "ingredient_id": "C0396",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sagar": {
+      "ingredient_id": "C0417",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "beeef brisket": {
+      "ingredient_id": "C0036",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "black eans": {
+      "ingredient_id": "C0054",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cumni": {
+      "ingredient_id": "C0155",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "penauts": {
+      "ingredient_id": "C0360",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "gidger": {
+      "ingredient_id": "C0215",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "vegetable  oil": {
+      "ingredient_id": "C0514",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "chicken breaast": {
+      "ingredient_id": "C0088",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "criander": {
+      "ingredient_id": "C0128",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "dried aprgcots": {
+      "ingredient_id": "C0160",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "preserved lelons": {
+      "ingredient_id": "C0381",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cilatro": {
+      "ingredient_id": "C0115",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "mayonnase": {
+      "ingredient_id": "C0295",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "srirgcha mayo": {
+      "ingredient_id": "C0469",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "lemon jucie": {
+      "ingredient_id": "C0278",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "olve oil": {
+      "ingredient_id": "C0319",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cuin": {
+      "ingredient_id": "C0125",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "coriandder": {
+      "ingredient_id": "C0128",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "sayt": {
+      "ingredient_id": "C0429",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "Rile vinegar": {
+      "ingredient_id": "C0396",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "touf": {
+      "ingredient_id": "C0507",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "seame seeds": {
+      "ingredient_id": "C0437",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "nori sewweed sheets": {
+      "ingredient_id": "C0314",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "splt": {
+      "ingredient_id": "C0466",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "yocurt": {
+      "ingredient_id": "C0527",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "garam maala": {
+      "ingredient_id": "C0203",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "oniions": {
+      "ingredient_id": "C0326",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "almond fllour": {
+      "ingredient_id": "C0006",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cannli cream filling": {
+      "ingredient_id": "C0078",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "porkchops": {
+      "ingredient_id": "C0378",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "brwn sugar": {
+      "ingredient_id": "C0062",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "cinnamn": {
+      "ingredient_id": "C0119",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "presserved lemons": {
+      "ingredient_id": "C0381",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "celerry": {
+      "ingredient_id": "C0087",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "bacoc or pancetta": {
+      "ingredient_id": "C0023",
+      "method": "exact",
+      "confidence": 1.0
+    },
+    "tomatos": {
+      "ingredient_id": "C0503",
+      "method": "exact",
+      "confidence": 1.0
+    }
+  }
+}

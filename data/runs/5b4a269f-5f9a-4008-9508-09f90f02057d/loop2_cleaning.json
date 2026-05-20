@@ -1,0 +1,6147 @@
+{
+  "cluster_count": 543,
+  "canonical_ingredients": [
+    {
+      "ingredient_id": "C0001",
+      "name": "aji amarillo peppers",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0001"
+      ]
+    },
+    {
+      "ingredient_id": "C0002",
+      "name": "aji amarillo peppers",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0002",
+        "I0003",
+        "I0004"
+      ]
+    },
+    {
+      "ingredient_id": "C0003",
+      "name": "aj\u00ed panca pepper",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0005"
+      ]
+    },
+    {
+      "ingredient_id": "C0004",
+      "name": "all-purpose flour",
+      "category": "Baking",
+      "variant_count": 2,
+      "source_ids": [
+        "I0006",
+        "I0007"
+      ]
+    },
+    {
+      "ingredient_id": "C0005",
+      "name": "allspice",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0008",
+        "I0009"
+      ]
+    },
+    {
+      "ingredient_id": "C0006",
+      "name": "almond flour",
+      "category": "Baking",
+      "variant_count": 3,
+      "source_ids": [
+        "I0010",
+        "I0011",
+        "I0012"
+      ]
+    },
+    {
+      "ingredient_id": "C0007",
+      "name": "anaheim peppers",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0013",
+        "I0014"
+      ]
+    },
+    {
+      "ingredient_id": "C0008",
+      "name": "ancho chili peppers",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0015"
+      ]
+    },
+    {
+      "ingredient_id": "C0009",
+      "name": "anchovy paste",
+      "category": "Condiment",
+      "variant_count": 3,
+      "source_ids": [
+        "I0016",
+        "I0017",
+        "I0889"
+      ]
+    },
+    {
+      "ingredient_id": "C0010",
+      "name": "chili oil",
+      "category": "Oil",
+      "variant_count": 1,
+      "source_ids": [
+        "I0018"
+      ]
+    },
+    {
+      "ingredient_id": "C0011",
+      "name": "green beans",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0019"
+      ]
+    },
+    {
+      "ingredient_id": "C0012",
+      "name": "not an ingredient",
+      "category": "Other",
+      "variant_count": 1,
+      "source_ids": [
+        "I0020"
+      ]
+    },
+    {
+      "ingredient_id": "C0013",
+      "name": "not an ingredient",
+      "category": "Other",
+      "variant_count": 1,
+      "source_ids": [
+        "I0021"
+      ]
+    },
+    {
+      "ingredient_id": "C0014",
+      "name": "shrimp",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0022"
+      ]
+    },
+    {
+      "ingredient_id": "C0015",
+      "name": "mushrooms",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0023",
+        "I0024",
+        "I0030"
+      ]
+    },
+    {
+      "ingredient_id": "C0016",
+      "name": "not an ingredient",
+      "category": "Other",
+      "variant_count": 1,
+      "source_ids": [
+        "I0025"
+      ]
+    },
+    {
+      "ingredient_id": "C0017",
+      "name": "yellow plantains",
+      "category": "Fruit",
+      "variant_count": 3,
+      "source_ids": [
+        "I0026",
+        "I0027",
+        "I0028"
+      ]
+    },
+    {
+      "ingredient_id": "C0018",
+      "name": "andouille sausage",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0029"
+      ]
+    },
+    {
+      "ingredient_id": "C0019",
+      "name": "arborio rice",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0031"
+      ]
+    },
+    {
+      "ingredient_id": "C0020",
+      "name": "artichoke hearts",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0032"
+      ]
+    },
+    {
+      "ingredient_id": "C0021",
+      "name": "avocado",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0033"
+      ]
+    },
+    {
+      "ingredient_id": "C0022",
+      "name": "bacalhau",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0034"
+      ]
+    },
+    {
+      "ingredient_id": "C0023",
+      "name": "bacon or pancetta",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0035",
+        "I0037"
+      ]
+    },
+    {
+      "ingredient_id": "C0024",
+      "name": "bacon",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0036"
+      ]
+    },
+    {
+      "ingredient_id": "C0025",
+      "name": "baguette",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0038"
+      ]
+    },
+    {
+      "ingredient_id": "C0026",
+      "name": "baking powder",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0039"
+      ]
+    },
+    {
+      "ingredient_id": "C0027",
+      "name": "black pepper",
+      "category": "Spice",
+      "variant_count": 3,
+      "source_ids": [
+        "I0040",
+        "I0090",
+        "I0877"
+      ]
+    },
+    {
+      "ingredient_id": "C0028",
+      "name": "balsamic vinaigrette",
+      "category": "Condiment",
+      "variant_count": 4,
+      "source_ids": [
+        "I0041",
+        "I0042",
+        "I0044",
+        "I0094"
+      ]
+    },
+    {
+      "ingredient_id": "C0029",
+      "name": "balsamic vinegar",
+      "category": "Condiment",
+      "variant_count": 3,
+      "source_ids": [
+        "I0043",
+        "I0045",
+        "I0884"
+      ]
+    },
+    {
+      "ingredient_id": "C0030",
+      "name": "bamboo shoots",
+      "category": "Vegetable",
+      "variant_count": 4,
+      "source_ids": [
+        "I0046",
+        "I0047",
+        "I0048",
+        "I0892"
+      ]
+    },
+    {
+      "ingredient_id": "C0031",
+      "name": "banh mi sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0049"
+      ]
+    },
+    {
+      "ingredient_id": "C0032",
+      "name": "basil",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0050"
+      ]
+    },
+    {
+      "ingredient_id": "C0033",
+      "name": "bay leaves",
+      "category": "Herb",
+      "variant_count": 3,
+      "source_ids": [
+        "I0051",
+        "I0052",
+        "I0874"
+      ]
+    },
+    {
+      "ingredient_id": "C0034",
+      "name": "bean sprouts",
+      "category": "Vegetable",
+      "variant_count": 4,
+      "source_ids": [
+        "I0053",
+        "I0054",
+        "I0055",
+        "I0056"
+      ]
+    },
+    {
+      "ingredient_id": "C0035",
+      "name": "beef broth",
+      "category": "Broth",
+      "variant_count": 2,
+      "source_ids": [
+        "I0057",
+        "I0067"
+      ]
+    },
+    {
+      "ingredient_id": "C0036",
+      "name": "beef brisket",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0058",
+        "I0064"
+      ]
+    },
+    {
+      "ingredient_id": "C0037",
+      "name": "beef",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0059"
+      ]
+    },
+    {
+      "ingredient_id": "C0038",
+      "name": "beef (thinly sliced)",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0060",
+        "I0061"
+      ]
+    },
+    {
+      "ingredient_id": "C0039",
+      "name": "beef bones",
+      "category": "Other",
+      "variant_count": 1,
+      "source_ids": [
+        "I0062"
+      ]
+    },
+    {
+      "ingredient_id": "C0040",
+      "name": "beef bones",
+      "category": "Other",
+      "variant_count": 3,
+      "source_ids": [
+        "I0063",
+        "I0076",
+        "I0886"
+      ]
+    },
+    {
+      "ingredient_id": "C0041",
+      "name": "beef brisket or chuck",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0065"
+      ]
+    },
+    {
+      "ingredient_id": "C0042",
+      "name": "beef brisket or rare steak",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0066"
+      ]
+    },
+    {
+      "ingredient_id": "C0043",
+      "name": "beef or chicken",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0068",
+        "I0167"
+      ]
+    },
+    {
+      "ingredient_id": "C0044",
+      "name": "beef patty",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0069"
+      ]
+    },
+    {
+      "ingredient_id": "C0045",
+      "name": "beef short ribs",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0070"
+      ]
+    },
+    {
+      "ingredient_id": "C0046",
+      "name": "beef slices",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0071"
+      ]
+    },
+    {
+      "ingredient_id": "C0047",
+      "name": "beef strips",
+      "category": "Meat",
+      "variant_count": 3,
+      "source_ids": [
+        "I0072",
+        "I0074",
+        "I0075"
+      ]
+    },
+    {
+      "ingredient_id": "C0048",
+      "name": "beef tenderloin",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0073"
+      ]
+    },
+    {
+      "ingredient_id": "C0049",
+      "name": "bell peppers",
+      "category": "Vegetable",
+      "variant_count": 6,
+      "source_ids": [
+        "I0077",
+        "I0079",
+        "I0080",
+        "I0081",
+        "I0095",
+        "I0895"
+      ]
+    },
+    {
+      "ingredient_id": "C0050",
+      "name": "bell peppers",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0078"
+      ]
+    },
+    {
+      "ingredient_id": "C0051",
+      "name": "bell peppers",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0082"
+      ]
+    },
+    {
+      "ingredient_id": "C0052",
+      "name": "berbere spice mix",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0083"
+      ]
+    },
+    {
+      "ingredient_id": "C0053",
+      "name": "black beans",
+      "category": "Legume",
+      "variant_count": 1,
+      "source_ids": [
+        "I0084"
+      ]
+    },
+    {
+      "ingredient_id": "C0054",
+      "name": "black beans",
+      "category": "Legume",
+      "variant_count": 2,
+      "source_ids": [
+        "I0085",
+        "I0086"
+      ]
+    },
+    {
+      "ingredient_id": "C0055",
+      "name": "black pepper",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0087"
+      ]
+    },
+    {
+      "ingredient_id": "C0056",
+      "name": "black pepper",
+      "category": "Spice",
+      "variant_count": 4,
+      "source_ids": [
+        "I0088",
+        "I0089",
+        "I0091",
+        "I0092"
+      ]
+    },
+    {
+      "ingredient_id": "C0057",
+      "name": "black pepper",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0093"
+      ]
+    },
+    {
+      "ingredient_id": "C0058",
+      "name": "blueberries",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0096"
+      ]
+    },
+    {
+      "ingredient_id": "C0059",
+      "name": "blueberries or raspberries",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0097"
+      ]
+    },
+    {
+      "ingredient_id": "C0060",
+      "name": "bok choy",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0098"
+      ]
+    },
+    {
+      "ingredient_id": "C0061",
+      "name": "boneless",
+      "category": "Other",
+      "variant_count": 1,
+      "source_ids": [
+        "I0099"
+      ]
+    },
+    {
+      "ingredient_id": "C0062",
+      "name": "brown sugar",
+      "category": "Sweetener",
+      "variant_count": 5,
+      "source_ids": [
+        "I0100",
+        "I0108",
+        "I0109",
+        "I0110",
+        "I0113"
+      ]
+    },
+    {
+      "ingredient_id": "C0063",
+      "name": "bread",
+      "category": "Grain",
+      "variant_count": 2,
+      "source_ids": [
+        "I0101",
+        "I0104"
+      ]
+    },
+    {
+      "ingredient_id": "C0064",
+      "name": "breadcrumbs",
+      "category": "Grain",
+      "variant_count": 2,
+      "source_ids": [
+        "I0102",
+        "I0103"
+      ]
+    },
+    {
+      "ingredient_id": "C0065",
+      "name": "broccoli",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0105"
+      ]
+    },
+    {
+      "ingredient_id": "C0066",
+      "name": "brown sugar",
+      "category": "Sweetener",
+      "variant_count": 1,
+      "source_ids": [
+        "I0106"
+      ]
+    },
+    {
+      "ingredient_id": "C0067",
+      "name": "brown sugar",
+      "category": "Sweetener",
+      "variant_count": 1,
+      "source_ids": [
+        "I0107"
+      ]
+    },
+    {
+      "ingredient_id": "C0068",
+      "name": "brussels sprouts",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0111",
+        "I0112",
+        "I0894"
+      ]
+    },
+    {
+      "ingredient_id": "C0069",
+      "name": "butter",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0114",
+        "I0117"
+      ]
+    },
+    {
+      "ingredient_id": "C0070",
+      "name": "butter",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0115"
+      ]
+    },
+    {
+      "ingredient_id": "C0071",
+      "name": "butter",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0116",
+        "I0898"
+      ]
+    },
+    {
+      "ingredient_id": "C0072",
+      "name": "butter",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0118"
+      ]
+    },
+    {
+      "ingredient_id": "C0073",
+      "name": "butter",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0119"
+      ]
+    },
+    {
+      "ingredient_id": "C0074",
+      "name": "b\u00e9chamel sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0120"
+      ]
+    },
+    {
+      "ingredient_id": "C0075",
+      "name": "carrots",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0121",
+        "I0135"
+      ]
+    },
+    {
+      "ingredient_id": "C0076",
+      "name": "capers",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0122"
+      ]
+    },
+    {
+      "ingredient_id": "C0077",
+      "name": "canned tomatoes",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0123",
+        "I0124"
+      ]
+    },
+    {
+      "ingredient_id": "C0078",
+      "name": "cannoli cream filling",
+      "category": "Dairy",
+      "variant_count": 3,
+      "source_ids": [
+        "I0125",
+        "I0126",
+        "I0127"
+      ]
+    },
+    {
+      "ingredient_id": "C0079",
+      "name": "capers",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0128"
+      ]
+    },
+    {
+      "ingredient_id": "C0080",
+      "name": "caramelized onions",
+      "category": "Vegetable",
+      "variant_count": 4,
+      "source_ids": [
+        "I0129",
+        "I0130",
+        "I0131",
+        "I0869"
+      ]
+    },
+    {
+      "ingredient_id": "C0081",
+      "name": "carrots",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0132",
+        "I0134"
+      ]
+    },
+    {
+      "ingredient_id": "C0082",
+      "name": "carrot",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0133"
+      ]
+    },
+    {
+      "ingredient_id": "C0083",
+      "name": "cayenne pepper",
+      "category": "Spice",
+      "variant_count": 4,
+      "source_ids": [
+        "I0136",
+        "I0137",
+        "I0138",
+        "I0139"
+      ]
+    },
+    {
+      "ingredient_id": "C0084",
+      "name": "cayenne pepper",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0140"
+      ]
+    },
+    {
+      "ingredient_id": "C0085",
+      "name": "cayenne pepper",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0141"
+      ]
+    },
+    {
+      "ingredient_id": "C0086",
+      "name": "crispy duck confit",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0142"
+      ]
+    },
+    {
+      "ingredient_id": "C0087",
+      "name": "celery",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0143",
+        "I0144"
+      ]
+    },
+    {
+      "ingredient_id": "C0088",
+      "name": "chicken breast",
+      "category": "Meat",
+      "variant_count": 13,
+      "source_ids": [
+        "I0145",
+        "I0154",
+        "I0155",
+        "I0158",
+        "I0159",
+        "I0160",
+        "I0161",
+        "I0162",
+        "I0163",
+        "I0173",
+        "I0176",
+        "I0193",
+        "I0194"
+      ]
+    },
+    {
+      "ingredient_id": "C0089",
+      "name": "cheddar cheese",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0146"
+      ]
+    },
+    {
+      "ingredient_id": "C0090",
+      "name": "cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0147",
+        "I0148"
+      ]
+    },
+    {
+      "ingredient_id": "C0091",
+      "name": "cheese",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0149"
+      ]
+    },
+    {
+      "ingredient_id": "C0092",
+      "name": "cheese",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0150"
+      ]
+    },
+    {
+      "ingredient_id": "C0093",
+      "name": "cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0151",
+        "I0872"
+      ]
+    },
+    {
+      "ingredient_id": "C0094",
+      "name": "cherry tomatoes",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0152"
+      ]
+    },
+    {
+      "ingredient_id": "C0095",
+      "name": "chicken",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0153"
+      ]
+    },
+    {
+      "ingredient_id": "C0096",
+      "name": "chicken broth",
+      "category": "Broth",
+      "variant_count": 1,
+      "source_ids": [
+        "I0156"
+      ]
+    },
+    {
+      "ingredient_id": "C0097",
+      "name": "chicken",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0157"
+      ]
+    },
+    {
+      "ingredient_id": "C0098",
+      "name": "chicken breasts",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0164"
+      ]
+    },
+    {
+      "ingredient_id": "C0099",
+      "name": "chicken broth",
+      "category": "Broth",
+      "variant_count": 2,
+      "source_ids": [
+        "I0165",
+        "I0174"
+      ]
+    },
+    {
+      "ingredient_id": "C0100",
+      "name": "chicken thighs",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0166",
+        "I0171"
+      ]
+    },
+    {
+      "ingredient_id": "C0101",
+      "name": "chicken or pork broth",
+      "category": "Broth",
+      "variant_count": 1,
+      "source_ids": [
+        "I0168"
+      ]
+    },
+    {
+      "ingredient_id": "C0102",
+      "name": "chicken or shrimp",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0169"
+      ]
+    },
+    {
+      "ingredient_id": "C0103",
+      "name": "chicken breast",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0170"
+      ]
+    },
+    {
+      "ingredient_id": "C0104",
+      "name": "chicken wings",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0172"
+      ]
+    },
+    {
+      "ingredient_id": "C0105",
+      "name": "chickpeas",
+      "category": "Legume",
+      "variant_count": 1,
+      "source_ids": [
+        "I0175"
+      ]
+    },
+    {
+      "ingredient_id": "C0106",
+      "name": "chili flakes",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0177",
+        "I0178"
+      ]
+    },
+    {
+      "ingredient_id": "C0107",
+      "name": "chili oil",
+      "category": "Oil",
+      "variant_count": 3,
+      "source_ids": [
+        "I0179",
+        "I0195",
+        "I0871"
+      ]
+    },
+    {
+      "ingredient_id": "C0108",
+      "name": "chili peppers",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0180",
+        "I0181",
+        "I0182"
+      ]
+    },
+    {
+      "ingredient_id": "C0109",
+      "name": "chili powder",
+      "category": "Spice",
+      "variant_count": 3,
+      "source_ids": [
+        "I0183",
+        "I0184",
+        "I0185"
+      ]
+    },
+    {
+      "ingredient_id": "C0110",
+      "name": "chili sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0186"
+      ]
+    },
+    {
+      "ingredient_id": "C0111",
+      "name": "chipotle peppers in adobo sauce",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0187",
+        "I0188"
+      ]
+    },
+    {
+      "ingredient_id": "C0112",
+      "name": "chocolate chips",
+      "category": "Baking",
+      "variant_count": 3,
+      "source_ids": [
+        "I0189",
+        "I0191",
+        "I0878"
+      ]
+    },
+    {
+      "ingredient_id": "C0113",
+      "name": "chocolate chips",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0190"
+      ]
+    },
+    {
+      "ingredient_id": "C0114",
+      "name": "chorizo or ham",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0192"
+      ]
+    },
+    {
+      "ingredient_id": "C0115",
+      "name": "cilantro",
+      "category": "Herb",
+      "variant_count": 3,
+      "source_ids": [
+        "I0196",
+        "I0199",
+        "I0200"
+      ]
+    },
+    {
+      "ingredient_id": "C0116",
+      "name": "cilantro",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0197",
+        "I0198"
+      ]
+    },
+    {
+      "ingredient_id": "C0117",
+      "name": "cilantro",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0201"
+      ]
+    },
+    {
+      "ingredient_id": "C0118",
+      "name": "cinnamon",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0202"
+      ]
+    },
+    {
+      "ingredient_id": "C0119",
+      "name": "cinnamon",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0203",
+        "I0204"
+      ]
+    },
+    {
+      "ingredient_id": "C0120",
+      "name": "cinnamon sticks",
+      "category": "Spice",
+      "variant_count": 3,
+      "source_ids": [
+        "I0205",
+        "I0206",
+        "I0212"
+      ]
+    },
+    {
+      "ingredient_id": "C0121",
+      "name": "clams",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0207"
+      ]
+    },
+    {
+      "ingredient_id": "C0122",
+      "name": "clams",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0208"
+      ]
+    },
+    {
+      "ingredient_id": "C0123",
+      "name": "cloves",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0209",
+        "I0900"
+      ]
+    },
+    {
+      "ingredient_id": "C0124",
+      "name": "cloves",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0210"
+      ]
+    },
+    {
+      "ingredient_id": "C0125",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0211",
+        "I0258"
+      ]
+    },
+    {
+      "ingredient_id": "C0126",
+      "name": "coconut milk",
+      "category": "Beverage",
+      "variant_count": 3,
+      "source_ids": [
+        "I0213",
+        "I0214",
+        "I0215"
+      ]
+    },
+    {
+      "ingredient_id": "C0127",
+      "name": "cognac",
+      "category": "Alcohol",
+      "variant_count": 2,
+      "source_ids": [
+        "I0216",
+        "I0217"
+      ]
+    },
+    {
+      "ingredient_id": "C0128",
+      "name": "coriander",
+      "category": "Herb",
+      "variant_count": 6,
+      "source_ids": [
+        "I0218",
+        "I0224",
+        "I0225",
+        "I0226",
+        "I0229",
+        "I0237"
+      ]
+    },
+    {
+      "ingredient_id": "C0129",
+      "name": "cooked rice",
+      "category": "Grain",
+      "variant_count": 3,
+      "source_ids": [
+        "I0219",
+        "I0221",
+        "I0222"
+      ]
+    },
+    {
+      "ingredient_id": "C0130",
+      "name": "confectioners' sugar",
+      "category": "Sweetener",
+      "variant_count": 1,
+      "source_ids": [
+        "I0220"
+      ]
+    },
+    {
+      "ingredient_id": "C0131",
+      "name": "cooked rice",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0223"
+      ]
+    },
+    {
+      "ingredient_id": "C0132",
+      "name": "coriander powder",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0227",
+        "I0228"
+      ]
+    },
+    {
+      "ingredient_id": "C0133",
+      "name": "coriander",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0230"
+      ]
+    },
+    {
+      "ingredient_id": "C0134",
+      "name": "corn",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0231"
+      ]
+    },
+    {
+      "ingredient_id": "C0135",
+      "name": "corn on the cob",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0232"
+      ]
+    },
+    {
+      "ingredient_id": "C0136",
+      "name": "cornstarch",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0233"
+      ]
+    },
+    {
+      "ingredient_id": "C0137",
+      "name": "crab stick",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0234"
+      ]
+    },
+    {
+      "ingredient_id": "C0138",
+      "name": "carrots",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0235"
+      ]
+    },
+    {
+      "ingredient_id": "C0139",
+      "name": "crawfish boil spice",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0236"
+      ]
+    },
+    {
+      "ingredient_id": "C0140",
+      "name": "crispy duck confit",
+      "category": "Meat",
+      "variant_count": 4,
+      "source_ids": [
+        "I0238",
+        "I0239",
+        "I0244",
+        "I0875"
+      ]
+    },
+    {
+      "ingredient_id": "C0141",
+      "name": "crispy prosciutto",
+      "category": "Meat",
+      "variant_count": 4,
+      "source_ids": [
+        "I0240",
+        "I0241",
+        "I0243",
+        "I0899"
+      ]
+    },
+    {
+      "ingredient_id": "C0142",
+      "name": "crispy tortillas",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0242"
+      ]
+    },
+    {
+      "ingredient_id": "C0143",
+      "name": "crumbled blue cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0245",
+        "I0246"
+      ]
+    },
+    {
+      "ingredient_id": "C0144",
+      "name": "cucumber",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0247"
+      ]
+    },
+    {
+      "ingredient_id": "C0145",
+      "name": "cucumber",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0248",
+        "I0249",
+        "I0251"
+      ]
+    },
+    {
+      "ingredient_id": "C0146",
+      "name": "cucumber seeds",
+      "category": "Seed",
+      "variant_count": 2,
+      "source_ids": [
+        "I0250",
+        "I0254"
+      ]
+    },
+    {
+      "ingredient_id": "C0147",
+      "name": "cucumber",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0252",
+        "I0253",
+        "I0255"
+      ]
+    },
+    {
+      "ingredient_id": "C0148",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0256"
+      ]
+    },
+    {
+      "ingredient_id": "C0149",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0257",
+        "I0268"
+      ]
+    },
+    {
+      "ingredient_id": "C0150",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0259"
+      ]
+    },
+    {
+      "ingredient_id": "C0151",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0260"
+      ]
+    },
+    {
+      "ingredient_id": "C0152",
+      "name": "cumin powder",
+      "category": "Spice",
+      "variant_count": 6,
+      "source_ids": [
+        "I0261",
+        "I0264",
+        "I0265",
+        "I0266",
+        "I0867",
+        "I0888"
+      ]
+    },
+    {
+      "ingredient_id": "C0153",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0262",
+        "I0263"
+      ]
+    },
+    {
+      "ingredient_id": "C0154",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0267"
+      ]
+    },
+    {
+      "ingredient_id": "C0155",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0269"
+      ]
+    },
+    {
+      "ingredient_id": "C0156",
+      "name": "curry powder",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0270"
+      ]
+    },
+    {
+      "ingredient_id": "C0157",
+      "name": "cucumber",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0271"
+      ]
+    },
+    {
+      "ingredient_id": "C0158",
+      "name": "cumin",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0272"
+      ]
+    },
+    {
+      "ingredient_id": "C0159",
+      "name": "diced tomatoes",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0273",
+        "I0274"
+      ]
+    },
+    {
+      "ingredient_id": "C0160",
+      "name": "dried apricots",
+      "category": "Fruit",
+      "variant_count": 3,
+      "source_ids": [
+        "I0275",
+        "I0276",
+        "I0277"
+      ]
+    },
+    {
+      "ingredient_id": "C0161",
+      "name": "dried basil",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0278",
+        "I0282"
+      ]
+    },
+    {
+      "ingredient_id": "C0162",
+      "name": "dried black beans",
+      "category": "Legume",
+      "variant_count": 1,
+      "source_ids": [
+        "I0279"
+      ]
+    },
+    {
+      "ingredient_id": "C0163",
+      "name": "dried cranberries",
+      "category": "Fruit",
+      "variant_count": 2,
+      "source_ids": [
+        "I0280",
+        "I0281"
+      ]
+    },
+    {
+      "ingredient_id": "C0164",
+      "name": "duck breast",
+      "category": "Meat",
+      "variant_count": 3,
+      "source_ids": [
+        "I0283",
+        "I0284",
+        "I0866"
+      ]
+    },
+    {
+      "ingredient_id": "C0165",
+      "name": "duck meat",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0285"
+      ]
+    },
+    {
+      "ingredient_id": "C0166",
+      "name": "egg",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0286"
+      ]
+    },
+    {
+      "ingredient_id": "C0167",
+      "name": "egg",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0287"
+      ]
+    },
+    {
+      "ingredient_id": "C0168",
+      "name": "eggplant",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0288"
+      ]
+    },
+    {
+      "ingredient_id": "C0169",
+      "name": "eggs",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0289"
+      ]
+    },
+    {
+      "ingredient_id": "C0170",
+      "name": "egg",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0290"
+      ]
+    },
+    {
+      "ingredient_id": "C0171",
+      "name": "enchilada sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0291"
+      ]
+    },
+    {
+      "ingredient_id": "C0172",
+      "name": "extra virgin olive oil",
+      "category": "Oil",
+      "variant_count": 2,
+      "source_ids": [
+        "I0292",
+        "I0293"
+      ]
+    },
+    {
+      "ingredient_id": "C0173",
+      "name": "fajita seasoning",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0294",
+        "I0295"
+      ]
+    },
+    {
+      "ingredient_id": "C0174",
+      "name": "fennel",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0296"
+      ]
+    },
+    {
+      "ingredient_id": "C0175",
+      "name": "fermented bean paste",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0297"
+      ]
+    },
+    {
+      "ingredient_id": "C0176",
+      "name": "feta cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0298",
+        "I0299"
+      ]
+    },
+    {
+      "ingredient_id": "C0177",
+      "name": "feta cheese",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0300"
+      ]
+    },
+    {
+      "ingredient_id": "C0178",
+      "name": "fettuccine pasta",
+      "category": "Pasta & Noodles",
+      "variant_count": 1,
+      "source_ids": [
+        "I0301"
+      ]
+    },
+    {
+      "ingredient_id": "C0179",
+      "name": "fish sauce",
+      "category": "Sauce",
+      "variant_count": 3,
+      "source_ids": [
+        "I0302",
+        "I0311",
+        "I0329"
+      ]
+    },
+    {
+      "ingredient_id": "C0180",
+      "name": "fish",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0303"
+      ]
+    },
+    {
+      "ingredient_id": "C0181",
+      "name": "fish (preferably mahi-mahi or tilapia)",
+      "category": "Seafood",
+      "variant_count": 2,
+      "source_ids": [
+        "I0304",
+        "I0305"
+      ]
+    },
+    {
+      "ingredient_id": "C0182",
+      "name": "fish and shellfish (such as mussels)",
+      "category": "Seafood",
+      "variant_count": 2,
+      "source_ids": [
+        "I0306",
+        "I0307"
+      ]
+    },
+    {
+      "ingredient_id": "C0183",
+      "name": "fish sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0308"
+      ]
+    },
+    {
+      "ingredient_id": "C0184",
+      "name": "fish balls",
+      "category": "Seafood",
+      "variant_count": 2,
+      "source_ids": [
+        "I0309",
+        "I0328"
+      ]
+    },
+    {
+      "ingredient_id": "C0185",
+      "name": "fish of your choice",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0310"
+      ]
+    },
+    {
+      "ingredient_id": "C0186",
+      "name": "fish stock",
+      "category": "Broth",
+      "variant_count": 1,
+      "source_ids": [
+        "I0312"
+      ]
+    },
+    {
+      "ingredient_id": "C0187",
+      "name": "fish sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0313"
+      ]
+    },
+    {
+      "ingredient_id": "C0188",
+      "name": "five-spice powder",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0314",
+        "I0315"
+      ]
+    },
+    {
+      "ingredient_id": "C0189",
+      "name": "flour",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0316"
+      ]
+    },
+    {
+      "ingredient_id": "C0190",
+      "name": "french bread",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0317"
+      ]
+    },
+    {
+      "ingredient_id": "C0191",
+      "name": "french bread",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0318"
+      ]
+    },
+    {
+      "ingredient_id": "C0192",
+      "name": "fresh basil",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0319"
+      ]
+    },
+    {
+      "ingredient_id": "C0193",
+      "name": "fresh fruit (such as strawberries)",
+      "category": "Fruit",
+      "variant_count": 2,
+      "source_ids": [
+        "I0320",
+        "I0326"
+      ]
+    },
+    {
+      "ingredient_id": "C0194",
+      "name": "fried egg",
+      "category": "Protein",
+      "variant_count": 2,
+      "source_ids": [
+        "I0321",
+        "I0322"
+      ]
+    },
+    {
+      "ingredient_id": "C0195",
+      "name": "fried tortilla chips",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0323"
+      ]
+    },
+    {
+      "ingredient_id": "C0196",
+      "name": "fries (optional)",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0324",
+        "I0325",
+        "I0883"
+      ]
+    },
+    {
+      "ingredient_id": "C0197",
+      "name": "fruit jam",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0327"
+      ]
+    },
+    {
+      "ingredient_id": "C0198",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0330",
+        "I0345"
+      ]
+    },
+    {
+      "ingredient_id": "C0199",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0331",
+        "I0333"
+      ]
+    },
+    {
+      "ingredient_id": "C0200",
+      "name": "galangal",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0332"
+      ]
+    },
+    {
+      "ingredient_id": "C0201",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0334",
+        "I0341"
+      ]
+    },
+    {
+      "ingredient_id": "C0202",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0335"
+      ]
+    },
+    {
+      "ingredient_id": "C0203",
+      "name": "garam masala",
+      "category": "Spice",
+      "variant_count": 6,
+      "source_ids": [
+        "I0336",
+        "I0337",
+        "I0338",
+        "I0339",
+        "I0340",
+        "I0378"
+      ]
+    },
+    {
+      "ingredient_id": "C0204",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0342",
+        "I0343"
+      ]
+    },
+    {
+      "ingredient_id": "C0205",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0344"
+      ]
+    },
+    {
+      "ingredient_id": "C0206",
+      "name": "garlic powder",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0346"
+      ]
+    },
+    {
+      "ingredient_id": "C0207",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0347"
+      ]
+    },
+    {
+      "ingredient_id": "C0208",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0348"
+      ]
+    },
+    {
+      "ingredient_id": "C0209",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0349"
+      ]
+    },
+    {
+      "ingredient_id": "C0210",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0350"
+      ]
+    },
+    {
+      "ingredient_id": "C0211",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0351"
+      ]
+    },
+    {
+      "ingredient_id": "C0212",
+      "name": "green onions",
+      "category": "Vegetable",
+      "variant_count": 9,
+      "source_ids": [
+        "I0352",
+        "I0390",
+        "I0391",
+        "I0395",
+        "I0396",
+        "I0397",
+        "I0398",
+        "I0400",
+        "I0417"
+      ]
+    },
+    {
+      "ingredient_id": "C0213",
+      "name": "ghee or vegetable oil",
+      "category": "Other",
+      "variant_count": 1,
+      "source_ids": [
+        "I0353"
+      ]
+    },
+    {
+      "ingredient_id": "C0214",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0354",
+        "I0356"
+      ]
+    },
+    {
+      "ingredient_id": "C0215",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0355"
+      ]
+    },
+    {
+      "ingredient_id": "C0216",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0357",
+        "I0360"
+      ]
+    },
+    {
+      "ingredient_id": "C0217",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0358"
+      ]
+    },
+    {
+      "ingredient_id": "C0218",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0359"
+      ]
+    },
+    {
+      "ingredient_id": "C0219",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0361"
+      ]
+    },
+    {
+      "ingredient_id": "C0220",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0362",
+        "I0363"
+      ]
+    },
+    {
+      "ingredient_id": "C0221",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0364"
+      ]
+    },
+    {
+      "ingredient_id": "C0222",
+      "name": "ground beef",
+      "category": "Meat",
+      "variant_count": 3,
+      "source_ids": [
+        "I0365",
+        "I0407",
+        "I0418"
+      ]
+    },
+    {
+      "ingredient_id": "C0223",
+      "name": "glass noodles",
+      "category": "Pasta & Noodles",
+      "variant_count": 1,
+      "source_ids": [
+        "I0366"
+      ]
+    },
+    {
+      "ingredient_id": "C0224",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0367",
+        "I0406"
+      ]
+    },
+    {
+      "ingredient_id": "C0225",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0368",
+        "I0369"
+      ]
+    },
+    {
+      "ingredient_id": "C0226",
+      "name": "gochujang",
+      "category": "Condiment",
+      "variant_count": 3,
+      "source_ids": [
+        "I0370",
+        "I0371",
+        "I0372"
+      ]
+    },
+    {
+      "ingredient_id": "C0227",
+      "name": "gochujang paste",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0373"
+      ]
+    },
+    {
+      "ingredient_id": "C0228",
+      "name": "gochujang",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0374"
+      ]
+    },
+    {
+      "ingredient_id": "C0229",
+      "name": "gochujang",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0375",
+        "I0376"
+      ]
+    },
+    {
+      "ingredient_id": "C0230",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0377"
+      ]
+    },
+    {
+      "ingredient_id": "C0231",
+      "name": "granulated sugar",
+      "category": "Sweetener",
+      "variant_count": 1,
+      "source_ids": [
+        "I0379"
+      ]
+    },
+    {
+      "ingredient_id": "C0232",
+      "name": "grape leaves",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0380"
+      ]
+    },
+    {
+      "ingredient_id": "C0233",
+      "name": "grated parmesan cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0381",
+        "I0388"
+      ]
+    },
+    {
+      "ingredient_id": "C0234",
+      "name": "grated cheese",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0382"
+      ]
+    },
+    {
+      "ingredient_id": "C0235",
+      "name": "grated ginger",
+      "category": "Spice",
+      "variant_count": 3,
+      "source_ids": [
+        "I0383",
+        "I0384",
+        "I0389"
+      ]
+    },
+    {
+      "ingredient_id": "C0236",
+      "name": "grated ginger",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0385"
+      ]
+    },
+    {
+      "ingredient_id": "C0237",
+      "name": "mozzarella cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0386",
+        "I0479"
+      ]
+    },
+    {
+      "ingredient_id": "C0238",
+      "name": "grated parmesan",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0387"
+      ]
+    },
+    {
+      "ingredient_id": "C0239",
+      "name": "green beans",
+      "category": "Legume",
+      "variant_count": 1,
+      "source_ids": [
+        "I0392"
+      ]
+    },
+    {
+      "ingredient_id": "C0240",
+      "name": "green curry paste",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0393",
+        "I0394"
+      ]
+    },
+    {
+      "ingredient_id": "C0241",
+      "name": "green curry paste",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0399"
+      ]
+    },
+    {
+      "ingredient_id": "C0242",
+      "name": "grits",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0401"
+      ]
+    },
+    {
+      "ingredient_id": "C0243",
+      "name": "grilled pork or chicken",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0402"
+      ]
+    },
+    {
+      "ingredient_id": "C0244",
+      "name": "grilled pork or tofu",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0403"
+      ]
+    },
+    {
+      "ingredient_id": "C0245",
+      "name": "grilled pork sausage",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0404"
+      ]
+    },
+    {
+      "ingredient_id": "C0246",
+      "name": "grits",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0405"
+      ]
+    },
+    {
+      "ingredient_id": "C0247",
+      "name": "ground beef or pork",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0408"
+      ]
+    },
+    {
+      "ingredient_id": "C0248",
+      "name": "ground beef",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0409"
+      ]
+    },
+    {
+      "ingredient_id": "C0249",
+      "name": "ground cinnamon",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0410"
+      ]
+    },
+    {
+      "ingredient_id": "C0250",
+      "name": "ground coriander",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0411"
+      ]
+    },
+    {
+      "ingredient_id": "C0251",
+      "name": "ground cumin",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0412"
+      ]
+    },
+    {
+      "ingredient_id": "C0252",
+      "name": "ground lamb",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0413"
+      ]
+    },
+    {
+      "ingredient_id": "C0253",
+      "name": "ground lamb or beef",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0414"
+      ]
+    },
+    {
+      "ingredient_id": "C0254",
+      "name": "ground lamb or beef",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0415",
+        "I0443"
+      ]
+    },
+    {
+      "ingredient_id": "C0255",
+      "name": "ground pork",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0416"
+      ]
+    },
+    {
+      "ingredient_id": "C0256",
+      "name": "hard-boiled eggs",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0419"
+      ]
+    },
+    {
+      "ingredient_id": "C0257",
+      "name": "heavy cream",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0420",
+        "I0423"
+      ]
+    },
+    {
+      "ingredient_id": "C0258",
+      "name": "heavy cream",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0421"
+      ]
+    },
+    {
+      "ingredient_id": "C0259",
+      "name": "here are the main ingredients",
+      "category": "Other",
+      "variant_count": 1,
+      "source_ids": [
+        "I0422"
+      ]
+    },
+    {
+      "ingredient_id": "C0260",
+      "name": "hoagie rolls",
+      "category": "Baking",
+      "variant_count": 2,
+      "source_ids": [
+        "I0424",
+        "I0425"
+      ]
+    },
+    {
+      "ingredient_id": "C0261",
+      "name": "hoisin sauce",
+      "category": "Sauce",
+      "variant_count": 2,
+      "source_ids": [
+        "I0426",
+        "I0427"
+      ]
+    },
+    {
+      "ingredient_id": "C0262",
+      "name": "hot pot broth",
+      "category": "Broth",
+      "variant_count": 1,
+      "source_ids": [
+        "I0428"
+      ]
+    },
+    {
+      "ingredient_id": "C0263",
+      "name": "italian sausage",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0429"
+      ]
+    },
+    {
+      "ingredient_id": "C0264",
+      "name": "jalape\u00f1os",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0430"
+      ]
+    },
+    {
+      "ingredient_id": "C0265",
+      "name": "jerk seasoning",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0431"
+      ]
+    },
+    {
+      "ingredient_id": "C0266",
+      "name": "kalamata olives",
+      "category": "Fruit",
+      "variant_count": 2,
+      "source_ids": [
+        "I0432",
+        "I0433"
+      ]
+    },
+    {
+      "ingredient_id": "C0267",
+      "name": "kidney beans",
+      "category": "Legume",
+      "variant_count": 1,
+      "source_ids": [
+        "I0434"
+      ]
+    },
+    {
+      "ingredient_id": "C0268",
+      "name": "kimchi",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0435",
+        "I0436"
+      ]
+    },
+    {
+      "ingredient_id": "C0269",
+      "name": "kimchi slaw",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0437"
+      ]
+    },
+    {
+      "ingredient_id": "C0270",
+      "name": "kimchi",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0438"
+      ]
+    },
+    {
+      "ingredient_id": "C0271",
+      "name": "korean chili flakes",
+      "category": "Spice",
+      "variant_count": 3,
+      "source_ids": [
+        "I0439",
+        "I0440",
+        "I0441"
+      ]
+    },
+    {
+      "ingredient_id": "C0272",
+      "name": "lamb",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0442"
+      ]
+    },
+    {
+      "ingredient_id": "C0273",
+      "name": "lamb shoulder",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0444",
+        "I0445"
+      ]
+    },
+    {
+      "ingredient_id": "C0274",
+      "name": "lamb or beef gyro meat",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0446"
+      ]
+    },
+    {
+      "ingredient_id": "C0275",
+      "name": "shrimp",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0447"
+      ]
+    },
+    {
+      "ingredient_id": "C0276",
+      "name": "lemon juice",
+      "category": "Fruit",
+      "variant_count": 4,
+      "source_ids": [
+        "I0448",
+        "I0450",
+        "I0453",
+        "I0454"
+      ]
+    },
+    {
+      "ingredient_id": "C0277",
+      "name": "lemon",
+      "category": "Fruit",
+      "variant_count": 2,
+      "source_ids": [
+        "I0449",
+        "I0461"
+      ]
+    },
+    {
+      "ingredient_id": "C0278",
+      "name": "lemon juice",
+      "category": "Fruit",
+      "variant_count": 3,
+      "source_ids": [
+        "I0451",
+        "I0452",
+        "I0881"
+      ]
+    },
+    {
+      "ingredient_id": "C0279",
+      "name": "lemon juice",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0455"
+      ]
+    },
+    {
+      "ingredient_id": "C0280",
+      "name": "lemon juice",
+      "category": "Fruit",
+      "variant_count": 2,
+      "source_ids": [
+        "I0456",
+        "I0457"
+      ]
+    },
+    {
+      "ingredient_id": "C0281",
+      "name": "lemon zest",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0458"
+      ]
+    },
+    {
+      "ingredient_id": "C0282",
+      "name": "lemongrass",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0459",
+        "I0460"
+      ]
+    },
+    {
+      "ingredient_id": "C0283",
+      "name": "lemon zest",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0462"
+      ]
+    },
+    {
+      "ingredient_id": "C0284",
+      "name": "lemon",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0463"
+      ]
+    },
+    {
+      "ingredient_id": "C0285",
+      "name": "lettuce",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0464"
+      ]
+    },
+    {
+      "ingredient_id": "C0286",
+      "name": "lettuce",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0465"
+      ]
+    },
+    {
+      "ingredient_id": "C0287",
+      "name": "lime juice",
+      "category": "Fruit",
+      "variant_count": 3,
+      "source_ids": [
+        "I0466",
+        "I0467",
+        "I0468"
+      ]
+    },
+    {
+      "ingredient_id": "C0288",
+      "name": "lime leaves",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0469"
+      ]
+    },
+    {
+      "ingredient_id": "C0289",
+      "name": "lime juice",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0470"
+      ]
+    },
+    {
+      "ingredient_id": "C0290",
+      "name": "lime juice",
+      "category": "Fruit",
+      "variant_count": 2,
+      "source_ids": [
+        "I0471",
+        "I0472"
+      ]
+    },
+    {
+      "ingredient_id": "C0291",
+      "name": "mayonnaise",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0473",
+        "I0477"
+      ]
+    },
+    {
+      "ingredient_id": "C0292",
+      "name": "marinara sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0474"
+      ]
+    },
+    {
+      "ingredient_id": "C0293",
+      "name": "marsala wine",
+      "category": "Alcohol",
+      "variant_count": 1,
+      "source_ids": [
+        "I0475"
+      ]
+    },
+    {
+      "ingredient_id": "C0294",
+      "name": "massaman curry paste",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0476"
+      ]
+    },
+    {
+      "ingredient_id": "C0295",
+      "name": "mayonnaise",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0478"
+      ]
+    },
+    {
+      "ingredient_id": "C0296",
+      "name": "mirin",
+      "category": "Alcohol",
+      "variant_count": 1,
+      "source_ids": [
+        "I0480"
+      ]
+    },
+    {
+      "ingredient_id": "C0297",
+      "name": "mixed cilantro",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0481",
+        "I0487"
+      ]
+    },
+    {
+      "ingredient_id": "C0298",
+      "name": "milk",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0482"
+      ]
+    },
+    {
+      "ingredient_id": "C0299",
+      "name": "mint",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0483"
+      ]
+    },
+    {
+      "ingredient_id": "C0300",
+      "name": "mirin",
+      "category": "Alcohol",
+      "variant_count": 1,
+      "source_ids": [
+        "I0484"
+      ]
+    },
+    {
+      "ingredient_id": "C0301",
+      "name": "mirin",
+      "category": "Alcohol",
+      "variant_count": 1,
+      "source_ids": [
+        "I0485"
+      ]
+    },
+    {
+      "ingredient_id": "C0302",
+      "name": "mirin",
+      "category": "Alcohol",
+      "variant_count": 1,
+      "source_ids": [
+        "I0486"
+      ]
+    },
+    {
+      "ingredient_id": "C0303",
+      "name": "mixed greens",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0488",
+        "I0489",
+        "I0490"
+      ]
+    },
+    {
+      "ingredient_id": "C0304",
+      "name": "mixed greens",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0491"
+      ]
+    },
+    {
+      "ingredient_id": "C0305",
+      "name": "monterey jack cheese",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0492"
+      ]
+    },
+    {
+      "ingredient_id": "C0306",
+      "name": "mozzarella cheese",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0493"
+      ]
+    },
+    {
+      "ingredient_id": "C0307",
+      "name": "mushrooms",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0494",
+        "I0495",
+        "I0496"
+      ]
+    },
+    {
+      "ingredient_id": "C0308",
+      "name": "mussels",
+      "category": "Seafood",
+      "variant_count": 1,
+      "source_ids": [
+        "I0497"
+      ]
+    },
+    {
+      "ingredient_id": "C0309",
+      "name": "naan bread",
+      "category": "Grain",
+      "variant_count": 2,
+      "source_ids": [
+        "I0498",
+        "I0499"
+      ]
+    },
+    {
+      "ingredient_id": "C0310",
+      "name": "naan bread",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0500"
+      ]
+    },
+    {
+      "ingredient_id": "C0311",
+      "name": "noodles",
+      "category": "Pasta & Noodles",
+      "variant_count": 1,
+      "source_ids": [
+        "I0501"
+      ]
+    },
+    {
+      "ingredient_id": "C0312",
+      "name": "noodles",
+      "category": "Pasta & Noodles",
+      "variant_count": 1,
+      "source_ids": [
+        "I0502"
+      ]
+    },
+    {
+      "ingredient_id": "C0313",
+      "name": "noodles",
+      "category": "Pasta & Noodles",
+      "variant_count": 1,
+      "source_ids": [
+        "I0503"
+      ]
+    },
+    {
+      "ingredient_id": "C0314",
+      "name": "nori seaweed sheets",
+      "category": "Vegetable",
+      "variant_count": 5,
+      "source_ids": [
+        "I0504",
+        "I0505",
+        "I0506",
+        "I0507",
+        "I0868"
+      ]
+    },
+    {
+      "ingredient_id": "C0315",
+      "name": "nutmeg",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0508"
+      ]
+    },
+    {
+      "ingredient_id": "C0316",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0509",
+        "I0510"
+      ]
+    },
+    {
+      "ingredient_id": "C0317",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0511",
+        "I0546"
+      ]
+    },
+    {
+      "ingredient_id": "C0318",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0512"
+      ]
+    },
+    {
+      "ingredient_id": "C0319",
+      "name": "olive oil",
+      "category": "Oil",
+      "variant_count": 11,
+      "source_ids": [
+        "I0513",
+        "I0516",
+        "I0518",
+        "I0519",
+        "I0520",
+        "I0525",
+        "I0529",
+        "I0541",
+        "I0548",
+        "I0880",
+        "I0896"
+      ]
+    },
+    {
+      "ingredient_id": "C0320",
+      "name": "Old Bay seasoning",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0514"
+      ]
+    },
+    {
+      "ingredient_id": "C0321",
+      "name": "olive oil",
+      "category": "Oil",
+      "variant_count": 4,
+      "source_ids": [
+        "I0515",
+        "I0517",
+        "I0528",
+        "I0530"
+      ]
+    },
+    {
+      "ingredient_id": "C0322",
+      "name": "olive oil",
+      "category": "Oil",
+      "variant_count": 3,
+      "source_ids": [
+        "I0521",
+        "I0522",
+        "I0523"
+      ]
+    },
+    {
+      "ingredient_id": "C0323",
+      "name": "olive oil",
+      "category": "Oil",
+      "variant_count": 2,
+      "source_ids": [
+        "I0524",
+        "I0526"
+      ]
+    },
+    {
+      "ingredient_id": "C0324",
+      "name": "olives",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0527"
+      ]
+    },
+    {
+      "ingredient_id": "C0325",
+      "name": "onions",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0531",
+        "I0547"
+      ]
+    },
+    {
+      "ingredient_id": "C0326",
+      "name": "onions",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0532",
+        "I0536"
+      ]
+    },
+    {
+      "ingredient_id": "C0327",
+      "name": "onions",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0533"
+      ]
+    },
+    {
+      "ingredient_id": "C0328",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0534",
+        "I0538",
+        "I0543"
+      ]
+    },
+    {
+      "ingredient_id": "C0329",
+      "name": "onions",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0535"
+      ]
+    },
+    {
+      "ingredient_id": "C0330",
+      "name": "onions",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0537"
+      ]
+    },
+    {
+      "ingredient_id": "C0331",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0539"
+      ]
+    },
+    {
+      "ingredient_id": "C0332",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0540"
+      ]
+    },
+    {
+      "ingredient_id": "C0333",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0542"
+      ]
+    },
+    {
+      "ingredient_id": "C0334",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0544"
+      ]
+    },
+    {
+      "ingredient_id": "C0335",
+      "name": "onion",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0545"
+      ]
+    },
+    {
+      "ingredient_id": "C0336",
+      "name": "raspberry",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0549"
+      ]
+    },
+    {
+      "ingredient_id": "C0337",
+      "name": "oregano",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0550"
+      ]
+    },
+    {
+      "ingredient_id": "C0338",
+      "name": "oregano",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0551",
+        "I0552"
+      ]
+    },
+    {
+      "ingredient_id": "C0339",
+      "name": "oregano",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0553"
+      ]
+    },
+    {
+      "ingredient_id": "C0340",
+      "name": "oyster sauce",
+      "category": "Sauce",
+      "variant_count": 2,
+      "source_ids": [
+        "I0554",
+        "I0555"
+      ]
+    },
+    {
+      "ingredient_id": "C0341",
+      "name": "paprika",
+      "category": "Spice",
+      "variant_count": 3,
+      "source_ids": [
+        "I0556",
+        "I0561",
+        "I0562"
+      ]
+    },
+    {
+      "ingredient_id": "C0342",
+      "name": "palm sugar",
+      "category": "Sweetener",
+      "variant_count": 1,
+      "source_ids": [
+        "I0557"
+      ]
+    },
+    {
+      "ingredient_id": "C0343",
+      "name": "pancakes",
+      "category": "Other",
+      "variant_count": 2,
+      "source_ids": [
+        "I0558",
+        "I0559"
+      ]
+    },
+    {
+      "ingredient_id": "C0344",
+      "name": "paprika",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0560"
+      ]
+    },
+    {
+      "ingredient_id": "C0345",
+      "name": "parmesan cheese",
+      "category": "Dairy",
+      "variant_count": 6,
+      "source_ids": [
+        "I0563",
+        "I0564",
+        "I0565",
+        "I0566",
+        "I0567",
+        "I0574"
+      ]
+    },
+    {
+      "ingredient_id": "C0346",
+      "name": "paprika",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0568"
+      ]
+    },
+    {
+      "ingredient_id": "C0347",
+      "name": "parsley",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0569",
+        "I0570"
+      ]
+    },
+    {
+      "ingredient_id": "C0348",
+      "name": "parsley",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0571",
+        "I0572"
+      ]
+    },
+    {
+      "ingredient_id": "C0349",
+      "name": "parsley",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0573",
+        "I0620"
+      ]
+    },
+    {
+      "ingredient_id": "C0350",
+      "name": "pastry dough",
+      "category": "Baking",
+      "variant_count": 2,
+      "source_ids": [
+        "I0575",
+        "I0578"
+      ]
+    },
+    {
+      "ingredient_id": "C0351",
+      "name": "pasta",
+      "category": "Pasta & Noodles",
+      "variant_count": 1,
+      "source_ids": [
+        "I0576"
+      ]
+    },
+    {
+      "ingredient_id": "C0352",
+      "name": "pastry dough",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0577"
+      ]
+    },
+    {
+      "ingredient_id": "C0353",
+      "name": "pickles",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0579",
+        "I0598"
+      ]
+    },
+    {
+      "ingredient_id": "C0354",
+      "name": "peanuts",
+      "category": "Nut",
+      "variant_count": 1,
+      "source_ids": [
+        "I0580"
+      ]
+    },
+    {
+      "ingredient_id": "C0355",
+      "name": "peanut butter",
+      "category": "Nut",
+      "variant_count": 1,
+      "source_ids": [
+        "I0581"
+      ]
+    },
+    {
+      "ingredient_id": "C0356",
+      "name": "peanut oil",
+      "category": "Oil",
+      "variant_count": 2,
+      "source_ids": [
+        "I0582",
+        "I0585"
+      ]
+    },
+    {
+      "ingredient_id": "C0357",
+      "name": "peanut butter",
+      "category": "Nut",
+      "variant_count": 1,
+      "source_ids": [
+        "I0583"
+      ]
+    },
+    {
+      "ingredient_id": "C0358",
+      "name": "peanuts",
+      "category": "Nut",
+      "variant_count": 1,
+      "source_ids": [
+        "I0584"
+      ]
+    },
+    {
+      "ingredient_id": "C0359",
+      "name": "peanuts",
+      "category": "Nut",
+      "variant_count": 1,
+      "source_ids": [
+        "I0586"
+      ]
+    },
+    {
+      "ingredient_id": "C0360",
+      "name": "peanuts",
+      "category": "Nut",
+      "variant_count": 1,
+      "source_ids": [
+        "I0587"
+      ]
+    },
+    {
+      "ingredient_id": "C0361",
+      "name": "pepper",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0588",
+        "I0589"
+      ]
+    },
+    {
+      "ingredient_id": "C0362",
+      "name": "pepper",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0590"
+      ]
+    },
+    {
+      "ingredient_id": "C0363",
+      "name": "pepper",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0591"
+      ]
+    },
+    {
+      "ingredient_id": "C0364",
+      "name": "picanha steak",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0592"
+      ]
+    },
+    {
+      "ingredient_id": "C0365",
+      "name": "pickled ginger",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0593",
+        "I0596"
+      ]
+    },
+    {
+      "ingredient_id": "C0366",
+      "name": "pickled carrots",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0594",
+        "I0882"
+      ]
+    },
+    {
+      "ingredient_id": "C0367",
+      "name": "pickled carrots and daikon",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0595"
+      ]
+    },
+    {
+      "ingredient_id": "C0368",
+      "name": "pickled turnips",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0597"
+      ]
+    },
+    {
+      "ingredient_id": "C0369",
+      "name": "pineapple",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0599"
+      ]
+    },
+    {
+      "ingredient_id": "C0370",
+      "name": "pita bread",
+      "category": "Grain",
+      "variant_count": 2,
+      "source_ids": [
+        "I0600",
+        "I0601"
+      ]
+    },
+    {
+      "ingredient_id": "C0371",
+      "name": "pork",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0602",
+        "I0604"
+      ]
+    },
+    {
+      "ingredient_id": "C0372",
+      "name": "potatoes",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0603",
+        "I0618",
+        "I0619"
+      ]
+    },
+    {
+      "ingredient_id": "C0373",
+      "name": "pork chops",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0605"
+      ]
+    },
+    {
+      "ingredient_id": "C0374",
+      "name": "pork or beef",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0606"
+      ]
+    },
+    {
+      "ingredient_id": "C0375",
+      "name": "pork or tofu",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0607"
+      ]
+    },
+    {
+      "ingredient_id": "C0376",
+      "name": "pork ribs",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0608"
+      ]
+    },
+    {
+      "ingredient_id": "C0377",
+      "name": "pork shoulder",
+      "category": "Meat",
+      "variant_count": 4,
+      "source_ids": [
+        "I0609",
+        "I0610",
+        "I0611",
+        "I0612"
+      ]
+    },
+    {
+      "ingredient_id": "C0378",
+      "name": "pork chops",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0613"
+      ]
+    },
+    {
+      "ingredient_id": "C0379",
+      "name": "portobello mushrooms",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0614",
+        "I0615",
+        "I0616"
+      ]
+    },
+    {
+      "ingredient_id": "C0380",
+      "name": "potatoes",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0617"
+      ]
+    },
+    {
+      "ingredient_id": "C0381",
+      "name": "preserved lemons",
+      "category": "Condiment",
+      "variant_count": 5,
+      "source_ids": [
+        "I0621",
+        "I0622",
+        "I0623",
+        "I0624",
+        "I0625"
+      ]
+    },
+    {
+      "ingredient_id": "C0382",
+      "name": "puff pastry",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0626"
+      ]
+    },
+    {
+      "ingredient_id": "C0383",
+      "name": "queso fresco",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0627",
+        "I0628"
+      ]
+    },
+    {
+      "ingredient_id": "C0384",
+      "name": "quinoa",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0629"
+      ]
+    },
+    {
+      "ingredient_id": "C0385",
+      "name": "rare beef",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0630",
+        "I0633"
+      ]
+    },
+    {
+      "ingredient_id": "C0386",
+      "name": "rabbit or veal",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0631"
+      ]
+    },
+    {
+      "ingredient_id": "C0387",
+      "name": "ramen noodles",
+      "category": "Pasta & Noodles",
+      "variant_count": 1,
+      "source_ids": [
+        "I0632"
+      ]
+    },
+    {
+      "ingredient_id": "C0388",
+      "name": "rice",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0634"
+      ]
+    },
+    {
+      "ingredient_id": "C0389",
+      "name": "red pepper flakes",
+      "category": "Spice",
+      "variant_count": 4,
+      "source_ids": [
+        "I0635",
+        "I0643",
+        "I0644",
+        "I0645"
+      ]
+    },
+    {
+      "ingredient_id": "C0390",
+      "name": "red bell pepper",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0636",
+        "I0637",
+        "I0638"
+      ]
+    },
+    {
+      "ingredient_id": "C0391",
+      "name": "red chili flakes",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0639"
+      ]
+    },
+    {
+      "ingredient_id": "C0392",
+      "name": "red onion",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0640",
+        "I0641"
+      ]
+    },
+    {
+      "ingredient_id": "C0393",
+      "name": "red onion",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0642"
+      ]
+    },
+    {
+      "ingredient_id": "C0394",
+      "name": "red wine",
+      "category": "Alcohol",
+      "variant_count": 3,
+      "source_ids": [
+        "I0646",
+        "I0649",
+        "I0870"
+      ]
+    },
+    {
+      "ingredient_id": "C0395",
+      "name": "red wine vinegar",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0647",
+        "I0648"
+      ]
+    },
+    {
+      "ingredient_id": "C0396",
+      "name": "rice vinegar",
+      "category": "Condiment",
+      "variant_count": 4,
+      "source_ids": [
+        "I0650",
+        "I0657",
+        "I0661",
+        "I0663"
+      ]
+    },
+    {
+      "ingredient_id": "C0397",
+      "name": "rice noodles",
+      "category": "Pasta & Noodles",
+      "variant_count": 2,
+      "source_ids": [
+        "I0651",
+        "I0655"
+      ]
+    },
+    {
+      "ingredient_id": "C0398",
+      "name": "rice",
+      "category": "Grain",
+      "variant_count": 2,
+      "source_ids": [
+        "I0652",
+        "I0653"
+      ]
+    },
+    {
+      "ingredient_id": "C0399",
+      "name": "rice flour",
+      "category": "Baking",
+      "variant_count": 2,
+      "source_ids": [
+        "I0654",
+        "I0660"
+      ]
+    },
+    {
+      "ingredient_id": "C0400",
+      "name": "rice paper wrappers",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0656"
+      ]
+    },
+    {
+      "ingredient_id": "C0401",
+      "name": "ricotta cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0658",
+        "I0659"
+      ]
+    },
+    {
+      "ingredient_id": "C0402",
+      "name": "rice",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0662"
+      ]
+    },
+    {
+      "ingredient_id": "C0403",
+      "name": "wine",
+      "category": "Alcohol",
+      "variant_count": 1,
+      "source_ids": [
+        "I0664"
+      ]
+    },
+    {
+      "ingredient_id": "C0404",
+      "name": "risotto",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0665"
+      ]
+    },
+    {
+      "ingredient_id": "C0405",
+      "name": "red onion",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0666"
+      ]
+    },
+    {
+      "ingredient_id": "C0406",
+      "name": "roasted poblano peppers",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0667",
+        "I0668"
+      ]
+    },
+    {
+      "ingredient_id": "C0407",
+      "name": "rosemary",
+      "category": "Herb",
+      "variant_count": 1,
+      "source_ids": [
+        "I0669"
+      ]
+    },
+    {
+      "ingredient_id": "C0408",
+      "name": "rouille",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0670"
+      ]
+    },
+    {
+      "ingredient_id": "C0409",
+      "name": "rouille",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0671"
+      ]
+    },
+    {
+      "ingredient_id": "C0410",
+      "name": "rouille (mayo)",
+      "category": "Sauce",
+      "variant_count": 2,
+      "source_ids": [
+        "I0672",
+        "I0673"
+      ]
+    },
+    {
+      "ingredient_id": "C0411",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0674",
+        "I0692"
+      ]
+    },
+    {
+      "ingredient_id": "C0412",
+      "name": "sake",
+      "category": "Alcohol",
+      "variant_count": 1,
+      "source_ids": [
+        "I0675"
+      ]
+    },
+    {
+      "ingredient_id": "C0413",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0676"
+      ]
+    },
+    {
+      "ingredient_id": "C0414",
+      "name": "saffron",
+      "category": "Spice",
+      "variant_count": 3,
+      "source_ids": [
+        "I0677",
+        "I0678",
+        "I0680"
+      ]
+    },
+    {
+      "ingredient_id": "C0415",
+      "name": "saffron threads",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0679"
+      ]
+    },
+    {
+      "ingredient_id": "C0416",
+      "name": "saffron",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0681"
+      ]
+    },
+    {
+      "ingredient_id": "C0417",
+      "name": "sugar",
+      "category": "Sweetener",
+      "variant_count": 1,
+      "source_ids": [
+        "I0682"
+      ]
+    },
+    {
+      "ingredient_id": "C0418",
+      "name": "sake",
+      "category": "Alcohol",
+      "variant_count": 1,
+      "source_ids": [
+        "I0683"
+      ]
+    },
+    {
+      "ingredient_id": "C0419",
+      "name": "salsa",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0684"
+      ]
+    },
+    {
+      "ingredient_id": "C0420",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0685"
+      ]
+    },
+    {
+      "ingredient_id": "C0421",
+      "name": "salmon fillet",
+      "category": "Seafood",
+      "variant_count": 4,
+      "source_ids": [
+        "I0686",
+        "I0687",
+        "I0688",
+        "I0708"
+      ]
+    },
+    {
+      "ingredient_id": "C0422",
+      "name": "salmon or tuna sashimi",
+      "category": "Seafood",
+      "variant_count": 2,
+      "source_ids": [
+        "I0689",
+        "I0691"
+      ]
+    },
+    {
+      "ingredient_id": "C0423",
+      "name": "salsa",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0690"
+      ]
+    },
+    {
+      "ingredient_id": "C0424",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0693"
+      ]
+    },
+    {
+      "ingredient_id": "C0425",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0694"
+      ]
+    },
+    {
+      "ingredient_id": "C0426",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0695"
+      ]
+    },
+    {
+      "ingredient_id": "C0427",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0696"
+      ]
+    },
+    {
+      "ingredient_id": "C0428",
+      "name": "sausage",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0697"
+      ]
+    },
+    {
+      "ingredient_id": "C0429",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0698"
+      ]
+    },
+    {
+      "ingredient_id": "C0430",
+      "name": "scallions",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0699",
+        "I0701",
+        "I0702"
+      ]
+    },
+    {
+      "ingredient_id": "C0431",
+      "name": "scallions",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0700"
+      ]
+    },
+    {
+      "ingredient_id": "C0432",
+      "name": "scallions",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0703"
+      ]
+    },
+    {
+      "ingredient_id": "C0433",
+      "name": "scallops",
+      "category": "Seafood",
+      "variant_count": 2,
+      "source_ids": [
+        "I0704",
+        "I0705"
+      ]
+    },
+    {
+      "ingredient_id": "C0434",
+      "name": "scotch bonnet peppers",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0706"
+      ]
+    },
+    {
+      "ingredient_id": "C0435",
+      "name": "scrambled eggs",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0707"
+      ]
+    },
+    {
+      "ingredient_id": "C0436",
+      "name": "steak",
+      "category": "Meat",
+      "variant_count": 2,
+      "source_ids": [
+        "I0709",
+        "I0762"
+      ]
+    },
+    {
+      "ingredient_id": "C0437",
+      "name": "sesame seeds",
+      "category": "Seed",
+      "variant_count": 2,
+      "source_ids": [
+        "I0710",
+        "I0711"
+      ]
+    },
+    {
+      "ingredient_id": "C0438",
+      "name": "sesame oil",
+      "category": "Oil",
+      "variant_count": 2,
+      "source_ids": [
+        "I0712",
+        "I0713"
+      ]
+    },
+    {
+      "ingredient_id": "C0439",
+      "name": "sesame seeds",
+      "category": "Seed",
+      "variant_count": 1,
+      "source_ids": [
+        "I0714"
+      ]
+    },
+    {
+      "ingredient_id": "C0440",
+      "name": "soy sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0715"
+      ]
+    },
+    {
+      "ingredient_id": "C0441",
+      "name": "shallots",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0716"
+      ]
+    },
+    {
+      "ingredient_id": "C0442",
+      "name": "shredded cheddar cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0717",
+        "I0720"
+      ]
+    },
+    {
+      "ingredient_id": "C0443",
+      "name": "shredded cheese",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0718",
+        "I0721"
+      ]
+    },
+    {
+      "ingredient_id": "C0444",
+      "name": "shredded cabbage",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0719"
+      ]
+    },
+    {
+      "ingredient_id": "C0445",
+      "name": "shredded chicken",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0722"
+      ]
+    },
+    {
+      "ingredient_id": "C0446",
+      "name": "shredded lettuce",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0723"
+      ]
+    },
+    {
+      "ingredient_id": "C0447",
+      "name": "shrimp",
+      "category": "Seafood",
+      "variant_count": 2,
+      "source_ids": [
+        "I0724",
+        "I0725"
+      ]
+    },
+    {
+      "ingredient_id": "C0448",
+      "name": "sichuan peppercorns",
+      "category": "Spice",
+      "variant_count": 3,
+      "source_ids": [
+        "I0726",
+        "I0727",
+        "I0776"
+      ]
+    },
+    {
+      "ingredient_id": "C0449",
+      "name": "skinless chicken breasts",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0728"
+      ]
+    },
+    {
+      "ingredient_id": "C0450",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0729"
+      ]
+    },
+    {
+      "ingredient_id": "C0451",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0730"
+      ]
+    },
+    {
+      "ingredient_id": "C0452",
+      "name": "sumac",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0731",
+        "I0771"
+      ]
+    },
+    {
+      "ingredient_id": "C0453",
+      "name": "smoked paprika",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0732",
+        "I0887"
+      ]
+    },
+    {
+      "ingredient_id": "C0454",
+      "name": "smoked sausage",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0733"
+      ]
+    },
+    {
+      "ingredient_id": "C0455",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0734"
+      ]
+    },
+    {
+      "ingredient_id": "C0456",
+      "name": "soy sauce",
+      "category": "Sauce",
+      "variant_count": 6,
+      "source_ids": [
+        "I0735",
+        "I0736",
+        "I0741",
+        "I0744",
+        "I0745",
+        "I0748"
+      ]
+    },
+    {
+      "ingredient_id": "C0457",
+      "name": "sour cream",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0737",
+        "I0738"
+      ]
+    },
+    {
+      "ingredient_id": "C0458",
+      "name": "sour orange juice",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0739"
+      ]
+    },
+    {
+      "ingredient_id": "C0459",
+      "name": "sour orange juice",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0740"
+      ]
+    },
+    {
+      "ingredient_id": "C0460",
+      "name": "soy sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0742"
+      ]
+    },
+    {
+      "ingredient_id": "C0461",
+      "name": "soy sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0743"
+      ]
+    },
+    {
+      "ingredient_id": "C0462",
+      "name": "soy sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0746"
+      ]
+    },
+    {
+      "ingredient_id": "C0463",
+      "name": "soy sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0747"
+      ]
+    },
+    {
+      "ingredient_id": "C0464",
+      "name": "spaghetti",
+      "category": "Pasta & Noodles",
+      "variant_count": 2,
+      "source_ids": [
+        "I0749",
+        "I0753"
+      ]
+    },
+    {
+      "ingredient_id": "C0465",
+      "name": "spinach",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0750",
+        "I0751"
+      ]
+    },
+    {
+      "ingredient_id": "C0466",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0752"
+      ]
+    },
+    {
+      "ingredient_id": "C0467",
+      "name": "spring roll wrappers",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0754"
+      ]
+    },
+    {
+      "ingredient_id": "C0468",
+      "name": "sriracha",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0755",
+        "I0758"
+      ]
+    },
+    {
+      "ingredient_id": "C0469",
+      "name": "sriracha mayo",
+      "category": "Condiment",
+      "variant_count": 2,
+      "source_ids": [
+        "I0756",
+        "I0757"
+      ]
+    },
+    {
+      "ingredient_id": "C0470",
+      "name": "star anise",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0759",
+        "I0760"
+      ]
+    },
+    {
+      "ingredient_id": "C0471",
+      "name": "steamed buns",
+      "category": "Baking",
+      "variant_count": 2,
+      "source_ids": [
+        "I0761",
+        "I0763"
+      ]
+    },
+    {
+      "ingredient_id": "C0472",
+      "name": "steak",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0764"
+      ]
+    },
+    {
+      "ingredient_id": "C0473",
+      "name": "steak",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0765"
+      ]
+    },
+    {
+      "ingredient_id": "C0474",
+      "name": "sub rolls",
+      "category": "Baking",
+      "variant_count": 1,
+      "source_ids": [
+        "I0766"
+      ]
+    },
+    {
+      "ingredient_id": "C0475",
+      "name": "sugar",
+      "category": "Sweetener",
+      "variant_count": 2,
+      "source_ids": [
+        "I0767",
+        "I0768"
+      ]
+    },
+    {
+      "ingredient_id": "C0476",
+      "name": "sugar",
+      "category": "Sweetener",
+      "variant_count": 1,
+      "source_ids": [
+        "I0769"
+      ]
+    },
+    {
+      "ingredient_id": "C0477",
+      "name": "sumac",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0770"
+      ]
+    },
+    {
+      "ingredient_id": "C0478",
+      "name": "sumac",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0772"
+      ]
+    },
+    {
+      "ingredient_id": "C0479",
+      "name": "sushi rice",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0773"
+      ]
+    },
+    {
+      "ingredient_id": "C0480",
+      "name": "sweet potatoes",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0774"
+      ]
+    },
+    {
+      "ingredient_id": "C0481",
+      "name": "sylt",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0775"
+      ]
+    },
+    {
+      "ingredient_id": "C0482",
+      "name": "tamarind paste",
+      "category": "Condiment",
+      "variant_count": 5,
+      "source_ids": [
+        "I0777",
+        "I0780",
+        "I0782",
+        "I0783",
+        "I0793"
+      ]
+    },
+    {
+      "ingredient_id": "C0483",
+      "name": "taco seasoning",
+      "category": "Spice",
+      "variant_count": 2,
+      "source_ids": [
+        "I0778",
+        "I0779"
+      ]
+    },
+    {
+      "ingredient_id": "C0484",
+      "name": "tamarind",
+      "category": "Fruit",
+      "variant_count": 1,
+      "source_ids": [
+        "I0781"
+      ]
+    },
+    {
+      "ingredient_id": "C0485",
+      "name": "teriyaki sauce",
+      "category": "Sauce",
+      "variant_count": 4,
+      "source_ids": [
+        "I0784",
+        "I0785",
+        "I0786",
+        "I0864"
+      ]
+    },
+    {
+      "ingredient_id": "C0486",
+      "name": "tofu",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0787"
+      ]
+    },
+    {
+      "ingredient_id": "C0487",
+      "name": "thai basil",
+      "category": "Herb",
+      "variant_count": 2,
+      "source_ids": [
+        "I0788",
+        "I0789"
+      ]
+    },
+    {
+      "ingredient_id": "C0488",
+      "name": "thyme",
+      "category": "Herb",
+      "variant_count": 3,
+      "source_ids": [
+        "I0790",
+        "I0791",
+        "I0792"
+      ]
+    },
+    {
+      "ingredient_id": "C0489",
+      "name": "tomato",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0794"
+      ]
+    },
+    {
+      "ingredient_id": "C0490",
+      "name": "tomato paste",
+      "category": "Condiment",
+      "variant_count": 4,
+      "source_ids": [
+        "I0795",
+        "I0810",
+        "I0811",
+        "I0812"
+      ]
+    },
+    {
+      "ingredient_id": "C0491",
+      "name": "toasted almonds",
+      "category": "Nut",
+      "variant_count": 3,
+      "source_ids": [
+        "I0796",
+        "I0797",
+        "I0798"
+      ]
+    },
+    {
+      "ingredient_id": "C0492",
+      "name": "toasted peanuts",
+      "category": "Nut",
+      "variant_count": 1,
+      "source_ids": [
+        "I0799"
+      ]
+    },
+    {
+      "ingredient_id": "C0493",
+      "name": "toasted sesame seeds",
+      "category": "Seed",
+      "variant_count": 2,
+      "source_ids": [
+        "I0800",
+        "I0801"
+      ]
+    },
+    {
+      "ingredient_id": "C0494",
+      "name": "toasted sesame seeds",
+      "category": "Seed",
+      "variant_count": 1,
+      "source_ids": [
+        "I0802"
+      ]
+    },
+    {
+      "ingredient_id": "C0495",
+      "name": "toasted sesame seeds",
+      "category": "Seed",
+      "variant_count": 1,
+      "source_ids": [
+        "I0803"
+      ]
+    },
+    {
+      "ingredient_id": "C0496",
+      "name": "tofu",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0804"
+      ]
+    },
+    {
+      "ingredient_id": "C0497",
+      "name": "tomato",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0805"
+      ]
+    },
+    {
+      "ingredient_id": "C0498",
+      "name": "tomato puree",
+      "category": "Condiment",
+      "variant_count": 3,
+      "source_ids": [
+        "I0806",
+        "I0813",
+        "I0818"
+      ]
+    },
+    {
+      "ingredient_id": "C0499",
+      "name": "tomato paste",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0807"
+      ]
+    },
+    {
+      "ingredient_id": "C0500",
+      "name": "tomatillos",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0808"
+      ]
+    },
+    {
+      "ingredient_id": "C0501",
+      "name": "tomato",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0809",
+        "I0817"
+      ]
+    },
+    {
+      "ingredient_id": "C0502",
+      "name": "tomato sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0814"
+      ]
+    },
+    {
+      "ingredient_id": "C0503",
+      "name": "tomatoes",
+      "category": "Vegetable",
+      "variant_count": 3,
+      "source_ids": [
+        "I0815",
+        "I0816",
+        "I0819"
+      ]
+    },
+    {
+      "ingredient_id": "C0504",
+      "name": "tortillas",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0820"
+      ]
+    },
+    {
+      "ingredient_id": "C0505",
+      "name": "tortillas",
+      "category": "Grain",
+      "variant_count": 1,
+      "source_ids": [
+        "I0821"
+      ]
+    },
+    {
+      "ingredient_id": "C0506",
+      "name": "tortillas",
+      "category": "Grain",
+      "variant_count": 2,
+      "source_ids": [
+        "I0822",
+        "I0823"
+      ]
+    },
+    {
+      "ingredient_id": "C0507",
+      "name": "tofu",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0824"
+      ]
+    },
+    {
+      "ingredient_id": "C0508",
+      "name": "tomato paste",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0825"
+      ]
+    },
+    {
+      "ingredient_id": "C0509",
+      "name": "tomato",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0826"
+      ]
+    },
+    {
+      "ingredient_id": "C0510",
+      "name": "tzatziki sauce",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0827"
+      ]
+    },
+    {
+      "ingredient_id": "C0511",
+      "name": "unsalted butter",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0828"
+      ]
+    },
+    {
+      "ingredient_id": "C0512",
+      "name": "vanilla extract",
+      "category": "Baking",
+      "variant_count": 3,
+      "source_ids": [
+        "I0829",
+        "I0830",
+        "I0831"
+      ]
+    },
+    {
+      "ingredient_id": "C0513",
+      "name": "veal stock",
+      "category": "Broth",
+      "variant_count": 1,
+      "source_ids": [
+        "I0832"
+      ]
+    },
+    {
+      "ingredient_id": "C0514",
+      "name": "vegetable oil",
+      "category": "Oil",
+      "variant_count": 5,
+      "source_ids": [
+        "I0833",
+        "I0834",
+        "I0835",
+        "I0837",
+        "I0843"
+      ]
+    },
+    {
+      "ingredient_id": "C0515",
+      "name": "vegetable broth",
+      "category": "Broth",
+      "variant_count": 1,
+      "source_ids": [
+        "I0836"
+      ]
+    },
+    {
+      "ingredient_id": "C0516",
+      "name": "vegetables",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0838"
+      ]
+    },
+    {
+      "ingredient_id": "C0517",
+      "name": "vegetables (bell peppers)",
+      "category": "Vegetable",
+      "variant_count": 2,
+      "source_ids": [
+        "I0839",
+        "I0840"
+      ]
+    },
+    {
+      "ingredient_id": "C0518",
+      "name": "vegetables (such as carrots)",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0841"
+      ]
+    },
+    {
+      "ingredient_id": "C0519",
+      "name": "vegetables (zucchini)",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0842"
+      ]
+    },
+    {
+      "ingredient_id": "C0520",
+      "name": "vinegar",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0844"
+      ]
+    },
+    {
+      "ingredient_id": "C0521",
+      "name": "vinegar",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0845"
+      ]
+    },
+    {
+      "ingredient_id": "C0522",
+      "name": "wasabi",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0846"
+      ]
+    },
+    {
+      "ingredient_id": "C0523",
+      "name": "water",
+      "category": "Beverage",
+      "variant_count": 1,
+      "source_ids": [
+        "I0847"
+      ]
+    },
+    {
+      "ingredient_id": "C0524",
+      "name": "white wine",
+      "category": "Alcohol",
+      "variant_count": 3,
+      "source_ids": [
+        "I0848",
+        "I0849",
+        "I0850"
+      ]
+    },
+    {
+      "ingredient_id": "C0525",
+      "name": "wonton wrappers",
+      "category": "Pasta & Noodles",
+      "variant_count": 2,
+      "source_ids": [
+        "I0851",
+        "I0852"
+      ]
+    },
+    {
+      "ingredient_id": "C0526",
+      "name": "worcestershire sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0853"
+      ]
+    },
+    {
+      "ingredient_id": "C0527",
+      "name": "yogurt",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0854"
+      ]
+    },
+    {
+      "ingredient_id": "C0528",
+      "name": "yogurt",
+      "category": "Dairy",
+      "variant_count": 3,
+      "source_ids": [
+        "I0855",
+        "I0856",
+        "I0859"
+      ]
+    },
+    {
+      "ingredient_id": "C0529",
+      "name": "yogurt",
+      "category": "Dairy",
+      "variant_count": 2,
+      "source_ids": [
+        "I0857",
+        "I0858"
+      ]
+    },
+    {
+      "ingredient_id": "C0530",
+      "name": "protein (chicken)",
+      "category": "Protein",
+      "variant_count": 1,
+      "source_ids": [
+        "I0860"
+      ]
+    },
+    {
+      "ingredient_id": "C0531",
+      "name": "yogurt",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0861"
+      ]
+    },
+    {
+      "ingredient_id": "C0532",
+      "name": "zucchini",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0862"
+      ]
+    },
+    {
+      "ingredient_id": "C0533",
+      "name": "chili powder",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0863"
+      ]
+    },
+    {
+      "ingredient_id": "C0534",
+      "name": "tomato puree",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0865"
+      ]
+    },
+    {
+      "ingredient_id": "C0535",
+      "name": "raw beef",
+      "category": "Meat",
+      "variant_count": 1,
+      "source_ids": [
+        "I0873"
+      ]
+    },
+    {
+      "ingredient_id": "C0536",
+      "name": "arugula",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0876"
+      ]
+    },
+    {
+      "ingredient_id": "C0537",
+      "name": "scallions",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0879"
+      ]
+    },
+    {
+      "ingredient_id": "C0538",
+      "name": "Parmesan cheese",
+      "category": "Dairy",
+      "variant_count": 1,
+      "source_ids": [
+        "I0885"
+      ]
+    },
+    {
+      "ingredient_id": "C0539",
+      "name": "salt",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0890"
+      ]
+    },
+    {
+      "ingredient_id": "C0540",
+      "name": "soy sauce",
+      "category": "Sauce",
+      "variant_count": 1,
+      "source_ids": [
+        "I0891"
+      ]
+    },
+    {
+      "ingredient_id": "C0541",
+      "name": "ginger",
+      "category": "Spice",
+      "variant_count": 1,
+      "source_ids": [
+        "I0893"
+      ]
+    },
+    {
+      "ingredient_id": "C0542",
+      "name": "lemon juice",
+      "category": "Condiment",
+      "variant_count": 1,
+      "source_ids": [
+        "I0897"
+      ]
+    },
+    {
+      "ingredient_id": "C0543",
+      "name": "garlic",
+      "category": "Vegetable",
+      "variant_count": 1,
+      "source_ids": [
+        "I0901"
+      ]
+    }
+  ],
+  "merge_map": {
+    "aji aarillo peppers": "C0001",
+    "aji amarillo peppers": "C0002",
+    "aji amarillo peppes": "C0002",
+    "aji amjrillo peppers": "C0002",
+    "aj\u00ed panca pepper": "C0003",
+    "all-purpose flour": "C0004",
+    "all-purposeflour": "C0004",
+    "allspicce": "C0005",
+    "allspice": "C0005",
+    "almond fllour": "C0006",
+    "almond floru": "C0006",
+    "almond flour": "C0006",
+    "anaheim pepers": "C0007",
+    "anaheim peppers": "C0007",
+    "ancho chilipeppers": "C0008",
+    "anchovy paste (optionaal)": "C0009",
+    "anchovy paste (optional)": "C0009",
+    "anchovy paste (optinal)": "C0009",
+    "and chili oil)": "C0010",
+    "and green beans)": "C0011",
+    "and i'll be happy t ohelp!": "C0012",
+    "and i'll be happy to help!": "C0013",
+    "and shrimp)": "C0014",
+    "and smetimes mushrooms": "C0015",
+    "and sometimes mushrooms": "C0015",
+    "ands ometimes mushrooms": "C0015",
+    "and sometimes served with rice": "C0016",
+    "and yeellow plantains": "C0017",
+    "and yellow plantains": "C0017",
+    "and yellow plantians": "C0017",
+    "andouille sausage": "C0018",
+    "arborio rice": "C0019",
+    "artichoke hearts": "C0020",
+    "avocado": "C0021",
+    "bacalhau": "C0022",
+    "bacoc or pancetta": "C0023",
+    "bacon or pancetta": "C0023",
+    "bacon": "C0024",
+    "baguette": "C0025",
+    "baking powder": "C0026",
+    "balck pepper": "C0027",
+    "black pepper": "C0027",
+    "balck eppper": "C0027",
+    "balsaic vinaigrette": "C0028",
+    "balsaimc vinaigrette": "C0028",
+    "balsamic vinaigrette": "C0028",
+    "blasamic vinaigrette": "C0028",
+    "balsami cvinegar": "C0029",
+    "balsamic vinegar": "C0029",
+    "bamboo shoots": "C0030",
+    "bamboo shoost": "C0030",
+    "bamboo shootts": "C0030",
+    "banh mi sauce": "C0031",
+    "basil": "C0032",
+    "bay leaves": "C0033",
+    "bay lenves": "C0033",
+    "bay leaaves": "C0033",
+    "bean prouts": "C0034",
+    "bean psrouts": "C0034",
+    "bean sprouts": "C0034",
+    "beansprouts": "C0034",
+    "bee broth": "C0035",
+    "beef broth": "C0035",
+    "beeef brisket": "C0036",
+    "beef brisket": "C0036",
+    "beef": "C0037",
+    "beef (thinly liced)": "C0038",
+    "beef (thinly sliced)": "C0038",
+    "beef bbones": "C0039",
+    "beef bones": "C0040",
+    "beefkbones": "C0040",
+    "beeef bones": "C0040",
+    "beef brisket or chuck": "C0041",
+    "beef brisket or rare steak": "C0042",
+    "beef or chicken": "C0043",
+    "chicken or beef": "C0043",
+    "beef patty": "C0044",
+    "beef short ribs": "C0045",
+    "beef slices": "C0046",
+    "beef strips": "C0047",
+    "beef tsrips": "C0047",
+    "beefastrips": "C0047",
+    "beef tenderloin": "C0048",
+    "bell pbppers": "C0049",
+    "bell pepper": "C0049",
+    "bell peppers": "C0049",
+    "bell pepppers": "C0049",
+    "bll peppers": "C0049",
+    "bel peppers": "C0049",
+    "bell pepeprs": "C0050",
+    "bellp eppers": "C0051",
+    "berbere spice mix": "C0052",
+    "black beans": "C0053",
+    "black eans": "C0054",
+    "black ebans": "C0054",
+    "black eppper": "C0055",
+    "black pepepr": "C0056",
+    "black peper": "C0056",
+    "black peppr": "C0056",
+    "black peppre": "C0056",
+    "blakc pepper": "C0057",
+    "blueberries": "C0058",
+    "blueberries or raspberries)": "C0059",
+    "bok choy": "C0060",
+    "boneless": "C0061",
+    "borwn sugar": "C0062",
+    "brown sugar": "C0062",
+    "brown suggar": "C0062",
+    "brownn sugar": "C0062",
+    "brwn sugar": "C0062",
+    "bread": "C0063",
+    "bred": "C0063",
+    "breadcrumbs": "C0064",
+    "breaddcrumbs": "C0064",
+    "broccoli": "C0065",
+    "brocn sugar": "C0066",
+    "brow nsugar": "C0067",
+    "brusels sprouts": "C0068",
+    "brussels sprouts": "C0068",
+    "brusseos sprouts": "C0068",
+    "btter": "C0069",
+    "butter": "C0069",
+    "buter": "C0070",
+    "buttar": "C0071",
+    "butttar": "C0071",
+    "buttter": "C0072",
+    "buutter": "C0073",
+    "b\u00e9chamel sauce": "C0074",
+    "caarrots)": "C0075",
+    "carrots)": "C0075",
+    "caeprs": "C0076",
+    "canned tomatoes": "C0077",
+    "cannedd tomatoes": "C0077",
+    "cannli cream filling": "C0078",
+    "cannoli cream filling": "C0078",
+    "cannoli cream fillling": "C0078",
+    "capers": "C0079",
+    "caramelized onions": "C0080",
+    "caramelizedwonions": "C0080",
+    "carmelized onions": "C0080",
+    "carmlized onions": "C0080",
+    "carroots": "C0081",
+    "carrots": "C0081",
+    "carrot": "C0082",
+    "cayenen pepper": "C0083",
+    "cayenn epepper": "C0083",
+    "cayenne epper": "C0083",
+    "cayenne pepper": "C0083",
+    "cayenne pgpper": "C0084",
+    "cazenne pepper": "C0085",
+    "ccispy duck confit": "C0086",
+    "celerry": "C0087",
+    "celery": "C0087",
+    "chcken breast": "C0088",
+    "chicen breast": "C0088",
+    "chicke breast": "C0088",
+    "chicken breast": "C0088",
+    "chicken breaast": "C0088",
+    "chicken breaot": "C0088",
+    "chicken breasts": "C0088",
+    "chicken breaut": "C0088",
+    "chickken breast": "C0088",
+    "chickxn breast": "C0088",
+    "cicken breast": "C0088",
+    "cihcken breast": "C0088",
+    "cheddar cheese": "C0089",
+    "cheeese": "C0090",
+    "cheese": "C0090",
+    "cheese (oaxaca or monterey jack)": "C0091",
+    "cheese (such as provolone or cheddar)": "C0092",
+    "cheese (such as provolone or heddar)": "C0093",
+    "cheese (quch as provolone or heddar)": "C0093",
+    "cherry tomatoes": "C0094",
+    "chicekn": "C0095",
+    "chicke nbroth": "C0096",
+    "chicken": "C0097",
+    "chicken breaxts": "C0098",
+    "chicken broth": "C0099",
+    "chickpea broth": "C0099",
+    "chicken htighs": "C0100",
+    "chicken thighs": "C0100",
+    "chicken or pork broth": "C0101",
+    "chicken or shrimp": "C0102",
+    "chicken reast": "C0103",
+    "chicken wings": "C0104",
+    "chickpeas": "C0105",
+    "chili flakes": "C0106",
+    "chili flakkes": "C0106",
+    "chili oil": "C0107",
+    "ciili oil": "C0107",
+    "chlii oil": "C0107",
+    "chili peppeds": "C0108",
+    "chili peppers": "C0108",
+    "chili peppesr": "C0108",
+    "chili powdder": "C0109",
+    "chili powder": "C0109",
+    "chili powwder": "C0109",
+    "chili sauce": "C0110",
+    "chipotle peppers in adobo sauce": "C0111",
+    "chipotle peppers in aobo sauce": "C0111",
+    "chocolate chips": "C0112",
+    "chocoltae chips": "C0112",
+    "chocolatee chips": "C0112",
+    "chocolatec hips": "C0113",
+    "chorizo or ham": "C0114",
+    "cilaetro": "C0115",
+    "cilatnro": "C0115",
+    "cilatro": "C0115",
+    "cilanto": "C0116",
+    "cilantro": "C0116",
+    "cilwntro": "C0117",
+    "cinanmon": "C0118",
+    "cinnamn": "C0119",
+    "cinnamon": "C0119",
+    "cinnamon sticks": "C0120",
+    "cinnamon sticsk": "C0120",
+    "cninamon sticks": "C0120",
+    "clams": "C0121",
+    "clasm": "C0122",
+    "cloves": "C0123",
+    "coves": "C0123",
+    "clovse": "C0124",
+    "cmuin": "C0125",
+    "cuin": "C0125",
+    "coconut miilk": "C0126",
+    "coconut milk": "C0126",
+    "cocoonut milk": "C0126",
+    "cognac": "C0127",
+    "cognc": "C0127",
+    "coiander": "C0128",
+    "cooriander": "C0128",
+    "coriandder": "C0128",
+    "coriander": "C0128",
+    "coriandr": "C0128",
+    "criander": "C0128",
+    "cokoed rice": "C0129",
+    "cooekd rice": "C0129",
+    "cooked rice": "C0129",
+    "confectioners' sugar": "C0130",
+    "cooked rive": "C0131",
+    "coriander powder": "C0132",
+    "coriander ppowder": "C0132",
+    "corinader": "C0133",
+    "corn": "C0134",
+    "corn on the cob": "C0135",
+    "cornstarch": "C0136",
+    "crab stick": "C0137",
+    "crarots)": "C0138",
+    "crawfish boil spice": "C0139",
+    "crispy duck confit": "C0140",
+    "crispy duck conkit": "C0140",
+    "crisyp duck confit": "C0140",
+    "crispy dck conkit": "C0140",
+    "crispy prosciutto": "C0141",
+    "crispy prosicutto": "C0141",
+    "crispyy prosciutto": "C0141",
+    "crispyy prosciuutto": "C0141",
+    "crispy tortillas": "C0142",
+    "crubled blue cheese": "C0143",
+    "crumbled blue cheese": "C0143",
+    "cucimber": "C0144",
+    "cucuber": "C0145",
+    "cucumber": "C0145",
+    "cucumbers": "C0145",
+    "cucumber seeds": "C0146",
+    "cucumbr seeds": "C0146",
+    "cucumbfr": "C0147",
+    "cucumbr": "C0147",
+    "cucumbre": "C0147",
+    "cuhin": "C0148",
+    "cuimn": "C0149",
+    "cumn": "C0149",
+    "cumfn": "C0150",
+    "cumhn": "C0151",
+    "cumi powder": "C0152",
+    "cumin porder": "C0152",
+    "cumin powder": "C0152",
+    "cumin powwder": "C0152",
+    "cumin powwdder": "C0152",
+    "cumiin": "C0153",
+    "cumin": "C0153",
+    "cummin": "C0154",
+    "cumni": "C0155",
+    "curry powder": "C0156",
+    "cuumber": "C0157",
+    "cxmin": "C0158",
+    "dcied tomatoes": "C0159",
+    "diced tomatoes": "C0159",
+    "dried apricots": "C0160",
+    "dried aprgcots": "C0160",
+    "dried basil": "C0161",
+    "drried basil": "C0161",
+    "dried black beans": "C0162",
+    "dried cranbberries": "C0163",
+    "dried cranberries": "C0163",
+    "duck breasst": "C0164",
+    "duck breast": "C0164",
+    "duck brreasst": "C0164",
+    "duck meat": "C0165",
+    "egg": "C0166",
+    "eggg": "C0167",
+    "eggplant": "C0168",
+    "eggs": "C0169",
+    "egs": "C0170",
+    "enchilada sauce": "C0171",
+    "extra virgin olive oil": "C0172",
+    "extra virgin olve oil": "C0172",
+    "fajita seasoning": "C0173",
+    "fajjita seasoning": "C0173",
+    "fennel": "C0174",
+    "fermented bean paste": "C0175",
+    "fet cheese": "C0176",
+    "feta cheese": "C0176",
+    "feta sheese": "C0177",
+    "fettuccine pasta": "C0178",
+    "fich sauce": "C0179",
+    "fish sauce": "C0179",
+    "fsih sauce": "C0179",
+    "fish": "C0180",
+    "fish (preferablly mahi-mahi or tilapia)": "C0181",
+    "fish (preferably mahi-mahi or tilapia)": "C0181",
+    "fish and shellfish (such as mussels": "C0182",
+    "fish and shhellfish (such as mussels": "C0182",
+    "fish asuce": "C0183",
+    "fish balls": "C0184",
+    "fsih balls": "C0184",
+    "fish of your choice": "C0185",
+    "fish stock": "C0186",
+    "fisw sauce": "C0187",
+    "five-spice powder": "C0188",
+    "fivve-spice powder": "C0188",
+    "flour": "C0189",
+    "french bread": "C0190",
+    "french rbead": "C0191",
+    "fresh basil": "C0192",
+    "fresh fruits (such as strawberries": "C0193",
+    "fruit (such as strawberries": "C0193",
+    "fried egg": "C0194",
+    "fried eggg": "C0194",
+    "fried tortilla cihps": "C0195",
+    "fries (opaional)": "C0196",
+    "fries (optional)": "C0196",
+    "friees (optional)": "C0196",
+    "fruit jam": "C0197",
+    "gaarlic": "C0198",
+    "garlic": "C0198",
+    "gahlic": "C0199",
+    "galic": "C0199",
+    "galangal": "C0200",
+    "galric": "C0201",
+    "garic": "C0201",
+    "gaqlic": "C0202",
+    "garam maala": "C0203",
+    "garam masala": "C0203",
+    "garam masawa": "C0203",
+    "garam maswla": "C0203",
+    "garamcmasala": "C0203",
+    "gram masala": "C0203",
+    "garilc": "C0204",
+    "garlc": "C0204",
+    "garlci": "C0205",
+    "garlic powder": "C0206",
+    "garliic": "C0207",
+    "garllic": "C0208",
+    "garlyc": "C0209",
+    "garrlic": "C0210",
+    "garsic": "C0211",
+    "geen onions": "C0212",
+    "greeen onions": "C0212",
+    "greei onions": "C0212",
+    "green onion": "C0212",
+    "green onions": "C0212",
+    "green onoins": "C0212",
+    "green onons": "C0212",
+    "greenn onions": "C0212",
+    "grreen onions": "C0212",
+    "ghee or vegetable oil": "C0213",
+    "gicger": "C0214",
+    "giger": "C0214",
+    "gidger": "C0215",
+    "giinger": "C0216",
+    "ginger": "C0216",
+    "gineer": "C0217",
+    "ginfer": "C0218",
+    "gingger": "C0219",
+    "gingor": "C0220",
+    "gingr": "C0220",
+    "gingwr": "C0221",
+    "gjound beef": "C0222",
+    "ground beef": "C0222",
+    "grround beef": "C0222",
+    "glass noodles": "C0223",
+    "gmrlic": "C0224",
+    "grlic": "C0224",
+    "gnger": "C0225",
+    "gniger": "C0225",
+    "gochjuang": "C0226",
+    "gochuang": "C0226",
+    "gochujang": "C0226",
+    "gochujang paste": "C0227",
+    "gochujaxg": "C0228",
+    "gochuujang": "C0229",
+    "gohujang": "C0229",
+    "gralic": "C0230",
+    "granulated sugar": "C0231",
+    "grape leaves": "C0232",
+    "grated parmesan cheese": "C0233",
+    "grated cheese": "C0234",
+    "grated giger": "C0235",
+    "grated ginger": "C0235",
+    "gratedd ginger": "C0235",
+    "grated ignger": "C0236",
+    "grated mozzarella cheese": "C0237",
+    "melted mozzarella cheese": "C0237",
+    "grated parmesan": "C0238",
+    "green beans": "C0239",
+    "green curry passte": "C0240",
+    "green curry paste": "C0240",
+    "green ucrry paste": "C0241",
+    "gribs": "C0242",
+    "grilled pork or chicken": "C0243",
+    "grilled pork or tofu": "C0244",
+    "grilled pork sausage": "C0245",
+    "grits": "C0246",
+    "ground beef or pork": "C0247",
+    "ground byef": "C0248",
+    "ground cinnamon": "C0249",
+    "ground coriander": "C0250",
+    "ground cumin": "C0251",
+    "ground lamb": "C0252",
+    "ground lamb or beef": "C0253",
+    "ground meat (beef or lamb)": "C0254",
+    "lamb or beef gyro meat": "C0254",
+    "ground pork": "C0255",
+    "hard-boiled eggs": "C0256",
+    "heavy cream": "C0257",
+    "hevay cream": "C0257",
+    "heavy iream": "C0258",
+    "here are the main ingredients": "C0259",
+    "hoagie oolls": "C0260",
+    "hoagie rolls": "C0260",
+    "hoisin sauce": "C0261",
+    "horsin sauce": "C0261",
+    "hot pot broth (with soy sauce": "C0262",
+    "italian sausage": "C0263",
+    "jalape\u00f1os": "C0264",
+    "jerk seasoning": "C0265",
+    "kaamata olives": "C0266",
+    "kalamata olives": "C0266",
+    "kidney beans": "C0267",
+    "kiimchi": "C0268",
+    "kimchi": "C0268",
+    "kimchi slaw": "C0269",
+    "kimmchi": "C0270",
+    "korean chili flakes": "C0271",
+    "korean chili flakse": "C0271",
+    "korean chili flazes": "C0271",
+    "lamb": "C0272",
+    "lamb shoueder": "C0273",
+    "lamb shoulder": "C0273",
+    "lambb or beef gyro meat": "C0274",
+    "large shrimp": "C0275",
+    "lemno juice": "C0276",
+    "lemon juice": "C0276",
+    "lemon juicce": "C0276",
+    "lemon": "C0277",
+    "lemons": "C0277",
+    "lemon jiuce": "C0278",
+    "lemon jucie": "C0278",
+    "leomn jiuce": "C0278",
+    "lemon juiec": "C0279",
+    "lemon ouice": "C0280",
+    "lemon ujice": "C0280",
+    "lemon zest": "C0281",
+    "lemongarss": "C0282",
+    "lemongrass": "C0282",
+    "lemonz est": "C0283",
+    "leron": "C0284",
+    "letttce": "C0285",
+    "lettuce": "C0286",
+    "liem juice": "C0287",
+    "lim ejuice": "C0287",
+    "lime juice": "C0287",
+    "lime leaves": "C0288",
+    "lime ujice": "C0289",
+    "limee juice": "C0290",
+    "lme juice": "C0290",
+    "maoynnaise": "C0291",
+    "mayonnaise": "C0291",
+    "marinara sauce": "C0292",
+    "marsala wine": "C0293",
+    "massaman curry paste": "C0294",
+    "mayonnase": "C0295",
+    "miirn": "C0296",
+    "miixed cilantro": "C0297",
+    "mixed cilantro": "C0297",
+    "milk": "C0298",
+    "mint": "C0299",
+    "miqin": "C0300",
+    "mirin": "C0301",
+    "mirkn": "C0302",
+    "mixed ggreens": "C0303",
+    "mixed greens": "C0303",
+    "mixed grelns": "C0303",
+    "mixed reens": "C0304",
+    "monterey jack cheese": "C0305",
+    "mozzarella cheese": "C0306",
+    "mushrooms": "C0307",
+    "mushroooms": "C0307",
+    "musrooms": "C0307",
+    "mussels": "C0308",
+    "naa bread": "C0309",
+    "naan bread": "C0309",
+    "naan zread": "C0310",
+    "nodoles": "C0311",
+    "noodles": "C0312",
+    "nooldes": "C0313",
+    "nori seaweed sheest": "C0314",
+    "nori seaweed sheets": "C0314",
+    "nori sewweed sheets": "C0314",
+    "nroi seaweed sheets": "C0314",
+    "nroi seaweedd sheets": "C0314",
+    "nutmeg": "C0315",
+    "odion": "C0316",
+    "odions": "C0316",
+    "oinon": "C0317",
+    "onon": "C0317",
+    "oions": "C0318",
+    "oive oil": "C0319",
+    "oliive oil": "C0319",
+    "olive il": "C0319",
+    "olive oiil": "C0319",
+    "olive oil": "C0319",
+    "olivee oil": "C0319",
+    "olve oil": "C0319",
+    "onive oil": "C0319",
+    "opive oil": "C0319",
+    "old bay seasoning": "C0320",
+    "oliev oil": "C0321",
+    "oliv eoil": "C0321",
+    "oliwe oil": "C0321",
+    "olvie oil": "C0321",
+    "olive okl": "C0322",
+    "olive ol": "C0322",
+    "olive oli": "C0322",
+    "olive ooil": "C0323",
+    "oliveoil": "C0323",
+    "olives": "C0324",
+    "onbons": "C0325",
+    "onons": "C0325",
+    "oniions": "C0326",
+    "onions": "C0326",
+    "oninos": "C0327",
+    "onion": "C0328",
+    "oniosn": "C0328",
+    "onnion": "C0328",
+    "onionns": "C0329",
+    "onioons": "C0330",
+    "onioys": "C0331",
+    "onirns": "C0332",
+    "onivn": "C0333",
+    "onnions": "C0334",
+    "onoins": "C0335",
+    "or raspberries)": "C0336",
+    "oregaho": "C0337",
+    "oreganno": "C0338",
+    "oregano": "C0338",
+    "orvgano": "C0339",
+    "oyster sauce": "C0340",
+    "oyster suce": "C0340",
+    "paaprika": "C0341",
+    "paprika": "C0341",
+    "paprikka": "C0341",
+    "palm sugar": "C0342",
+    "panakes": "C0343",
+    "pancakes": "C0343",
+    "papriga": "C0344",
+    "parmeean cheese": "C0345",
+    "parmesa ncheese": "C0345",
+    "parmesan cheese": "C0345",
+    "parmesan chnese": "C0345",
+    "parmessan cheese": "C0345",
+    "pasmesan cheese": "C0345",
+    "parpika": "C0346",
+    "parrsley": "C0347",
+    "parsley": "C0347",
+    "parsly": "C0348",
+    "parslye": "C0348",
+    "pasley": "C0349",
+    "prasley": "C0349",
+    "pasry dough": "C0350",
+    "pastry dough": "C0350",
+    "pasta": "C0351",
+    "pastr ydough": "C0352",
+    "pckles": "C0353",
+    "pickles": "C0353",
+    "peanujs": "C0354",
+    "peanut butter": "C0355",
+    "peanut oil": "C0356",
+    "peanuut oil": "C0356",
+    "peanutb utter": "C0357",
+    "peanuts": "C0358",
+    "peaunts": "C0359",
+    "penauts": "C0360",
+    "pepper": "C0361",
+    "peppers": "C0361",
+    "peppkr": "C0362",
+    "peppur": "C0363",
+    "picanha steak": "C0364",
+    "picjled ginger": "C0365",
+    "pickled ginger": "C0365",
+    "pickled carrots": "C0366",
+    "pickled carrrots": "C0366",
+    "pickled carrots and daikon": "C0367",
+    "pickled turnips": "C0368",
+    "pineapple": "C0369",
+    "pit bread": "C0370",
+    "pita bread": "C0370",
+    "poork": "C0371",
+    "pork": "C0371",
+    "pootatoes": "C0372",
+    "potatoes": "C0372",
+    "potatooes": "C0372",
+    "pork chops": "C0373",
+    "pork or beef": "C0374",
+    "pork or tofu": "C0375",
+    "pork ribs": "C0376",
+    "pork shouldeer": "C0377",
+    "pork shoulder": "C0377",
+    "pork sohulder": "C0377",
+    "pork sooulder": "C0377",
+    "porkchops": "C0378",
+    "portobello muahrooms": "C0379",
+    "portobello mushoooms": "C0379",
+    "portobello mushrooms": "C0379",
+    "potateos": "C0380",
+    "preserved lelons": "C0381",
+    "preserved lemons": "C0381",
+    "preserved lemows": "C0381",
+    "preserved lpmons": "C0381",
+    "presserved lemons": "C0381",
+    "puff pastry": "C0382",
+    "queso fesco": "C0383",
+    "queso fresco": "C0383",
+    "quinoa": "C0384",
+    "raare beef": "C0385",
+    "rare beef": "C0385",
+    "rabbit or veal": "C0386",
+    "ramen noodles": "C0387",
+    "rcie": "C0388",
+    "rde pepper flakes": "C0389",
+    "red pepper flaeks": "C0389",
+    "red pepper flakes": "C0389",
+    "red peppper flakes": "C0389",
+    "red bell lepper": "C0390",
+    "red bell pepper": "C0390",
+    "red bell peppers": "C0390",
+    "red chili flakes": "C0391",
+    "red oinon": "C0392",
+    "red onion": "C0392",
+    "red oonion": "C0393",
+    "red wine": "C0394",
+    "ren wine": "C0394",
+    "red wwine": "C0394",
+    "red wine vinegar": "C0395",
+    "red wine vinegra": "C0395",
+    "riae vinegar": "C0396",
+    "rice vinegar": "C0396",
+    "riec vinegar": "C0396",
+    "rile vinegar": "C0396",
+    "ric noodles": "C0397",
+    "rice noodles": "C0397",
+    "ricce": "C0398",
+    "rice": "C0398",
+    "rice flour": "C0399",
+    "riec flour": "C0399",
+    "rice paper wrappers": "C0400",
+    "ricotta cheeese": "C0401",
+    "ricotta cheese": "C0401",
+    "riice": "C0402",
+    "rine": "C0403",
+    "risotto": "C0404",
+    "rld onion": "C0405",
+    "roasted poblano peppers": "C0406",
+    "roasted poblanoo peppers": "C0406",
+    "rosemary": "C0407",
+    "rouilel": "C0408",
+    "rouille": "C0409",
+    "rouille (mayo)": "C0410",
+    "rouille (mayyo)": "C0410",
+    "saalt": "C0411",
+    "salt": "C0411",
+    "saek": "C0412",
+    "saet": "C0413",
+    "safffron": "C0414",
+    "saffron": "C0414",
+    "saffroon": "C0414",
+    "saffron threads": "C0415",
+    "saffrqn": "C0416",
+    "sagar": "C0417",
+    "sake": "C0418",
+    "salas": "C0419",
+    "sallt": "C0420",
+    "salmon filet": "C0421",
+    "salmon fillet": "C0421",
+    "salmon fillets": "C0421",
+    "sdlmon fillet": "C0421",
+    "salmon or tuna sashimi": "C0422",
+    "salson or tuna sashimi": "C0422",
+    "salsa": "C0423",
+    "samt": "C0424",
+    "saot": "C0425",
+    "sat": "C0426",
+    "satl": "C0427",
+    "sausage": "C0428",
+    "sayt": "C0429",
+    "scalions": "C0430",
+    "scalliions": "C0430",
+    "scallions": "C0430",
+    "scallifns": "C0431",
+    "scalliosn": "C0432",
+    "scalloops": "C0433",
+    "scallops": "C0433",
+    "scotch bonnet peppers": "C0434",
+    "scrambled eggs": "C0435",
+    "seak": "C0436",
+    "steak": "C0436",
+    "seame seeds": "C0437",
+    "seasme seeds": "C0437",
+    "sesame oiil": "C0438",
+    "sesame oil": "C0438",
+    "sesame seeds": "C0439",
+    "sfy sauce": "C0440",
+    "shallots": "C0441",
+    "sherdded cheddar cheese": "C0442",
+    "shredded cheddar cheese": "C0442",
+    "shredded cheese": "C0443",
+    "shredded cabbage": "C0444",
+    "shredded chicken": "C0445",
+    "shredded lettuce": "C0446",
+    "shriimp": "C0447",
+    "shrimp": "C0447",
+    "sichuan peppercorns": "C0448",
+    "sichuna peppercorns": "C0448",
+    "szechuan peppercorns": "C0448",
+    "skinless chicken breasts": "C0449",
+    "slat": "C0450",
+    "slt": "C0451",
+    "smac": "C0452",
+    "sumac": "C0452",
+    "smoked paprika": "C0453",
+    "smoked laprika": "C0453",
+    "smoked sausage": "C0454",
+    "snlt": "C0455",
+    "so sauce": "C0456",
+    "sooy sauce": "C0456",
+    "soy sauce": "C0456",
+    "soy sauuce": "C0456",
+    "soyy sauce": "C0456",
+    "sour cqeam": "C0457",
+    "sour cream": "C0457",
+    "sour orange juice": "C0458",
+    "sour vrange juice": "C0459",
+    "soy dauce": "C0460",
+    "soy sacce": "C0461",
+    "soy suace": "C0462",
+    "soygsauce": "C0463",
+    "spaghetti": "C0464",
+    "sppaghetti": "C0464",
+    "spiach": "C0465",
+    "spinach": "C0465",
+    "splt": "C0466",
+    "spring roll wrappers": "C0467",
+    "sriracha": "C0468",
+    "srriacha": "C0468",
+    "sriracha mayo": "C0469",
+    "srirgcha mayo": "C0469",
+    "star anise": "C0470",
+    "star naise": "C0470",
+    "steaemd buns": "C0471",
+    "steamed buns": "C0471",
+    "steeak": "C0472",
+    "steka": "C0473",
+    "sub rolls": "C0474",
+    "sugar": "C0475",
+    "sugr": "C0475",
+    "sugsr": "C0476",
+    "sulac": "C0477",
+    "sumvc": "C0478",
+    "sushi rice": "C0479",
+    "sweet potatoes": "C0480",
+    "sylt": "C0481",
+    "taamarind paste": "C0482",
+    "tamaridn paste": "C0482",
+    "tamarind paste": "C0482",
+    "tamarnid paste": "C0482",
+    "tlmarind paste": "C0482",
+    "taco seaoning": "C0483",
+    "taco seasoning": "C0483",
+    "tamarind": "C0484",
+    "teriyaki sauce": "C0485",
+    "teriyaki sauje": "C0485",
+    "teriykai sauce": "C0485",
+    "teriyaki suje": "C0485",
+    "tfu": "C0486",
+    "thai basil": "C0487",
+    "thia basil": "C0487",
+    "thme": "C0488",
+    "thmye": "C0488",
+    "thyme": "C0488",
+    "toamto": "C0489",
+    "toamto paste": "C0490",
+    "tomato aste": "C0490",
+    "tomato passte": "C0490",
+    "tomato paste": "C0490",
+    "toasted almmonds": "C0491",
+    "toasted almnnds": "C0491",
+    "toasted almonds": "C0491",
+    "toasted peanuts": "C0492",
+    "toasted sesame seeds": "C0493",
+    "toasted sesame sees": "C0493",
+    "toasted sesame sewds": "C0494",
+    "toasted sesame yeeds": "C0495",
+    "tofu": "C0496",
+    "tomaot": "C0497",
+    "tomaot puree": "C0498",
+    "tomato puree": "C0498",
+    "tomtao puree": "C0498",
+    "tomat opaste": "C0499",
+    "tomatillos": "C0500",
+    "tomato": "C0501",
+    "tomatto": "C0501",
+    "tomato sauce": "C0502",
+    "tomatoes": "C0503",
+    "tomatos": "C0503",
+    "tomtaoes": "C0503",
+    "toritllas": "C0504",
+    "tortilals": "C0505",
+    "tortillaas": "C0506",
+    "tortillas": "C0506",
+    "touf": "C0507",
+    "tpmato paste": "C0508",
+    "tsmato": "C0509",
+    "tzatziki sauce": "C0510",
+    "unsalted butter": "C0511",
+    "vanilla extract": "C0512",
+    "vanilla extyact": "C0512",
+    "vanilla exxtract": "C0512",
+    "veal stock": "C0513",
+    "vegetabble oil": "C0514",
+    "vegetabe oil": "C0514",
+    "vegetable oil": "C0514",
+    "vegetale oil": "C0514",
+    "vegetable broth": "C0515",
+    "vegetables": "C0516",
+    "vegetables (bell peppers": "C0517",
+    "vegetables (ell peppers": "C0517",
+    "vegetables (such as carrots": "C0518",
+    "vegetables (zucchini": "C0519",
+    "vineagr": "C0520",
+    "vinegar": "C0521",
+    "wasabi": "C0522",
+    "water": "C0523",
+    "white wine": "C0524",
+    "white yine": "C0524",
+    "whlte wine": "C0524",
+    "wonton wrappers": "C0525",
+    "wonton wrappvrs": "C0525",
+    "worcestershire sauce": "C0526",
+    "yocurt": "C0527",
+    "yogrt": "C0528",
+    "yogurt": "C0528",
+    "yougrt": "C0528",
+    "yogut": "C0529",
+    "yogutr": "C0529",
+    "your choice of protein (chicken": "C0530",
+    "yoxurt": "C0531",
+    "zucchini": "C0532",
+    "chuli powwder": "C0533",
+    "tomaotppuree": "C0534",
+    "rari beef": "C0535",
+    "rouclle": "C0536",
+    "scallliions": "C0537",
+    "parmessan chdese": "C0538",
+    "sta": "C0539",
+    "sooy yauce": "C0540",
+    "ginefr": "C0541",
+    "lemonkjuiec": "C0542",
+    "galirc": "C0543"
+  },
+  "stats": {
+    "input_rows": 901,
+    "clusters": 543,
+    "merge_map_size": 889,
+    "missing_labels": 0
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "profile": [
+    {
+      "sheet": "Recipes",
+      "row_count": 1000,
+      "columns": [
+        {
+          "name": "recipe_id",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 1000,
+          "top_values": [
+            "RC0001",
+            "RC0002",
+            "RC0003",
+            "RC0004",
+            "RC0005"
+          ]
+        },
+        {
+          "name": "recipe_name",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 169,
+          "top_values": [
+            "Indian Butter Chicken Naan",
+            "Peruvian Lomo Saltado Stir-Fry",
+            "Chicken Tikka Masala",
+            "Here are 25 diverse recipe names from various cuisines:",
+            "Moroccan Chickpea Stew"
+          ]
+        },
+        {
+          "name": "restaurant_id",
+          "dtype": "str",
+          "null_count": 642,
+          "distinct_count": 98,
+          "top_values": [
+            "R0011",
+            "R0002",
+            "R0014",
+            "R0085",
+            "R0044"
+          ]
+        },
+        {
+          "name": "restaurant_name",
+          "dtype": "str",
+          "null_count": 613,
+          "distinct_count": 150,
+          "top_values": [
+            "Bistro Bliss",
+            "Ember & Oak",
+            "The Gilded Fork",
+            "The Daily Catch",
+            "The Red Ember"
+          ]
+        },
+        {
+          "name": "menu_id",
+          "dtype": "str",
+          "null_count": 867,
+          "distinct_count": 67,
+          "top_values": [
+            "M0077",
+            "M0023",
+            "M0095",
+            "M0027",
+            "M0037"
+          ]
+        },
+        {
+          "name": "ingredients",
+          "dtype": "str",
+          "null_count": 110,
+          "distinct_count": 617,
+          "top_values": [
+            "Rice|Korean chili flakes|cucumber|carrots|zucchini|shrimp|spinach|scallions|gochujang",
+            "chicken breasts|fettuccine pasta|parmesan cheese|heavy cream|butter|salt|black pepper|garlic powder|dried basil",
+            "Eggplant|ground lamb or beef|tomato paste|olive oil|onions|garlic|tomatoes|b\u00e9chamel sauce|feta cheese",
+            "lamb shoulder|onions|ginger|garlic|cinnamon|cumin|coriander|preserved lemons|olive oil",
+            "beef strips|onions|tomatoes|aji amarillo peppers|soy sauce|rice vinegar|garlic|peanut oil|scallions|fries (optional)"
+          ]
+        }
+      ]
+    },
+    {
+      "sheet": "Restaurants",
+      "row_count": 100,
+      "columns": [
+        {
+          "name": "restaurant_id",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 100,
+          "top_values": [
+            "R0001",
+            "R0002",
+            "R0003",
+            "R0004",
+            "R0005"
+          ]
+        },
+        {
+          "name": "name",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 87,
+          "top_values": [
+            "The Gilded Fork",
+            "Bistro Bliss",
+            "The Red Ember",
+            "Bombay Nights",
+            "The Spice Route"
+          ]
+        },
+        {
+          "name": "cuisine_type",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 18,
+          "top_values": [
+            "Mediterranean",
+            "Indian",
+            "Fusion",
+            "Asian",
+            "American"
+          ]
+        },
+        {
+          "name": "city",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 17,
+          "top_values": [
+            "San Diego",
+            "Chicago",
+            "Las Vegas",
+            "Phoenix",
+            "San Antonio"
+          ]
+        }
+      ]
+    },
+    {
+      "sheet": "Menus",
+      "row_count": 100,
+      "columns": [
+        {
+          "name": "menu_id",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 100,
+          "top_values": [
+            "M0001",
+            "M0002",
+            "M0003",
+            "M0004",
+            "M0005"
+          ]
+        },
+        {
+          "name": "restaurant_id",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 67,
+          "top_values": [
+            "R0011",
+            "R0015",
+            "R0016",
+            "R0031",
+            "R0037"
+          ]
+        },
+        {
+          "name": "menu_name",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 15,
+          "top_values": [
+            "Lunch Special",
+            "All Day Menu",
+            "Vegetarian Menu",
+            "Chef's Special",
+            "Fixed Menu"
+          ]
+        },
+        {
+          "name": "description",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 100,
+          "top_values": [
+            "Happy Hour Menu at Sakura Bites",
+            "Vegetarian Menu at The Red Ember",
+            "Late Night Menu at La Casa de Tacos",
+            "All Day Menu at La Casa de Tacos",
+            "All Day Menu at Bombay Nights"
+          ]
+        }
+      ]
+    },
+    {
+      "sheet": "Ingredients",
+      "row_count": 901,
+      "columns": [
+        {
+          "name": "ingredient_id",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 901,
+          "top_values": [
+            "I0001",
+            "I0002",
+            "I0003",
+            "I0004",
+            "I0005"
+          ]
+        },
+        {
+          "name": "name",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 899,
+          "top_values": [
+            "balsamic vinegar",
+            "oive oil",
+            "aji aarillo peppers",
+            "aji amarillo peppers",
+            "aji amarillo peppes"
+          ]
+        },
+        {
+          "name": "category",
+          "dtype": "str",
+          "null_count": 0,
+          "distinct_count": 11,
+          "top_values": [
+            "Spice",
+            "Vegetable",
+            "Herb",
+            "Sweetener",
+            "Protein"
+          ]
+        }
+      ]
+    }
+  ],
+  "fk_candidates": [
+    {
+      "from": "recipes.restaurant_id",
+      "to": "restaurants.restaurant_id",
+      "match_rate": 1.0,
+      "src_distinct": 98,
+      "tgt_distinct": 100
+    },
+    {
+      "from": "recipes.restaurant_id",
+      "to": "menus.restaurant_id",
+      "match_rate": 0.663,
+      "src_distinct": 98,
+      "tgt_distinct": 67
+    },
+    {
+      "from": "recipes.menu_id",
+      "to": "menus.menu_id",
+      "match_rate": 1.0,
+      "src_distinct": 67,
+      "tgt_distinct": 100
+    },
+    {
+      "from": "restaurants.restaurant_id",
+      "to": "recipes.restaurant_id",
+      "match_rate": 0.98,
+      "src_distinct": 100,
+      "tgt_distinct": 98
+    },
+    {
+      "from": "restaurants.restaurant_id",
+      "to": "menus.restaurant_id",
+      "match_rate": 0.67,
+      "src_distinct": 100,
+      "tgt_distinct": 67
+    },
+    {
+      "from": "menus.menu_id",
+      "to": "recipes.menu_id",
+      "match_rate": 0.67,
+      "src_distinct": 100,
+      "tgt_distinct": 67
+    },
+    {
+      "from": "menus.restaurant_id",
+      "to": "recipes.restaurant_id",
+      "match_rate": 0.97,
+      "src_distinct": 67,
+      "tgt_distinct": 98
+    },
+    {
+      "from": "menus.restaurant_id",
+      "to": "restaurants.restaurant_id",
+      "match_rate": 1.0,
+      "src_distinct": 67,
+      "tgt_distinct": 100
+    }
+  ],
+  "name_pairs": [
+    {
+      "from": "recipes.restaurant_name",
+      "to": "restaurants.name",
+      "matchable_rows": 387
+    }
+  ],
+  "detected_issues": [
+    {
+      "table": "recipes",
+      "column": "restaurant_id",
+      "issue": "high_null_rate",
+      "rate": 0.642,
+      "affected_count": 642
+    },
+    {
+      "table": "recipes",
+      "column": "restaurant_name",
+      "issue": "high_null_rate",
+      "rate": 0.613,
+      "affected_count": 613
+    },
+    {
+      "table": "recipes",
+      "column": "menu_id",
+      "issue": "high_null_rate",
+      "rate": 0.867,
+      "affected_count": 867
+    }
+  ],
+  "strategy": {
+    "relationships": [
+      {
+        "source": "recipes.restaurant_id",
+        "target": "restaurants.restaurant_id",
+        "method": "exact",
+        "when": "IF_SOURCE_NOT_NULL",
+        "fuzzy_threshold": null
+      },
+      {
+        "source": "recipes.restaurant_name",
+        "target": "restaurants.name",
+        "method": "fuzzy",
+        "when": "IF_SOURCE_NULL_AND_NAME_AVAILABLE",
+        "fuzzy_threshold": 0.85
+      },
+      {
+        "source": "recipes.menu_id",
+        "target": "menus.menu_id",
+        "method": "exact",
+        "when": "IF_SOURCE_NOT_NULL",
+        "fuzzy_threshold": null
+      },
+      {
+        "source": "menus.restaurant_id",
+        "target": "restaurants.restaurant_id",
+        "method": "exact",
+        "when": "ALWAYS",
+        "fuzzy_threshold": null
+      }
+    ],
+    "global_fuzzy_threshold": 0.85,
+    "cleaning_targets": [
+      "Ingredients",
+      "Recipes"
+    ],
+    "quality_issues": [
+      {
+        "table": "recipes",
+        "column": "restaurant_id",
+        "issue": "high_null_rate",
+        "matters": true,
+        "reason": "A high null rate prevents direct ID-based linking for a significant portion of recipes, necessitating alternative linking strategies."
+      },
+      {
+        "table": "recipes",
+        "column": "restaurant_name",
+        "issue": "high_null_rate",
+        "matters": true,
+        "reason": "A high null rate limits the effectiveness of fuzzy name matching as a fallback when restaurant_id is missing, reducing overall linkability."
+      },
+      {
+        "table": "recipes",
+        "column": "menu_id",
+        "issue": "high_null_rate",
+        "matters": true,
+        "reason": "A very high null rate indicates that most recipes are not associated with a specific menu, which could impact analysis requiring menu context."
+      }
+    ],
+    "strategy_notes": "The primary strategy involves establishing exact ID-based links where possible, prioritizing non-null foreign keys. For recipes with missing restaurant IDs, a fuzzy name-matching approach is employed as a fallback, leveraging the 'restaurant_name' column. A global fuzzy threshold of 0.85 is chosen to balance precision and recall for name matching, accounting for potential typos. Cleaning is crucial for the 'Ingredients' table due to observed spelling variations in ingredient names, and for the 'Recipes' table to address placeholder text in 'recipe_name'. The identified high null rates in 'recipes' for 'restaurant_id', 'restaurant_name', and 'menu_id' are significant quality issues that directly impact the completeness of relationships and data utility, thus requiring careful consideration during reconciliation."
+  }
+}
